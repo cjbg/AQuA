@@ -1,0 +1,4 @@
+AndroidQuizApplication.MainActivity, AndroidQuizApplication;md5dd34ab3603eff04d3d719d26ade8195b.MainActivity
+AndroidQuizApplication.MainActivity, AndroidQuizApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5dd34ab3603eff04d3d719d26ade8195b.MainActivity
+AndroidQuizApplication.MainActivity;md5dd34ab3603eff04d3d719d26ade8195b.MainActivity
+androidquizapplication.MainActivity;md5dd34ab3603eff04d3d719d26ade8195b.MainActivity
