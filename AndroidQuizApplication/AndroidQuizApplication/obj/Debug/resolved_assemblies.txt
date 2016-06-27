@@ -6,6 +6,7 @@ C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuiz
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\android\assets\System.dll
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\android\assets\System.Xml.dll
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\android\assets\System.Xml.Linq.dll
+C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\android\assets\QuizManager.dll
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\android\assets\System.Threading.dll
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\android\assets\System.Runtime.dll
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\android\assets\System.ComponentModel.Composition.dll

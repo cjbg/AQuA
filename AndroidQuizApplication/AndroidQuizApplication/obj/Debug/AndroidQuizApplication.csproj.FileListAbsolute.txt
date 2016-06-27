@@ -35,5 +35,9 @@ C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuiz
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\bin\Debug\QuizManager.dll
+C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\bin\Debug\QuizManager.pdb
+C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\bin\Debug\QuizManager.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\android\assets\QuizManager.dll.mdb
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\AndroidQuizApplication.dll.mdb
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\bin\Debug\AndroidQuizApplication.dll.mdb

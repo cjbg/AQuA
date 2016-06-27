@@ -100,6 +100,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "AndroidQuizApplication.dll" comes first in this list. */
 		"AndroidQuizApplication.dll",
 		"Java.Interop.dll",
+		"QuizManager.dll",
 		"System.Threading.dll",
 		"System.Runtime.dll",
 		"System.Collections.dll",
