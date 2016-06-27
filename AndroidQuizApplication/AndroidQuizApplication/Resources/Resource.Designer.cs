@@ -61,7 +61,7 @@ namespace AndroidQuizApplication
 		{
 			
 			// aapt resource value: 0x7f050000
-			public const int MyButton = 2131034112;
+			public const int buttonStart = 2131034112;
 			
 			static Id()
 			{
