@@ -73,9 +73,13 @@
   <ItemGroup>
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Fizjologia_Pytania_1_114.txt" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\QuizManager\QuizManager.csproj">
-      <Project>{4f3ad3b9-5460-4335-ab79-f3523088cb1d}</Project>
+      <Project>{a1431031-1d92-4f03-8527-781de4f9eca0}</Project>
       <Name>QuizManager</Name>
     </ProjectReference>
   </ItemGroup>

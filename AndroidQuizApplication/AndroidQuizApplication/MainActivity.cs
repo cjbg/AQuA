@@ -1,32 +1,51 @@
 ﻿using System;
+using System.IO;
 using Android.App;
-using Android.Content;
-using Android.Runtime;
-using Android.Views;
+using Android.Content.Res;
 using Android.Widget;
 using Android.OS;
+using QuizManager.Presenter;
+using QuizManager.View.Interface;
 
 namespace AndroidQuizApplication
 {
   [Activity(Label = "AndroidQuizApplication", MainLauncher = true, Icon = "@drawable/icon")]
-  public class MainActivity : Activity
-  {    
+  public class MainActivity : Activity, IMenuView
+  {
+    private MenuPresenter _presenter;
+
+    public bool ShuffleAnswers
+    {
+      get { throw new NotImplementedException(); }
+    }
+
+    public bool HideAnswerLetter
+    {
+      get { throw new NotImplementedException(); }
+    }
+
+    public string RepetitionNumberText
+    {
+      get { throw new NotImplementedException(); }
+    }
+
     protected override void OnCreate(Bundle bundle)
     {
-      base.OnCreate(bundle);
+      base.OnCreate(bundle);      
+      SetContentView(Resource.Layout.Main);            
 
-      // Set our view from the "main" layout resource
-      SetContentView(Resource.Layout.Main);
+      Button buttonStart = FindViewById<Button>(Resource.Id.buttonStart);
+      buttonStart.Click += OnStartClick;
 
-      // Get our button from the layout resource,
-      // and attach an event to it
-      Button button = FindViewById<Button>(Resource.Id.buttonStart);
-      button.Click += delegate
-      {
-        var intent = new Intent(this, typeof(QuizActivity));
-        StartActivity(intent);
-      };
-    }    
+      _presenter = new MenuPresenter(this);
+    }
+
+    private void OnStartClick(object sender, EventArgs e)
+    {
+      string text = _presenter.ReadQuiz();
+      var output = FindViewById<EditText>(Resource.Id.editTextOutput);
+      output.Text = text;
+    }   
   }
 }
 
