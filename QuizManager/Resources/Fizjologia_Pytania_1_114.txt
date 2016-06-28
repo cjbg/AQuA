@@ -1,0 +1,909 @@
+1 -Wchłanianie witaminy B12 zachodzi w: (789 TRACZ) 
+ODP:E
+A. Dwunastnicy 
+B. Jelicie czczym 
+C. Żołądku 
+D. Jelicie grubym 
+E. Jelicie krętym 
+
+2 -Oczopląs optokinetyczny występuje u ludzi (132 TRACZ, 25 SKRYPT) 
+ODP:D
+A. Chorych z uszkodzeniem błędnika 
+B. Zdrowych po wykonaniu próby obrotowej i ma kierunek przeciwny do kierunku obrotów
+C. Chorych po wykonaniu próby obrotowej i ma kierunek zgodny z kierunkiem obrotów 
+D. Zdrowych podczas patrzenia na szybko przesuwające się obrazy 
+E. Chorych z uszkodzeniem narządu przedsionkowego 
+
+3 -Neurony ośrodkowego generatora wzorca oddechowego tonicznie są pobudzane bodźcami 
+ODP:A
+A. Chemoreceptorów i aktywującego tworu siatkowatego pnia mózgu 
+B. Neuronów jądra zatwarzowego jądra pasma samotnego 
+C. Ośrodka apneustycznego
+D. Ośrodka pneumotaksycznego mostu
+E. Neuronów opuszkowo rdzeniowych 
+
+4 -W mechanizmie regulacji napięcia mięśniowego 192 LUB 190 TRACZ, 10 LINIJKA OD DOŁU) 
+ODP:B
+A. Neurony alfa stanowią mechanizm regulujący czułość receptora pierścienno spiralnego
+B. Unerwienie gamma stanowi mechanizm regulujący czułość receptora pierścienno spiralnego
+C. Neurony gamma nie wywierają tonicznego wpływu na wrzecionka nerwowo mięśniowe
+D. Zarówno neurony alfa i gamma wywierają toniczny wpływ na wrzecionka nerwowo mięśniowe 
+E. Unerwienie gamma stanowi mechanizm utrzymujący tonus włókien ekstrafuzalnych 
+
+5 -Zjawisko potencjalizacji długoterminowej (LPT-long term potentiation)dotyczy (223 TRACZ) 
+ODP:D
+A. Zmiany czynności bioelektrycznej mózgu w czasie trwania snu 
+B. Zjawiska hamowania bólu w rogach tylnych rdzenia kręgowego 
+C. Procesu rozprzestrzeniania się fali depolaryzacji po powierzchni kory mózgu 
+D. Podwyższenia amplitudy EPSP w procesie zapamiętywania
+E. Zjawiska hamowania czynności odruchowej rdzenia kręgowego 
+
+6 -Zdolność człowieka do słownego opisywania zdarzeń przeżytych nazywamy (230 TRACZ) 
+ODP:A
+A. Pamięcią epizodyczną 
+B. Pamięcią natychmiastową 
+C. Pamięcią semantyczną 
+D. Pamięcią nieopisową 
+E. Pamięcią świeżą 
+
+7 – Efektem biochemicznym działania kortyzolu są wymienione procesy z wyjątkiem (214 SKRYPT, 361 TRACZ) 
+ODP:D
+A. Glukoneogeneza wątrobowa 
+B. Glikogeneza wątrobowa 
+C. Katabolizm białek w mięśniach 
+D. Lipogeneza wątrobowa 
+E. Anabolizm białek w wątrobie 
+
+8 – Jaki procent zawartej w pokarmie skrobi trawiony jest w jamie ustnej i żołądku(?) (790 TRACZ, 42 STAŚ POKARMOWY ) 
+ODP:B
+A. 60-80%
+B. 20-40% 
+C. 40-60%
+D. 5-20%
+E. 80-100% 
+
+9 – Do receptorów tonicznych nie zaliczamy (95 TRACZ) 
+ODP:A
+A. Receptorów dotyku i ucisku 
+B. Większości nocyceptorów 
+C. Baroreceptorów łuku aorty i zatoki szyjnej
+D. Zakończeń pierścieniowo -spiralnych we wrzecionku mięśniowym 
+E. Ciałek buławkowatych 
+
+10 – Częstość skurczów rytmicznych w żołądku wynosi? (730 TRACZ) 
+ODP:E
+A. 2/min
+B. 5/min
+C. 12/min
+D. 8/min
+E. 3/min 
+
+11 – W reakcji ortostatycznej układu krążenia krwi nie obserwujemy: (574 TRACZ) 
+ODP:E
+A. Zwiększenia częstości skurczów serca
+B. Zwiększenia kurczliwości mięśnia sercowego 
+C. Zwiększenia ciśnienia tętniczego, zwłaszcza rozkurczowego 
+D. Zwiększenia całkowitego naczyniowego oporu obwodowego (TPR)
+E. Zwiększenia pojemności minutowej i objętości wyrzutowej 
+
+12 – Podstawowym bodźcem pobudzającym układ pragnienia jest (834 TRACZ) 
+ODP:D
+A. Wzrost osmolalności płynów ustrojowych i pobudzenie chemoreceptorów obwodowych
+B. Spadek osmolalności płynów ustrojowych i pobudzenie chemoreceptorów OUN 
+C. Spadek ciśnienia tętniczego krwi i pobudzenie komórek aparatu przykłębuszkowego 
+D. Wzrost osmolalności płynów ustrojowych i pobudzenie chemoreceptorów OUN 
+E. Spadek ciśnienia tętniczego krwi i pobudzenie baroreceptorów tt. szyjnych 
+
+13 – W czasie skurczu mięśnia szkieletowego wsuwanie się nitek aktyny pomiędzy nitki miozyny objawia się(?) 
+ODP:A
+A. Zwężeniem prążka I i zanikiem prążka H 
+B. Zwężeniem prążka I i zanikiem prążka A 
+C. Zanikiem tylko prążka A 
+D. Zanikiem tylko prążka I
+E. Zanikiem tylko prążka H 
+
+14 – Wskaźnikiem pobudliwości hamującego odruchu Heringa-Breuera jest (686 TRACZ) 
+ODP:B
+A. Wielkość objętości wdechowej do oporu dróg oddechowych 
+B. Współczynnik długości cyklu oddechowego do czasu trwania wdechu 
+C. Czas trwania wydechu do objętości wydechowej
+D. Stopień rozciągnięcia płuc do czasu trwania wdechu 
+E. Czas narastania napędu wdechowego do częstości oddechów w cyklu oddechowym(?) 
+
+15 – Pobudzenie przedwczesne (extrasystole), pochodzenia komorowego, cechuje powstanie(?)przyczyną jest (497 TRACZ) 
+ODP:A
+A. Stan nadwrażliwości popobudzeniowej
+B. Zahamowanie aktywności współczulnej
+C. Okres refrakcji bezwzględnej
+D. Zwolnienie czynności skurczowej serca 
+E. Blok serca I stopnia 
+
+16 – Podstawowe wydzielanie śliny wynosi (189 SKRYPT) 
+ODP:E
+A. 1,5-2,3 mL/min
+B. 3,3-5 mL/min
+C. 0,5-1 mL/min
+D. 0,5 L/dobę
+E. 0,33-0,5 mL/min 
+
+17 – Niedobór surfaktantu powoduje (655 TRACZ) 
+ODP:D
+A. Obniżenie różnicy prężności pęcherzykowo-tętniczej
+B. Stabilizację średnicy pęcherzyków płucnych 
+C. Wzrost pracy oddechowej
+D. Wzrost sił refrakcji płuc 
+E. Zmniejszenie sił kohezji między cząsteczkami powietrza pęcherzykowego 
+
+18 – Najwyższa spoczynkowa różnica tętniczo-żylna wysycenia krwi tlenem występuje w:
+ODP:C
+A. Płucach 
+B. Nerce 
+C. Sercu 
+D. Wątrobie
+E. Mięśniach szkieletowych
+
+19 – Zużycie tlenu przez komórki mięśnia sercowego determinowane jest przez (485 TRACZ) 
+ODP:C
+A. Czas trwania fazy rozkurczu izowolumetrycznego 
+B. Wartość ciśnienia komorowego w fazie maksymalnego wyrzutu
+C. Kurczliwości mięśnia sercowego w fazie skurczu izowolumetrycznego 
+D. Napięcie mięśni roboczych przedsionków w czasie ich skurczu 
+E. Szybkość powrotu żylnego krwi do prawej komory serca 
+
+20 -Zaznacz, który z poniższych neuroprzekaźników wywołuje działanie(?) 
+ODP:0
+A. Kwas gamma-aminomasłowy 
+B. Tlenek azotu
+C. Adrenalina 
+D. Acetylocholina 
+E. Kwas glutaminowy 
+
+21 – Małe motoneurony gamma rogów przednich rdzenia kręgowego uner…(?) (180 TRACZ) 
+ODP:C
+A. Receptory pierścienno-spiralne 
+B. Włókna mięśniowe ekstrafuzalne 
+C. Struktury mięśniowe włókien intrafuzalnych 
+D. Zakończenia Golgiego 
+E. Receptory typu wiązanki kwiatów 
+
+22 – Odsetek neutrofili w prawidłowym rozkładzie krwinek białych wynosi około (399 TRACZ) 
+ODP:A
+A. 40-70%
+B. 60-80%
+C. 20-40%
+D. 10-20% 
+E. 0-4% 
+
+23 – Czynnikiem rozszerzającym mięśnie gładkie oskrzeli jest (30 STAŚ-ODDECHOWY) 
+ODP:D
+A. Substancja P 
+B. Prostaglandyny PGF 
+C. Neurokinina 
+D. VIP
+E. Endotelina 1 
+
+24 – Kanały synaptyczne w końcowej drodze wspólnej 
+ODP:B
+A. Mają dużą przepuszczalność dla jonów sodu 
+B. Są pobudzane przez acetylocholinę 
+C. Otwierają się podczas depolaryzacji błony komórkowej 
+D. Są hamowane przez atropinę 
+E. Odpowiadają za okres refrakcji względnej 
+
+25 – Czynnikiem hamującym wydzielanie reniny jest (8 –STAŚ SIKANIE) 
+ODP:A
+A. Zwiększenie objętości płynu pozakomórkowego 
+B. Spadek ładunku dystalnego w plamce gęstej aparatu przykłębuszkowego 
+C. Hiponatremia
+D. Pobudzenie współczulnych nerwów nerkowych 
+E. Spadek ciśnienia perfuzyjnego nerki 
+
+26 – Komórkami odpowiedzialnymi za neutralizację mediatorów(?) 
+ODP:E
+A. Limfocyty Tc 
+B. Bazofile
+C. Limfocyty Th 
+D. Limfocyty NK 
+E. Eozynofile 
+
+27 – Prawdą jest że substancje światłoczułe zawarte w czopkach
+ODP:D
+A. Umożliwiają widzenie skotopowe 
+B. Zawierają w swoim składzie kwasową pochodną witaminy A 
+C. Są zbudowane z części białkowej tzw. opsyny kodowanej przez ten sam gen 
+D. Zlokalizowane są w błoniastych dyskach komórek receptorowych 
+E. Reagują pobudzeniem na światło o długości około 500nm 
+
+28 – Wskaż odpowiedź poprawną dotyczącą organizacji i (?) 
+ODP:E
+A. Aktywacja zmiennych ilości jednostek motorycznych jest jedynym (?)
+B. Sposób dyslokacji miocytów jednostki motorycznej nie wpływa na(?)
+C. Jednostka motoryczna obejmuje nerw obwodowy i wszystkie (?)
+D. Miocyty wchodzące w skład jednostki motorycznej zebrane są w p.. (?)
+E. Miocyty wchodzące w skład jednostki motorycznej rozmieszczone są na dużym obszarze przekroju i przemieszane z miocytami należącymi do innych jednostek 
+
+29 – W przypadku anemii wywołanej niedoborem (?) 
+ODP:E
+A. Pojawienie się różnej wielkości erytrocytów 
+B. Wynik MCV poniżej 80 ft
+C. Wynik MCV w granicy 80-96 ft
+D. Znaczny spadek liczby erytrocytów przy normalnym wyniku MCV 
+E. Wynik MCV powyżej 110 ft 
+
+30 – Rejestrowany w badaniu EMG prawidłowy zapis czynności bioelektrycznej mięśnia, obejmujący (?) 4-12Hz, określamy mianem: 
+ODP:A
+A. Zapisu wysiłkowego prostego 
+B. Zapisu wysiłkowego interferencyjnego 
+C. Zapisu wysiłkowego pośredniego 
+D. Rejestracji potencjałów wkłucia
+E. Zapisu spoczynkowego z objawami ciszy elektrycznej 
+
+31 – Istotnym czynnikiem wpływającym na pobudliwość ośrodków pokarmowych w pod… (?)łaknienia jest: (717 – TRACZ) 
+ODP:B
+A. Metabolizm tłuszczów w organizmie i uwalnianie przez adipocyty hormonu białkowego – leptyny 
+B. Zmniejszenie różnicy tętniczo żylnej stężenia glukozy we krwi
+C. Pobudzenie interoreceptorów ścian przewodu pokarmowego 
+D. Zwiększenie stężenia glukozy we krwi tętniczej i wzrost różnicy jej stężenia tętniczożylnego 
+E. Wzrost ciśnienia osmotycznego krwi 
+
+32 – Odruchowa odpowiedź polegająca na bezdechu z następującym po nim szybkimoddych… (?) pobudzenia receptorów płuc: (14 –STAŚ) 
+ODP:E
+A. SAR
+B. RAR
+C. E-AUG
+D. C
+E. J 
+
+33 – Według podziału Sherringtona do receptorów czucia interoceptywnego (?) (166 TRACZ) 
+ODP:B
+A. Receptory słuchu
+B. Receptory reagujące na prężność dwutlenku węgla i tlenu 
+C. Receptory w przedsionku i przewodach półkolistych błędników 
+D. Zakończenia pierścieniowo spiralne we wrzecionkach mięśniowych i narządy Golgiego (?)
+E. Receptory węchu 
+
+34 – Jeżeli po ustąpieniu wstrząsu rdzeniowego wywołanego przecięciem rdzenia, dokona się ponownie poniżej poziomu poprzedniego, to: (5 SKRYPT) 
+ODP:D
+A. Wstrząs rdzeniowy wystąpi ponownie i będzie trwał odpowiednio dłużej niżpoprzednio
+B. Wstrząs rdzeniowy wystąpi ponownie i będzie trwał krócej wskutek zjawiska torowania
+C. Wstrząs rdzeniowy wystąpi ponownie i będzie trwał tak samo długo 
+D. Wstrząs rdzeniowy ponownie już nie wystąpi
+E. Wystąpi jedynie silnie wyrażony odruch masowy 
+
+35 – Cechą przewodnictwa skokowego we włóknie nerwowym nie jest następująca(?) (48 Staś ogólny) 
+ODP:A
+A. Przekaz potencjału odbywa się ze stratą wartości potencjału
+B. Prędkość przenoszenia się potencjału czynnościowego jest proporcjonalna do promienia (?)
+C. Przewodnictwo to ulega zwolnieniu w węzłach 
+D. Jest bardzo szybkie
+E. Odbywa się we włóknach z osłonką mielinową 
+
+36 – Miarą pobudliwości mięśnia pozostającego pod kontrolą i w łączności z OUN jest: (52 SKRYPT) 
+ODP:C
+A. Chronaksja konstytucyjna 
+B. Sprężystość mięśnia
+C. Chronaksja subordynacyjna 
+D. Sprzężenie elektromechaniczne 
+E. Reobaza 
+
+37 – Hiperkapnia zwiększa wentylację płuc głównie przez pobudzenie: (16 STAŚ ODDECHOWY) 
+ODP:D
+A. Receptorów oskrzelowych 
+B. Kłębków szyjnych i aortalnych 
+C. Baroreceptorów tętniczych
+D. Chemoreceptorów pnia mózgu 
+E. Nerwu podjęzykowego 
+
+38 -(?) 
+ODP:0
+A. Zjawisko skurczów tężcowych 
+B. Zjawisko latencji odruchu
+C. Przyczyny zmęczenia mięśnia drażnionego bezpośrednio
+D. Istnienie prądów czynnościowych na powierzchni pobudzonego mięśnia
+E. Przyczyny zmęczenia mięśnia drażnionego pośrednio 
+
+39 – Do czynników pobudzających wydzielanie wazopresyny nie należy: (7 STAŚ HORMONY) 
+ODP:B
+A. Działanie prostaglandyn 
+B. Wzrost objętości krwi i ciśnienia tętniczego o 5-10% 
+C. Działanie angiotensyny II
+D. Wzrost ciśnienia osmotycznego krwi o 1-2% ponad wartość prawidłową 
+E. Działanie nikotyny 
+
+41 -Głównym bodźcem pobudzającym wydzielanie kwasu solnego podczas fazy głowowejjest: (29 STAŚ POKARMOWY) 
+ODP:B
+A. histamina 
+B. acetylocholina 
+C. somatostatyna 
+D. sekretyna 
+E. gastryna 
+
+42 -Czas pomiędzy początkiem narastania ciśnienia w tętnicy szyjnej, a wcięciem dykrotycznym, jest miarą (?) 
+ODP:B
+A. zmniejszonego wypełniania komór 
+B. okresu wyrzucania komorowego 
+C. szybkiego wypełniania komór 
+D. rozkurczu przedsionków 
+E. komorowego rozkurczu izowolumetrycznego 
+
+43 -Przyczyną nagłej śmierci noworodków podczas snu, w sytuacji utrudnionej wentylacjijest: 
+ODP:B
+A. zaburzenie procesu termoregulacji i zmniejszenie reakcji na hipoksję
+B. niedojrzałość i brak pobudliwości chemoreceptorów tętniczych reagujących na hipoksję
+C. zahamowanie przewodzenia impulsów do mięśni oddechowych z tworu siatkowatego 
+D. zablokowanie transmisji synaptycznej do neuronów tworu siatkowatego 
+E. zahamowanie wydzielania neuromodulatorów, biorących udział w procesie chemorecepcji 
+
+44 -Jeśli czynniki nerwowe i humoralne zmieniają pobudliwość mięśnia sercowego to mamy 
+do czynienia z działaniem 
+ODP:E
+A. tonotropowym
+B. chronotropowym 
+C. dromotropowym 
+D. inotropoowym
+E. batmotropowym 
+
+45 -Mechanizm działania atropiny w układzie krążenia jest następujący: (20 STAŚ SERCE) 
+ODP:D
+A. jako parasympatykomimetyk zwiększa częstość wyładowań w nerwie
+B. blokuje wydzielanie acetylocholiny z zakończeń przywspółczulnych 
+C. zwiększa wydzielanie acetylocholiny z zakończeń nerwowych 
+D. czyni tkanki niewrażliwymi na działanie acetylocholiny 
+E. pobudza wydzielanie noradrenaliny z zakończeń współczulnych 
+
+46 -Sprawność sprzężenia elektromechanicznego uzależniona jest w mechanizmie regulacji 
+siły skurczu mięśnia szkieletowego od: (78 TRACZ) 
+ODP:E
+A. sprężystości mięśnia
+B. zmiany częstotliwości pobudzeń 
+C. rekrutacji jednostek motorycznych 
+D. rodzaju skurczu mięśnia
+E. stopnia wstępnego rozciągnięcia mięśnia 
+
+47 -Nadwrażliwość powstająca w wyniku nadmiernego powstawania kompleksów antygenprzeciwciało, które nie są usuwane lecz krążą we krwi i mogą odkładać się w tkankach lub narządach powodując ich uszkodzenie jest zaliczane do nadwrażliwości typu. (58 SATŚ OGÓLNY) 
+ODP:D
+A. II
+B. I
+C. IV
+D. III
+E. V 
+
+48 -Wskaż twierdzenie fałszywe dotyczące podstawowych funkcji komórek glejowych 
+układu nerwowego (WIKIPEDIA KOM. GLEJOWE) 
+ODP:C
+A. komórki glejowe wytwarzają i uwalniają substancje biologicznie czynne 
+B. kom. glejowe zamykają przestrzeń synaptyczną 
+C. kom. glejowe nie uczestniczą w przekaźnictwie synaptycznym 
+D. kom. glejowe uczestniczą w regulacji składu jonowego przestrzeniokołosynaksonalnej
+E. kom. glejowe uczestniczą w regulacji pH przestrzeni okołoaksonalnej 
+
+49 -Bodźcami do uwalniania hormonu wzrostu (GH) są wszystkie czynniki z wyjątkiem 
+ODP:B
+A. glukagon 
+B. hiperglikemia
+C. stres
+D. wazopresyna
+E. wysiłek fizyczny 
+
+50 -Najczęściej występującym rodzajem skurczu mięśnia poprzecznie prążkowanego jest skurcz (92 TRACZ MAŁY) 
+ODP:D
+A. izotoniczny wtórnie obciążony 
+B. izometryczny wtórnie obciążony 
+C. izometryczny
+D. auksotoniczny 
+E. izotoniczny 
+
+51 -Angiotensyna II silny czynnik presyjny, podnosi ciśnienie tętnicze między innymi dlatego, że: 
+ODP:D
+A. hamuje uwalnianie wazopresyny, z tylnego płata przysadki mózgowej zwiększając utratę wody
+B. zwęża naczynia oporowe przedwłośniczkowe i zwiększa stosunek reabsorpcji płynu tkankowego do filtracji w naczyniach 
+C. przestawia na wyższy poziom regulacji i zwiększa reaktywność odruchu z chemoreceptorów tętniczych 
+D. zwiększa wydzielanie aldosteronu, a także sama nasila wchłanianie sodu w kanalikach nerkowych, zatrzymując sód wraz z wodą 
+E. podnosi ciśnienie osmotyczne krwi, zwiększając resorpcję jonów potasowych ichlorkowych 
+
+52 -Kanały synaptyczne w końcowej drodze wspólnej:
+ODP:A
+A. są pobudzane przez acetylocholinę 
+B. mają dużą przepuszczalność dla jonów sodu 
+C. odpowiadają za okres refrakcji względnej
+D. otwierają się podczas depolaryzacji błony komórkowej
+E. są hamowane przez atropinę 
+
+53 -Przechodzenie dźwięku ze środowiska gazowego do ciekłego:
+ODP:E
+A. podnosi częstotliwość fal dźwiękowych 
+B. obniża częstotliwość fali dźwiękowej
+C. zwiększa natężenie dźwięku o około 10 dB 
+D. nie ma wpływu na natężenie dźwięku 
+E. zmniejsza natężenie dźwięku o około 30 dB 
+
+54 -Białkiem uwalnianym w zakończeniach synaptycznych, a uczestniczących w formowaniusynaps poprzez wbudowywanie (?) w regionie płytki ruchowej receptorów acetylocholinowych jest: (51 TRACZ) 
+ODP:D
+A. neurotrofina 3 (NT-3)
+B. cząsteczka adhezyjna N-CAM   
+C. zasadochłonny czynnik wzrostu fibroblastów 
+D. agryna
+E. błonowe białko G 
+
+55 -Które z poniższych białek jest potrzebne do wywołania skurczu mięśnia szkieletowego, a 
+nie jest potrzebne do skurczu mięśnia gładkiego? 
+ODP:C
+A. adenozynotrójfosfataza miozyny 
+B. ATP-aza wapniowa 
+C. troponina 
+D. miozyna 
+E. aktyna 
+
+56 -Głównym białkiem części cewkowej siateczki sarkoplazmatycznej jest: 
+ODP:E
+A. dystrofina 
+B. fosfolamban 
+C. rianodyna
+D. kalsekwestryna
+E. ATP-aza wiążąca jony wapnia
+ 
+57 -Podstawową czynnością komórek oligodendrogleju. (68. 3.6.1 TRACZ) 
+ODP:C
+A. wyściełanie ścian komór mózgu i kanału środkowego rdzenia kręgowego 
+B. zdolność prezentowania antygenu 
+C. tworzenie osłonek mielinowych na włóknach nerwowych ośrodkowego układu nerwowego
+D. wydzielanie cytokin oraz zdolność migracji i fagocytozy 
+E. funkcja podporowa w stosunku do kom. nerwowych 
+
+58 -Cechą strefy przedsionkowo węzłowej węzła przedsionkowo-komorowego jest: (457 TRACZ) 
+ODP:C
+A. szybkie przewodzenie impulsów, dzięki czemu skurcz przedsionków wyprzedza skurcz komór
+B. obecność powolnej spoczynkowej depolaryzacji, która przebiega wolniej niż w węźle zatokowo-przedsionkowych 
+C. stały potencjał spoczynkowy, z powodu braku właściwości automatyzmu komórkę tej strefy
+D. szybka depolaryzacji o dużej amplitudzie potencjału w odpowiedzi na bodziec progowy 
+E. brak zależności potencjałów czynnościowych od aktywacji kanałów wapniowych 
+
+59 -Przyczyną wzrostu wartości ciśnienie rozkurczowego może być: (531 TRACZ) 
+ODP:A
+A. zmniejszający się współczynnik sprężystości aorty 
+B. skrócenie przerw rozkurczowych w czasie przyśpieszenia rytmu serca 
+C. zmniejszenie całkowitego naczyniowego oporu obwodowego 
+D. cofanie się krwi do lewej komory na skutek niedomykalności zastawek półksiężycowatych 
+E. zmniejszenie rozciągnięcia aorty i jej sprężystości w miarę odpływu krwi do mikrokrążenia 
+
+60 -Przedsionkowy peptyd natriuretyczny powoduje (32 STAŚ SIKANIE) 
+ODP:A
+A. hamowanie resorpcji sodu w kanaliku zbiorczym 
+B. obniżenie wydalania sodu z moczem 
+C. hamowanie resorpcji potasu w kanaliku krętym proksymalnym 
+D. obniżenie procesu filtracji kłębuszkowej
+E. zwężenie tętniczki doprowadzającej kłębuszków nerkowych 
+
+61 -Przedsionkowy peptyd natriuretyczny powoduje: 
+ODP:A
+A. hamowanie resorpcji sodu w kanaliku zbiorczym 
+B. obniżenie wydalania sodu z moczem 
+C. hamowanie resorpcji potasu w kanaliku krętym proksymalnym 
+D. obniżenie procesu filtracji kłębuszkowej
+E. zwężenie tętniczki doprowadzającej kłębuszków nerkowych 
+
+62 -Podczas czytania zachodzi zwiększenie napięcia akomodacyjnego podczas, którego obserwuje się: (104 TRACZ DZIAŁ 6.2.2) 
+ODP:B
+A. rozkurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący spłaszczenie soczewki 
+B. skurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący grubienie soczewki i
+C. skurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący spłaszczenie soczewki 
+D. skurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący grubienie soczewki 
+E. rozkurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący grubienie soczewki 
+
+63 -Nerw wzrokowy utworzony jest z: (109 TRACZ, 77 STAŚ NEURO) 
+ODP:A
+A. aksonów komórek zwojowych 
+B. dendrytów komórek dwubiegunowych 
+C. aksonów komórek dwubiegunowych
+D. aksonów komórek amakrynowych
+E. dendrytów komórek zwojowych 
+
+64 -Międzytrawienne wędrujące kompleksy motoryczne (MMC) (12 STAŚ POKARMOWY) 
+ODP:D
+A. faza trzecia jest najdłuższa 
+B. faza druga wykazuje największą intensywność skurczów 
+C. całość cyklu trwa około 45-60 minut
+D. faza pierwsza charakteryzuje się brakiem aktywności skurczowej
+E. składa się z trzech faz 
+
+65 -O wielkości objętości zalegającej płuc RV decyduje (637 TRACZ) 
+ODP:B
+A. ciśnienie transpulmonarne pokonujące siły retrakcji
+B. sprężystość klatki piersiowej rozciągającej jej ściany na zewnątrz 
+C. ciśnienie niezbędne do pokonania oporu dróg oddechowych 
+D. napięcie powierzchniowe, które odpowiednio ustawia włókna sprężyste
+E. wzajemna równowaga sił retrakcji i podatności płuc   
+
+66 -Siła refrakcji rogówki jest (104 TRACZ) 
+ODP:A
+A. w zasadzie stała i wynosi około 42 D 
+B. zmienna i wynosi od 20 -40 D 
+C. w zasadzie stała i wynosi około 20 D 
+D. zmienna i wynosi 13-26 D 
+E. w zasadzie stała i wynosi około 62 D 
+
+67 -Głównym czynnikiem produkowanym przez przez neutrofile wywołującym skurcz oskrzeli jest: (648 TRACZ) 
+ODP:B
+A. interleukina 1 
+B. leukotrien E-4 (LTE-4)
+C. prostacyklina 
+D. interleukina 6 
+E. leukotrien B-4 (LTB-4)
+
+68 -Głównym miejscem powstawania 1,2(?) CHYBA 1,25-DIHYDROKSYCHOLEKALCYFEROL 
+ODP:D
+A. skóra
+B. krew krążąca
+C. kość
+D. nefron 
+E. wątroba 
+
+69 -Zaznacz prawidłowe (?) Podatność całkowita płuc i klatki piersiowej ukłądu oddechowego jako całości jest: 
+ODP:A
+A. jest większe do podatności płuc 
+B. jest większa od podatności ścian klatki piersiowej
+C. jest równa podatności ścian klatki piersiowej
+D. jest mniejsza od podatności ścian klatki piersiowej
+E. jest równa podatności płuc 
+
+70 -Jeśli ciśnienie tętnicze wynosi 120/75 mmHg to ciśnienie średnie (MAP) wynosi:
+ODP:E
+A. 110 mmHg
+B. z jednego pomiaru nie można wyliczyć ciśnienia średniego   
+C. 70 mmHg
+D. 45 mmHg
+E. 90 mmHg
+
+71 -Skórcz mięśnia naprężacza błony bębenkowej powoduje: (123 TRACZ – PO PRAWEJ) 
+ODP:C,E
+A. zmniejszenie napięcia błony bębenkowej
+B. zwiększenie wychyleń błony bębenkowej
+C. wciągnięcie błony bębenkowej w kierunku jamy uch środkowego 
+D. wciągnięcie błony bębenkowej w kierunku przewodu słuchowego 
+E. zwiększenie napięcia błony bębenkowej i ograniczenie jej wychyleń 
+
+72 -Nadmiar hormonów tarczycy powoduje(?) (370-371 TRACZ, U DOŁU NA 370) 
+ODP:B
+A. spadek częstości i siły skurczów mięśnia sercowego 
+B. skrócenie czasu reakcji odruchu ze ścięgna Achillesa 
+C. zahamowanie rozwoju umysłowego 
+D. zwiększenie masy kostnej
+E. obniżenie stężenia insuliny w surowicy krwi
+
+73 -Szybko adaptujące receptory dróg oddechowych (RAR) (689 TRACZ) 
+ODP:A
+A. przeciwdziałają zmniejszaniu pojemności płuc, przezwyciężając 
+B. są mało wrażliwe na bodźce mechaniczne a pobudzane są przez 
+C. zwiększają swoją aktywność pod wpływem czynników kurczących 
+D. bodźcem do ich pobudzenia jest obrzęk płuc i zmniejszenie pracy oddechowej
+E. zwiększają amplitudę wdechu i wydłużają fazę wydechu 
+
+74 -(?) CHYBA TROPOMIOZYNA 
+ODP:E
+A. związane są z miozyną w czasie skurczu 
+B. przesunięcie aktyny powodujące skurcz sarkomeru 
+C. uwolnienie energii potencjalnej przekazywanej szyjce główki miozyny 
+D. wytwarzanie ATP, który zapoczątkowuje mechanizm skurczu 
+E. działanie w spoczynku poprzez zakrycie miejsc, w których aktyna łączy się z (?)
+
+75 -Zaznacz, który z poniższych neuroprzekaźników wywołuje działanie 
+ODP:0
+A. tlenek azotu
+B. acetylocholina 
+C. kwas glutaminowy
+D. adrenalina 
+E. kwas gamma-aminomasłowy 
+
+76 -Efektem biochemicznym działania kortyzolu są wymienione przemiany z wyjątkiem: 
+ODP:C
+A. glukoneogeneza wątrobowa 
+B. katabolizm białek w mięśniach 
+C. lipogeneza wątrobowa
+D. anabolizm białek w wątrobie
+E. glikogeneza wątrobowa   
+
+77 -Wskaźnikiem pobudliwości hamującego odruchu Heringa-Breuera jest: 
+ODP:B
+A. czas narastania napędu wdechowego do częstotliwości oddechów w cykluoddechowym
+B. współczynnik długości cyklu oddechowego do czasu trwania wdechu 
+C. stopień rozciągnięcia płuc do czasu trwania wdechu   
+D. czas trwania wydechu do objętości wydechowej
+E. wielkość objętości wdechowej do oporu dróg oddechowych 
+
+78 -Istotne obniżenie zewnątrzkomórkowego stężenia jonów potasu (?) (59 MAŁY TRACZ) 
+ODP:A
+A. zmniejszenie ujemności potencjału błonowego 
+B. zwiększenie transportu jonów sodowych na zewnątrz komórki przez (?)
+C. zmniejszenie ujemności potencjału równowagi dla jonów potasu   
+D. zwiększenie przewodności błony komórkowej dla jonów potasu 
+E. zwiększenie siły napędowej dla jonów sodowych 
+
+79 -Wskaż odpowiedź błędną dotyczącą działania acetylocholiny (480-481 TRACZ) 
+ODP:D
+A. acetylocholina zwalnia lub całkowicie zahomowuje rytm zatokowy 
+B. acetylocholina może powodować występowanie odwracalnych bloków w (?)
+C. acetylocholina zmniejsza szybkość przewodzenia i amplitudę potencjałów w (?)
+D. acetylocholina wywiera wpływ na automatyzm komórek przewodzących (?)
+E. acetylocholina zwiększa przewodność sarkolemmy dla jonów potasowych   
+
+80 -Do receptorów tonicznych nie zaliczamy 
+ODP:D
+A. większości nocyceptorów 
+B. zakończeń pierścieniowo-spiralnych we wrzecionku mięśniowym 
+C. baroreceptorów łuku aorty i zatoki szyjnej
+D. receptorów dotyku i ucisku 
+E. ciałek buławkowatych   
+
+81 -Wskaż odpowiedź poprawną dotyczącą organizacji i funkcji (?) (83 TRACZ) 
+ODP:E
+A. miocyty wchodzące w skład jednostki motorycznej zebrane są w (?)
+B. sposób dyslokacji miocytów jednostki motorycznej nie wpływa na (?)
+C. aktywacja zmiennej ilości jednostek motorycznych jest jednym (?)   
+D. jednostka motoryczna obejmuje nerw obwodowy i wszystkie mięśnie (?)
+E. miocyty wchodzące w skład jednostki motorycznej rozmieszczone są (?)jednostek 
+
+82 -Najwyższa spoczynkowa różnica tętniczo-żylna wysycenia (?) 
+ODP:H
+A. Płucach   
+B. Nerce  
+C. Sercu <chyba serce>
+D. Wątrobie
+E. Mięśniach szkieletowych   
+
+83 -Komórkami odpowiedzialnymi za neutralizację mediatorów (?) 
+ODP:A
+A. eozynofile
+B. bazofile
+C. limfocyty NK 
+D. limfocyty Th   
+E. limfocyty Tc 
+
+84 -Zużycie tlenu przez komórki mięśnia sercowego determinują (?)(485 TRACZ) 
+ODP:A
+A. kurczliwość mięśnia sercowego w fazie skurczu izowolumetrycznego 
+B. szybkość powrotu żylnego do prawej komory serca 
+C. czas trwania fazy rozkurczu izowolumetrycznego   
+D. napięcie mięsni roboczych przedsionków w czasie ich skurczu 
+E. wartość ciśnienia komorowego w fazie maksymalnego wyrzutu 
+
+85 -Mianem nadstrzału w potencjale czynnościowym neuronu określamy (59 TRACZ) 
+ODP:B
+A. wartość potencjału wewnątrzkomórkowego poniżej progu pobudliwości, ale powyżejpotencjału spoczynkowego
+B. okres w którym sodowy prąd dokomórkowy osiąga wartość maksymalną wynikającą z otwarcia największej liczby kanałów 
+C. pojawiające się fazy potencjałów następczych : depolaryzacyjnego ihiperpolaryzacyjnego 
+D. okres zwiększania wypływu jonów potasowych z komórki nerwowej
+E. przerwę czasową w której pomimo działania bodźca nie pojawia się potencjałczynnościowy 
+
+86. Pobudzenie włókien cholinergicznych nerwu błędnego, unerwiających oskrzelapowoduje: (645 TRACZ) 
+ODP:D
+A. Zwiększenie wrażliwości mięśni gładkich oskrzeli na działanie tlenku azotu
+B. Przyśpieszenie wdechu i uwięzienie powietrza w pęcherzykach płucnych 
+C. Wzmożoną wentylacje płuc i zmniejszenie oporu dróg oddechowych 
+D. Wydzielanie śluzu i rozszerzenie naczyń krwionośnych oskrzeli
+E. Zwiększenie przestrzeni nieużytecznej dróg oddechowych 
+
+87. Kilkakrotne zwiększenie zawartości potasu w diecie nie spowoduje wzrostu stężeniatego jonu we krwi w wyniku działania mechanizmu: (838 TRACZ) 
+ODP:D
+A. Zwiększenia przepuszczalności kanalików dalszych nerki dla potasu 
+B. Wydalania potasu pod wpływem aldosteronu z wymiana na jon sodowy 
+C. Zwiększenia transportu potasu do komórek głównie mięśni szkieletowych 
+D. Zniesienia ujemnego sprzężenia zwrotnego między stężeniem potasu w przestrzeni zewnątrzkomórkowej a sekrecja aldosteronu 
+E. Pobudzenia osi renina-angiotensyna-aldosteron   
+
+88. W stymulacji eozynofilów i bazofilów uczestniczą przede wszystkim przeciwciałaklasy: 
+ODP:A
+A. IgE 
+B. IgA 
+C. IgD 
+D. IgM 
+E. IgG 
+
+
+89. Głównym czynnikiem produkowanym przez neutrofile wywołującym skurcz oskrzelijest: (648 TRACZ) 
+ODP:A
+A. Leukotrien E4 (LTE4)
+B. Interleukina 6 
+C. Interleukina 1 
+D. Leukotrien B4 
+E. Prostacyklina 
+
+
+90. Napięcie podstawowe ściany naczyń krwionośnych zależy od: (551 TRACZ) 
+ODP:A
+A. Tonicznej aktywności mięśni gładkich wewnętrznej części ściany naczyń zawierającej miocyty rozrusznikowe 
+B. Napięcia ? zwiększającego promień naczynia 
+C. Stopnia rozciągnięcia naczyń objętością krwi
+D. Dopływu impulsów włókien współczulnych zarówno zewnętrznej jak iwewnętrznej warstwy mięśni gładkich naczyń 
+E. Skurczu zewnętrznej warstwy mięśni gładkich unerwionej przez włókna współczulne 
+
+91. Przyczyną ostrej niewydolności oddechowej noworodków urodzonych przedwcześniejest: (653 TRACZ) 
+ODP:D
+A. Apoptoza komórek śluzowatych i zwiększenie oporu dróg oddechowych 
+B. Obniżona podatność w czasie deflacji płuc wywołana niskim napięciem powierzchniowym i płynem w płucach 
+C. Wysokie ciśnienie hydrostatyczne naczyń włosowatych płuc w stosunku do ciśnienia onkotycznego osocza 
+D. Wysokie napięcie powierzchniowe w pęcherzykach płucnych i niedodma 
+E. Niewykształcenie elementów sprężystych powodujące zapadanie siępęcherzyków płucnych 
+
+92. W osoczu w największej ilości występuje wapń: (TRACZ 818) 
+ODP:A
+A. Związany z białkiem 
+B. Zjonizowany 
+C. Połączony z węglanami
+D. Połączony z cytryniankami 
+E. Połączony z fosforanami 
+
+93. Działanie układu współczulnego uogólnia się wskutek: (353 TRACZ) 
+ODP:A
+A. Pobudzenia rdzenia nadnerczy przez przedzwojowe współczulne włókna cholinergiczne 
+B. Pobudzenia kory nadnerczy przez zazwojowe współczulne włókna adrenergiczne 
+C. Pobudzenie kory nadnerczy przez przedzwojowe współczulne włókna cholinergiczne 
+D. Pobudzenia rdzenia nadnerczy przez zazwojowe współczulne włókna adrenergiczne 
+E. Pobudzenia kory i rdzenia nadnerczy przez włókna zazwojowe adrenergiczne 
+
+94. Pod wpływem papainy cząsteczka przeciwciała z klasy IgG rozpada się na:
+ODP:E
+A. Fragment Fab warunkujący swoistość immunologiczną przeciwciała i jeden fragment Fc mający powinowactwo do składowych dopełniacza 
+B. Fragmenty Fab mające powinowactwo do składowych dopełniacza i dwa fragmenty Fc warunkujące swoistość immunologiczną przeciwciała 
+C. Fragment Fab mający powinowactwo do składowych dopełniacza i jeden fragment Fc warunkujący swoistość immunologiczną przeciwciała
+D. Fragmenty Fab warunkujące swoistość immunologiczną przeciwciała i dwa fragmenty Fc mające powinowactwo do składowych dopełniacza 
+E. Fragmenty Fab warunkujące swoistość immunologiczną przeciwciała ijeden fragment Fc mający powinowactwo do składowych dopełniacza 
+
+95. Unerwienie eferentne nerki pochodzi ze zwojów pnia współczulnego na poziomie: 
+ODP:E
+A. Th8-Th12 
+B. Th6-Th8 
+C. L5-S1 
+D. L3-L5 
+E. Th12-L2
+
+96. U ssaków zegarem biologicznym i generatorem rytmów okołodobowych jest: 
+ODP:D
+A. Wzgórze 
+B. Skorupa i gałka blada 
+C. Układ limbiczny 
+D. Parzyste jądro skrzyżowania przedniej części podwzgórza 
+E. RAS 
+
+97. Przez obie nerki w ciągu minuty przepływa: 
+ODP:B
+A. 10% objętości minutowej serca 
+B. 20% objętości minutowej serca 
+C. 15% objętości minutowej serca 
+D. 5% objętości minutowej serca 
+E. 25% objętości minutowej serca 
+
+98. Największy opór dla przepływającego powietrza w drogach oddechowych występuje na poziomie?: (640 TRACZ) 
+ODP:A
+A. Nosa i gardła
+B. Oskrzelików o średnicy poniżej 2 milimetrów 
+C. Pęcherzyków płucnych 
+D. Tchawicy i dużych oskrzeli 
+E. Oskrzeli średniego kalibru 
+
+99. Które ze zdań najlepiej opisuje pojemność życiową płuc (VC) (636 TRACZ) 
+ODP:C
+A. Ulega zwiększeniu w miarę zmniejszania się sprężystości płuc, nie zależy od współczynnika oddechowego? 
+B. Zapobiega nadmiernym wahaniom składu powietrza pęcherzykowego, nie zmienia się wraz ze ….? Wielkością stałą 
+C. Zależy od sprężystości pęcherzyków płucnych, jest o 7% większa w pozycjistojącej niż leżącej, jest ….? 
+D. Zwiększa się wraz ze wzrostem częstotliwości oddechów i ze wzrostem ciśnienia w klatce piersiowej
+E. Zależy od głębokości oddechów, masy ciała, sił retrakcji i wielkości całkowitego metabolizmu organizmu 
+
+100. IP3 oraz DAG są tzw. Drugimi przekaźnikami receptorów: 
+ODP:E
+A. Cholinergicznych typu B 
+B. Kaskady cAMP 
+C. Metabotropowych i jonotropowych 
+D. Jonotropowych 
+E. Cyklu inozytolo-fosfolipidowego 
+
+101. Neurony dogłowowego brzuszno-bocznego obszaru rdzenia przedłużonego (RVLM): (585 TRACZ) 
+ODP:C
+A. Utrzymują toniczną aktywność przywspółczulna i względnie stałą wartość ciśnienia tętniczego 
+B. Pobudzają aktywność przywspółczulna i spadek ciśnienia tętniczego krwi 
+C. Pobudzają aktywność układu współczulnego i zwiększają ciśnienie tętnicze krwi
+D. Hamują spontaniczną aktywność współczulną zapobiegając wzrostowi ciśnienia tętniczego krwi 
+E. Hamują aktywność przywspółczulną, zapobiegając spadkowi ciśnieniatętniczego 
+
+102. Mechanizmem obronnym przed niedotlenieniem mózgu w przypadku wzrostu ciśnienia wewnątrzczaszkowego jest: 
+ODP:B
+A. Zwiększenia przepuszczalności ściany naczyń mózgowych 
+B. Wzrost częstości skurczów serca przy obniżeniu ciśnienia tętniczego krwi 
+C. Przesunięcie płynu mózgowo-rdzeniowego z czaszki do kanału kręgowego 
+D. Spadek oporu przepływu wieńcowego wraz ze wzrostem zapotrzebowania na tlen 
+E. Wzrost ciśnienia tętniczego krwi i spadek częstości skurczów serca 
+
+103. Białkiem nie biorącym udział w adhezji płytek krwi jest: (416 TRACZTABELKA) 
+ODP:A
+A. Czynnik płytkowy 4 
+B. Fibronektyna 
+C. Fibrynogen 
+D. Czynnik von Willebranda 
+E. Witronektyna 
+
+104. Czas w ciągu którego badany jest w stanie utrzymać dynamometr z siła równą połowie skurczu maksymalnego nazywamy: 
+ODP:E
+A. Czasem skurczu submaksymalnego 
+B. Latencją zmęczenia mięśni 
+C. Wskaźnikiem zmęczenia mięśni
+D. Współczynnikiem wytrzymałości mięśniowej
+E. Czasem wytrzymałości mięśniowej
+
+105 – Okluzja: 
+ODP:B
+A. Jest to wygasanie impulsacji nerwowej w ośrodkach nerwowych 
+B. Jest miarą zachodzenia na siebie dróg dośrodkowych i wygasania impulsacji nerwowej
+C. Jest miarą zachodzenia na siebie dróg odśrodkowych i wygasania impulsacji nerwowej  
+D. Polega na zwiększeniu reakcji odruchowej i jest miarą wielkości strefy zwiększonejpodprogowo pobudliwości
+E. Jest to wzmaganie się impulsacji nerwowej w ośrodkach nerwowych 
+
+106 – Komórki okładzinowe żołądka wydzielają: 
+ODP:B
+A. Gastrynę
+B. Czynnik wewnętrzny 
+C. Sekretynę 
+D. Motylinę 
+E. Pepsynogen 
+
+107 – Przy powstaniu stanu czynnego w pręcikach pod wpływem światła nie zachodzi (108 TRACZ) 
+ODP:C
+A. Aktywizacja transducyny   
+B. Przekształcenie izomeru 11-cis w izomer all-trans retinalu   
+C. Otwieranie kanałów sodowych powodujących depolaryzację błony
+D. Zmniejszenie stężenia cGMP w cytoplazmie fotoreceptorów 
+E. Tworzenie metarodopsyny II 
+
+108 – Na drodze czynnego transportu zależnego od Na+ wchłania się (789 TRACZ) 
+ODP:D
+A. Witamina B2 
+B. Witamina B6 
+C. Witamina A 
+D. Witamina B1 
+E. Witamina D 
+
+109 – Wchłanianie żelaza zachodzi głównie w (788 TRACZ) 
+ODP:C
+A. Dwunastnicy 
+B. Końcowej części jelita cienkiego 
+C. Dwunastnicy i początkowej części jelita cienkiego 
+D. Żołądku 
+E. Jelicie grubym 
+
+110 – Receptory słuchu w narządzie spiralnym są ułożone w (124 TRACZ) 
+ODP:A
+A. Pojedynczy rząd komórek wewnętrznych i trzy rzędy komórek zewnętrznych 
+B. Pojedynczy rząd komórek wewnętrznych i cztery rzędy komórek zewnętrznych 
+C. Pięć rzędów komórek wewnętrznych i trzy rzędy komórek zewnętrznych 
+D. Trzy rzędy komórek wewnętrznych i pięć rzędów komórek zewnętrznych 
+E. Pojedynczy rząd komórek wewnętrznych i pięć rzędów komórek zewnętrznych 
+
+111 – Odruch zginania (186 TRACZ) 
+ODP:D
+A. Jest odruchem z receptorów pierścienno-spiralnych   
+B. Nie wykazuje cech wyładowania następczego 
+C. Pojawia się po bardzo krótkim okresie latencji   bo po dłuższym 
+D. Jest odruchem polisynaptycznym wywołanym bodźcami nocyceptywnymi
+E. Jest odruchem monosynaptycznym 
+
+112 – Najważniejszym mechanizmem zamykającym wpust jest (727 TRACZ) 
+ODP:C
+A. Bierny ucisk ciśnienia śródbrzusznego na dolny podprzeponowy odcinek przełyku  
+B. Mechanizm zastawkowy pomiędzy przełykiem a żołądkiem (kąt Hisa)
+C. Toniczny skurcz dolnego zwieracza przełyku 
+D. Rytmiczne skurcze przełyku 
+E. Ucisk przełyku przez odnogi mięśnia przepony 
+
+113 – Jednostką motoryczną nazywamy: 
+ODP:E
+A. Pojedynczą komórkę mięśniową unerwioną przez dany akson 
+B. Nerw obwodowy i unerwione przez niego mięśnie   
+C. Korzeń przedni rdzenia kręgowego i unerwiane przez niego komórki mięśniowe 
+D. Wszystkie komórki ruchowe rogów przednich rdzenia kręgowego i unerwiane przez nią komórki mięśniowe
+E. Motoneuron wraz z aksonem i unerwianymi przez niego komórkami mięśniowymi 
+
+114 – Z prawa Poiseuille’a wynika, że wielkość oporu naczyniowego zależy głównie od: (515 TRACZ) 
+ODP:D
+A. Różnicy ciśnień pomiędzy początkiem a końcem naczynia   
+B. Długości naczynia krwionośnego 
+C. Całkowitej energii przepływu w danym odcinku układu naczyniowego 
+D. Promienia wewnętrznego naczynia krwionośnego 
+E. Prawidłowego rozdziału krwi do poszczególnych łożysk naczyniowych 

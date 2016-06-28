@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidQuizApplication", "AndroidQuizApplication\AndroidQuizApplication.csproj", "{8003F372-AB7B-4A6D-AD1C-162084D27101}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizManager", "QuizManager\QuizManager.csproj", "{A1431031-1D92-4F03-8527-781DE4F9ECA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizManager", "..\QuizManager\QuizManager.csproj", "{B8421FBF-24D9-4DC9-B5D5-A760A139E3D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,10 @@ Global
 		{8003F372-AB7B-4A6D-AD1C-162084D27101}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8003F372-AB7B-4A6D-AD1C-162084D27101}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8003F372-AB7B-4A6D-AD1C-162084D27101}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{A1431031-1D92-4F03-8527-781DE4F9ECA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1431031-1D92-4F03-8527-781DE4F9ECA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A1431031-1D92-4F03-8527-781DE4F9ECA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A1431031-1D92-4F03-8527-781DE4F9ECA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8421FBF-24D9-4DC9-B5D5-A760A139E3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8421FBF-24D9-4DC9-B5D5-A760A139E3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8421FBF-24D9-4DC9-B5D5-A760A139E3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8421FBF-24D9-4DC9-B5D5-A760A139E3D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -42,9 +42,9 @@ namespace AndroidQuizApplication
 
     private void OnStartClick(object sender, EventArgs e)
     {
-      string text = _presenter.ReadQuiz();
-      var output = FindViewById<EditText>(Resource.Id.editTextOutput);
-      output.Text = text;
+      ////string text = _presenter.ReadQuiz();
+      //var output = FindViewById<EditText>(Resource.Id.editTextOutput);
+      //output.Text = text;
     }   
   }
 }
