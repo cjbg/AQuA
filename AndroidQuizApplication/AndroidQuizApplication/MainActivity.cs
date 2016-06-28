@@ -10,9 +10,7 @@ namespace AndroidQuizApplication
 {
   [Activity(Label = "AndroidQuizApplication", MainLauncher = true, Icon = "@drawable/icon")]
   public class MainActivity : Activity
-  {
-    int count = 1;
-
+  {    
     protected override void OnCreate(Bundle bundle)
     {
       base.OnCreate(bundle);
@@ -23,9 +21,12 @@ namespace AndroidQuizApplication
       // Get our button from the layout resource,
       // and attach an event to it
       Button button = FindViewById<Button>(Resource.Id.buttonStart);
-
-      button.Click += delegate { button.Text = string.Format("{0} clicks!", count++); };
-    }
+      button.Click += delegate
+      {
+        var intent = new Intent(this, typeof(QuizActivity));
+        StartActivity(intent);
+      };
+    }    
   }
 }
 

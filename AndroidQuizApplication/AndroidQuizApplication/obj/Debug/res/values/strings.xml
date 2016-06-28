@@ -1,1 +1,1 @@
-<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">AndroidQuizApplication</string></resources>
+<resources><string name="ApplicationName">Quiz</string><string name="QuizStart">Quiz</string></resources>
