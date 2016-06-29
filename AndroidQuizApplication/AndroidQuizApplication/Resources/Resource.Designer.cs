@@ -63,8 +63,26 @@ namespace AndroidQuizApplication
 			// aapt resource value: 0x7f050000
 			public const int buttonStart = 2131034112;
 			
+			// aapt resource value: 0x7f050003
+			public const int checkedTextViewAnswer1 = 2131034115;
+			
+			// aapt resource value: 0x7f050004
+			public const int checkedTextViewAnswer2 = 2131034116;
+			
+			// aapt resource value: 0x7f050005
+			public const int checkedTextViewAnswer3 = 2131034117;
+			
+			// aapt resource value: 0x7f050006
+			public const int checkedTextViewAnswer4 = 2131034118;
+			
+			// aapt resource value: 0x7f050007
+			public const int checkedTextViewAnswer5 = 2131034119;
+			
 			// aapt resource value: 0x7f050001
 			public const int editTextOutput = 2131034113;
+			
+			// aapt resource value: 0x7f050002
+			public const int textViewQuestion = 2131034114;
 			
 			static Id()
 			{
@@ -81,6 +99,9 @@ namespace AndroidQuizApplication
 			
 			// aapt resource value: 0x7f030000
 			public const int Main = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int Quiz = 2130903041;
 			
 			static Layout()
 			{

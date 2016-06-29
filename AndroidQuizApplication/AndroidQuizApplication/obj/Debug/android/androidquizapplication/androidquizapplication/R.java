@@ -15,10 +15,17 @@ public final class R {
     }
     public static final class id {
         public static final int buttonStart=0x7f050000;
+        public static final int checkedTextViewAnswer1=0x7f050003;
+        public static final int checkedTextViewAnswer2=0x7f050004;
+        public static final int checkedTextViewAnswer3=0x7f050005;
+        public static final int checkedTextViewAnswer4=0x7f050006;
+        public static final int checkedTextViewAnswer5=0x7f050007;
         public static final int editTextOutput=0x7f050001;
+        public static final int textViewQuestion=0x7f050002;
     }
     public static final class layout {
         public static final int main=0x7f030000;
+        public static final int quiz=0x7f030001;
     }
     public static final class string {
         public static final int ApplicationName=0x7f040000;

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using Android.App;
+using Android.Content;
 using Android.Content.Res;
 using Android.Widget;
 using Android.OS;
@@ -32,20 +33,27 @@ namespace AndroidQuizApplication
     protected override void OnCreate(Bundle bundle)
     {
       base.OnCreate(bundle);      
-      SetContentView(Resource.Layout.Main);            
+      SetContentView(Resource.Layout.Main);
+
+      _presenter = new MenuPresenter(this);
 
       Button buttonStart = FindViewById<Button>(Resource.Id.buttonStart);
       buttonStart.Click += OnStartClick;
-
-      _presenter = new MenuPresenter(this);
     }
 
     private void OnStartClick(object sender, EventArgs e)
     {
-      ////string text = _presenter.ReadQuiz();
-      //var output = FindViewById<EditText>(Resource.Id.editTextOutput);
-      //output.Text = text;
-    }   
+      var quizActivity = new Intent(this, typeof(QuizActivity));
+      PassQuizSet(quizActivity);
+      StartActivity(quizActivity);
+    }
+
+    private static void PassQuizSet(Intent quizActivity)
+    {
+      //TODO: data from comboBox
+      quizActivity.PutExtra(PassedDataResources.QuizName, "Pytania 1-114");
+      quizActivity.PutExtra(PassedDataResources.QuizValue, "Questions_1_114");
+    }
   }
 }
 

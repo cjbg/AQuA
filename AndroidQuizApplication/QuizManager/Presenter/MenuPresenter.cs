@@ -21,6 +21,7 @@ namespace QuizManager.Presenter
       //SetQuizComboBox();
     }
 
+    //TODO: Populate checkbox
     //private void SetQuizComboBox()
     //{
     //  List<QuizSet> quizSets = new List<QuizSet>();
