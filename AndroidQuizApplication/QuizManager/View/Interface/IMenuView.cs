@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using Android.Content.Res;
+﻿using System.Windows.Forms;
 
 namespace QuizManager.View.Interface
 {
@@ -15,7 +9,5 @@ namespace QuizManager.View.Interface
     bool HideAnswerLetter { get; }
 
     string RepetitionNumberText { get; }    
-
-    AssetManager Assets { get; }
   }
 }

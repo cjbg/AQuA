@@ -1,60 +1,60 @@
-1 -Wch³anianie witaminy B12 zachodzi w: (789 TRACZ) 
+1 -WchÅ‚anianie witaminy B12 zachodzi w: (789 TRACZ) 
 ODP:E
 A. Dwunastnicy 
 B. Jelicie czczym 
-C. ¯o³¹dku 
+C. Å»oÅ‚Ä…dku 
 D. Jelicie grubym 
-E. Jelicie krêtym 
+E. Jelicie krÄ™tym 
 
-2 -Oczopl¹s optokinetyczny wystêpuje u ludzi (132 TRACZ, 25 SKRYPT) 
+2 -OczoplÄ…s optokinetyczny wystÄ™puje u ludzi (132 TRACZ, 25 SKRYPT) 
 ODP:D
-A. Chorych z uszkodzeniem b³êdnika 
-B. Zdrowych po wykonaniu próby obrotowej i ma kierunek przeciwny do kierunku obrotów
-C. Chorych po wykonaniu próby obrotowej i ma kierunek zgodny z kierunkiem obrotów 
-D. Zdrowych podczas patrzenia na szybko przesuwaj¹ce siê obrazy 
-E. Chorych z uszkodzeniem narz¹du przedsionkowego 
+A. Chorych z uszkodzeniem bÅ‚Ä™dnika 
+B. Zdrowych po wykonaniu prÃ³by obrotowej i ma kierunek przeciwny do kierunku obrotÃ³w
+C. Chorych po wykonaniu prÃ³by obrotowej i ma kierunek zgodny z kierunkiem obrotÃ³w 
+D. Zdrowych podczas patrzenia na szybko przesuwajÄ…ce siÄ™ obrazy 
+E. Chorych z uszkodzeniem narzÄ…du przedsionkowego 
 
-3 -Neurony oœrodkowego generatora wzorca oddechowego tonicznie s¹ pobudzane bodŸcami 
+3 -Neurony oÅ›rodkowego generatora wzorca oddechowego tonicznie sÄ… pobudzane bodÅºcami 
 ODP:A
-A. Chemoreceptorów i aktywuj¹cego tworu siatkowatego pnia mózgu 
-B. Neuronów j¹dra zatwarzowego j¹dra pasma samotnego 
-C. Oœrodka apneustycznego
-D. Oœrodka pneumotaksycznego mostu
-E. Neuronów opuszkowo rdzeniowych 
+A. ChemoreceptorÃ³w i aktywujÄ…cego tworu siatkowatego pnia mÃ³zgu 
+B. NeuronÃ³w jÄ…dra zatwarzowego jÄ…dra pasma samotnego 
+C. OÅ›rodka apneustycznego
+D. OÅ›rodka pneumotaksycznego mostu
+E. NeuronÃ³w opuszkowo rdzeniowych 
 
-4 -W mechanizmie regulacji napiêcia miêœniowego 192 LUB 190 TRACZ, 10 LINIJKA OD DO£U) 
+4 -W mechanizmie regulacji napiÄ™cia miÄ™Å›niowego 192 LUB 190 TRACZ, 10 LINIJKA OD DOÅU) 
 ODP:B
-A. Neurony alfa stanowi¹ mechanizm reguluj¹cy czu³oœæ receptora pierœcienno spiralnego
-B. Unerwienie gamma stanowi mechanizm reguluj¹cy czu³oœæ receptora pierœcienno spiralnego
-C. Neurony gamma nie wywieraj¹ tonicznego wp³ywu na wrzecionka nerwowo miêœniowe
-D. Zarówno neurony alfa i gamma wywieraj¹ toniczny wp³yw na wrzecionka nerwowo miêœniowe 
-E. Unerwienie gamma stanowi mechanizm utrzymuj¹cy tonus w³ókien ekstrafuzalnych 
+A. Neurony alfa stanowiÄ… mechanizm regulujÄ…cy czuÅ‚oÅ›Ä‡ receptora pierÅ›cienno spiralnego
+B. Unerwienie gamma stanowi mechanizm regulujÄ…cy czuÅ‚oÅ›Ä‡ receptora pierÅ›cienno spiralnego
+C. Neurony gamma nie wywierajÄ… tonicznego wpÅ‚ywu na wrzecionka nerwowo miÄ™Å›niowe
+D. ZarÃ³wno neurony alfa i gamma wywierajÄ… toniczny wpÅ‚yw na wrzecionka nerwowo miÄ™Å›niowe 
+E. Unerwienie gamma stanowi mechanizm utrzymujÄ…cy tonus wÅ‚Ã³kien ekstrafuzalnych 
 
-5 -Zjawisko potencjalizacji d³ugoterminowej (LPT-long term potentiation)dotyczy (223 TRACZ) 
+5 -Zjawisko potencjalizacji dÅ‚ugoterminowej (LPT-long term potentiation)dotyczy (223 TRACZ) 
 ODP:D
-A. Zmiany czynnoœci bioelektrycznej mózgu w czasie trwania snu 
-B. Zjawiska hamowania bólu w rogach tylnych rdzenia krêgowego 
-C. Procesu rozprzestrzeniania siê fali depolaryzacji po powierzchni kory mózgu 
-D. Podwy¿szenia amplitudy EPSP w procesie zapamiêtywania
-E. Zjawiska hamowania czynnoœci odruchowej rdzenia krêgowego 
+A. Zmiany czynnoÅ›ci bioelektrycznej mÃ³zgu w czasie trwania snu 
+B. Zjawiska hamowania bÃ³lu w rogach tylnych rdzenia krÄ™gowego 
+C. Procesu rozprzestrzeniania siÄ™ fali depolaryzacji po powierzchni kory mÃ³zgu 
+D. PodwyÅ¼szenia amplitudy EPSP w procesie zapamiÄ™tywania
+E. Zjawiska hamowania czynnoÅ›ci odruchowej rdzenia krÄ™gowego 
 
-6 -Zdolnoœæ cz³owieka do s³ownego opisywania zdarzeñ prze¿ytych nazywamy (230 TRACZ) 
+6 -ZdolnoÅ›Ä‡ czÅ‚owieka do sÅ‚ownego opisywania zdarzeÅ„ przeÅ¼ytych nazywamy (230 TRACZ) 
 ODP:A
-A. Pamiêci¹ epizodyczn¹ 
-B. Pamiêci¹ natychmiastow¹ 
-C. Pamiêci¹ semantyczn¹ 
-D. Pamiêci¹ nieopisow¹ 
-E. Pamiêci¹ œwie¿¹ 
+A. PamiÄ™ciÄ… epizodycznÄ… 
+B. PamiÄ™ciÄ… natychmiastowÄ… 
+C. PamiÄ™ciÄ… semantycznÄ… 
+D. PamiÄ™ciÄ… nieopisowÄ… 
+E. PamiÄ™ciÄ… Å›wieÅ¼Ä… 
 
-7 – Efektem biochemicznym dzia³ania kortyzolu s¹ wymienione procesy z wyj¹tkiem (214 SKRYPT, 361 TRACZ) 
+7 â€“ Efektem biochemicznym dziaÅ‚ania kortyzolu sÄ… wymienione procesy z wyjÄ…tkiem (214 SKRYPT, 361 TRACZ) 
 ODP:D
-A. Glukoneogeneza w¹trobowa 
-B. Glikogeneza w¹trobowa 
-C. Katabolizm bia³ek w miêœniach 
-D. Lipogeneza w¹trobowa 
-E. Anabolizm bia³ek w w¹trobie 
+A. Glukoneogeneza wÄ…trobowa 
+B. Glikogeneza wÄ…trobowa 
+C. Katabolizm biaÅ‚ek w miÄ™Å›niach 
+D. Lipogeneza wÄ…trobowa 
+E. Anabolizm biaÅ‚ek w wÄ…trobie 
 
-8 – Jaki procent zawartej w pokarmie skrobi trawiony jest w jamie ustnej i ¿o³¹dku(?) (790 TRACZ, 42 STAŒ POKARMOWY ) 
+8 â€“ Jaki procent zawartej w pokarmie skrobi trawiony jest w jamie ustnej i Å¼oÅ‚Ä…dku(?) (790 TRACZ, 42 STAÅš POKARMOWY ) 
 ODP:B
 A. 60-80%
 B. 20-40% 
@@ -62,15 +62,15 @@ C. 40-60%
 D. 5-20%
 E. 80-100% 
 
-9 – Do receptorów tonicznych nie zaliczamy (95 TRACZ) 
+9 â€“ Do receptorÃ³w tonicznych nie zaliczamy (95 TRACZ) 
 ODP:A
-A. Receptorów dotyku i ucisku 
-B. Wiêkszoœci nocyceptorów 
-C. Baroreceptorów ³uku aorty i zatoki szyjnej
-D. Zakoñczeñ pierœcieniowo -spiralnych we wrzecionku miêœniowym 
-E. Cia³ek bu³awkowatych 
+A. ReceptorÃ³w dotyku i ucisku 
+B. WiÄ™kszoÅ›ci nocyceptorÃ³w 
+C. BaroreceptorÃ³w Å‚uku aorty i zatoki szyjnej
+D. ZakoÅ„czeÅ„ pierÅ›cieniowo -spiralnych we wrzecionku miÄ™Å›niowym 
+E. CiaÅ‚ek buÅ‚awkowatych 
 
-10 – Czêstoœæ skurczów rytmicznych w ¿o³¹dku wynosi? (730 TRACZ) 
+10 â€“ CzÄ™stoÅ›Ä‡ skurczÃ³w rytmicznych w Å¼oÅ‚Ä…dku wynosi? (730 TRACZ) 
 ODP:E
 A. 2/min
 B. 5/min
@@ -78,95 +78,95 @@ C. 12/min
 D. 8/min
 E. 3/min 
 
-11 – W reakcji ortostatycznej uk³adu kr¹¿enia krwi nie obserwujemy: (574 TRACZ) 
+11 â€“ W reakcji ortostatycznej ukÅ‚adu krÄ…Å¼enia krwi nie obserwujemy: (574 TRACZ) 
 ODP:E
-A. Zwiêkszenia czêstoœci skurczów serca
-B. Zwiêkszenia kurczliwoœci miêœnia sercowego 
-C. Zwiêkszenia ciœnienia têtniczego, zw³aszcza rozkurczowego 
-D. Zwiêkszenia ca³kowitego naczyniowego oporu obwodowego (TPR)
-E. Zwiêkszenia pojemnoœci minutowej i objêtoœci wyrzutowej 
+A. ZwiÄ™kszenia czÄ™stoÅ›ci skurczÃ³w serca
+B. ZwiÄ™kszenia kurczliwoÅ›ci miÄ™Å›nia sercowego 
+C. ZwiÄ™kszenia ciÅ›nienia tÄ™tniczego, zwÅ‚aszcza rozkurczowego 
+D. ZwiÄ™kszenia caÅ‚kowitego naczyniowego oporu obwodowego (TPR)
+E. ZwiÄ™kszenia pojemnoÅ›ci minutowej i objÄ™toÅ›ci wyrzutowej 
 
-12 – Podstawowym bodŸcem pobudzaj¹cym uk³ad pragnienia jest (834 TRACZ) 
+12 â€“ Podstawowym bodÅºcem pobudzajÄ…cym ukÅ‚ad pragnienia jest (834 TRACZ) 
 ODP:D
-A. Wzrost osmolalnoœci p³ynów ustrojowych i pobudzenie chemoreceptorów obwodowych
-B. Spadek osmolalnoœci p³ynów ustrojowych i pobudzenie chemoreceptorów OUN 
-C. Spadek ciœnienia têtniczego krwi i pobudzenie komórek aparatu przyk³êbuszkowego 
-D. Wzrost osmolalnoœci p³ynów ustrojowych i pobudzenie chemoreceptorów OUN 
-E. Spadek ciœnienia têtniczego krwi i pobudzenie baroreceptorów tt. szyjnych 
+A. Wzrost osmolalnoÅ›ci pÅ‚ynÃ³w ustrojowych i pobudzenie chemoreceptorÃ³w obwodowych
+B. Spadek osmolalnoÅ›ci pÅ‚ynÃ³w ustrojowych i pobudzenie chemoreceptorÃ³w OUN 
+C. Spadek ciÅ›nienia tÄ™tniczego krwi i pobudzenie komÃ³rek aparatu przykÅ‚Ä™buszkowego 
+D. Wzrost osmolalnoÅ›ci pÅ‚ynÃ³w ustrojowych i pobudzenie chemoreceptorÃ³w OUN 
+E. Spadek ciÅ›nienia tÄ™tniczego krwi i pobudzenie baroreceptorÃ³w tt. szyjnych 
 
-13 – W czasie skurczu miêœnia szkieletowego wsuwanie siê nitek aktyny pomiêdzy nitki miozyny objawia siê(?) 
+13 â€“ W czasie skurczu miÄ™Å›nia szkieletowego wsuwanie siÄ™ nitek aktyny pomiÄ™dzy nitki miozyny objawia siÄ™(?) 
 ODP:A
-A. Zwê¿eniem pr¹¿ka I i zanikiem pr¹¿ka H 
-B. Zwê¿eniem pr¹¿ka I i zanikiem pr¹¿ka A 
-C. Zanikiem tylko pr¹¿ka A 
-D. Zanikiem tylko pr¹¿ka I
-E. Zanikiem tylko pr¹¿ka H 
+A. ZwÄ™Å¼eniem prÄ…Å¼ka I i zanikiem prÄ…Å¼ka H 
+B. ZwÄ™Å¼eniem prÄ…Å¼ka I i zanikiem prÄ…Å¼ka A 
+C. Zanikiem tylko prÄ…Å¼ka A 
+D. Zanikiem tylko prÄ…Å¼ka I
+E. Zanikiem tylko prÄ…Å¼ka H 
 
-14 – WskaŸnikiem pobudliwoœci hamuj¹cego odruchu Heringa-Breuera jest (686 TRACZ) 
+14 â€“ WskaÅºnikiem pobudliwoÅ›ci hamujÄ…cego odruchu Heringa-Breuera jest (686 TRACZ) 
 ODP:B
-A. Wielkoœæ objêtoœci wdechowej do oporu dróg oddechowych 
-B. Wspó³czynnik d³ugoœci cyklu oddechowego do czasu trwania wdechu 
-C. Czas trwania wydechu do objêtoœci wydechowej
-D. Stopieñ rozci¹gniêcia p³uc do czasu trwania wdechu 
-E. Czas narastania napêdu wdechowego do czêstoœci oddechów w cyklu oddechowym(?) 
+A. WielkoÅ›Ä‡ objÄ™toÅ›ci wdechowej do oporu drÃ³g oddechowych 
+B. WspÃ³Å‚czynnik dÅ‚ugoÅ›ci cyklu oddechowego do czasu trwania wdechu 
+C. Czas trwania wydechu do objÄ™toÅ›ci wydechowej
+D. StopieÅ„ rozciÄ…gniÄ™cia pÅ‚uc do czasu trwania wdechu 
+E. Czas narastania napÄ™du wdechowego do czÄ™stoÅ›ci oddechÃ³w w cyklu oddechowym(?) 
 
-15 – Pobudzenie przedwczesne (extrasystole), pochodzenia komorowego, cechuje powstanie(?)przyczyn¹ jest (497 TRACZ) 
+15 â€“ Pobudzenie przedwczesne (extrasystole), pochodzenia komorowego, cechuje powstanie(?)przyczynÄ… jest (497 TRACZ) 
 ODP:A
-A. Stan nadwra¿liwoœci popobudzeniowej
-B. Zahamowanie aktywnoœci wspó³czulnej
-C. Okres refrakcji bezwzglêdnej
-D. Zwolnienie czynnoœci skurczowej serca 
+A. Stan nadwraÅ¼liwoÅ›ci popobudzeniowej
+B. Zahamowanie aktywnoÅ›ci wspÃ³Å‚czulnej
+C. Okres refrakcji bezwzglÄ™dnej
+D. Zwolnienie czynnoÅ›ci skurczowej serca 
 E. Blok serca I stopnia 
 
-16 – Podstawowe wydzielanie œliny wynosi (189 SKRYPT) 
+16 â€“ Podstawowe wydzielanie Å›liny wynosi (189 SKRYPT) 
 ODP:E
 A. 1,5-2,3 mL/min
 B. 3,3-5 mL/min
 C. 0,5-1 mL/min
-D. 0,5 L/dobê
+D. 0,5 L/dobÄ™
 E. 0,33-0,5 mL/min 
 
-17 – Niedobór surfaktantu powoduje (655 TRACZ) 
+17 â€“ NiedobÃ³r surfaktantu powoduje (655 TRACZ) 
 ODP:D
-A. Obni¿enie ró¿nicy prê¿noœci pêcherzykowo-têtniczej
-B. Stabilizacjê œrednicy pêcherzyków p³ucnych 
+A. ObniÅ¼enie rÃ³Å¼nicy prÄ™Å¼noÅ›ci pÄ™cherzykowo-tÄ™tniczej
+B. StabilizacjÄ™ Å›rednicy pÄ™cherzykÃ³w pÅ‚ucnych 
 C. Wzrost pracy oddechowej
-D. Wzrost si³ refrakcji p³uc 
-E. Zmniejszenie si³ kohezji miêdzy cz¹steczkami powietrza pêcherzykowego 
+D. Wzrost siÅ‚ refrakcji pÅ‚uc 
+E. Zmniejszenie siÅ‚ kohezji miÄ™dzy czÄ…steczkami powietrza pÄ™cherzykowego 
 
-18 – Najwy¿sza spoczynkowa ró¿nica têtniczo-¿ylna wysycenia krwi tlenem wystêpuje w:
+18 â€“ NajwyÅ¼sza spoczynkowa rÃ³Å¼nica tÄ™tniczo-Å¼ylna wysycenia krwi tlenem wystÄ™puje w:
 ODP:C
-A. P³ucach 
+A. PÅ‚ucach 
 B. Nerce 
 C. Sercu 
-D. W¹trobie
-E. Miêœniach szkieletowych
+D. WÄ…trobie
+E. MiÄ™Å›niach szkieletowych
 
-19 – Zu¿ycie tlenu przez komórki miêœnia sercowego determinowane jest przez (485 TRACZ) 
+19 â€“ ZuÅ¼ycie tlenu przez komÃ³rki miÄ™Å›nia sercowego determinowane jest przez (485 TRACZ) 
 ODP:C
 A. Czas trwania fazy rozkurczu izowolumetrycznego 
-B. Wartoœæ ciœnienia komorowego w fazie maksymalnego wyrzutu
-C. Kurczliwoœci miêœnia sercowego w fazie skurczu izowolumetrycznego 
-D. Napiêcie miêœni roboczych przedsionków w czasie ich skurczu 
-E. Szybkoœæ powrotu ¿ylnego krwi do prawej komory serca 
+B. WartoÅ›Ä‡ ciÅ›nienia komorowego w fazie maksymalnego wyrzutu
+C. KurczliwoÅ›ci miÄ™Å›nia sercowego w fazie skurczu izowolumetrycznego 
+D. NapiÄ™cie miÄ™Å›ni roboczych przedsionkÃ³w w czasie ich skurczu 
+E. SzybkoÅ›Ä‡ powrotu Å¼ylnego krwi do prawej komory serca 
 
-20 -Zaznacz, który z poni¿szych neuroprzekaŸników wywo³uje dzia³anie(?) 
+20 -Zaznacz, ktÃ³ry z poniÅ¼szych neuroprzekaÅºnikÃ³w wywoÅ‚uje dziaÅ‚anie(?) 
 ODP:0
-A. Kwas gamma-aminomas³owy 
+A. Kwas gamma-aminomasÅ‚owy 
 B. Tlenek azotu
 C. Adrenalina 
 D. Acetylocholina 
 E. Kwas glutaminowy 
 
-21 – Ma³e motoneurony gamma rogów przednich rdzenia krêgowego uner…(?) (180 TRACZ) 
+21 â€“ MaÅ‚e motoneurony gamma rogÃ³w przednich rdzenia krÄ™gowego unerâ€¦(?) (180 TRACZ) 
 ODP:C
-A. Receptory pierœcienno-spiralne 
-B. W³ókna miêœniowe ekstrafuzalne 
-C. Struktury miêœniowe w³ókien intrafuzalnych 
-D. Zakoñczenia Golgiego 
-E. Receptory typu wi¹zanki kwiatów 
+A. Receptory pierÅ›cienno-spiralne 
+B. WÅ‚Ã³kna miÄ™Å›niowe ekstrafuzalne 
+C. Struktury miÄ™Å›niowe wÅ‚Ã³kien intrafuzalnych 
+D. ZakoÅ„czenia Golgiego 
+E. Receptory typu wiÄ…zanki kwiatÃ³w 
 
-22 – Odsetek neutrofili w prawid³owym rozk³adzie krwinek bia³ych wynosi oko³o (399 TRACZ) 
+22 â€“ Odsetek neutrofili w prawidÅ‚owym rozkÅ‚adzie krwinek biaÅ‚ych wynosi okoÅ‚o (399 TRACZ) 
 ODP:A
 A. 40-70%
 B. 60-80%
@@ -174,7 +174,7 @@ C. 20-40%
 D. 10-20% 
 E. 0-4% 
 
-23 – Czynnikiem rozszerzaj¹cym miêœnie g³adkie oskrzeli jest (30 STAŒ-ODDECHOWY) 
+23 â€“ Czynnikiem rozszerzajÄ…cym miÄ™Å›nie gÅ‚adkie oskrzeli jest (30 STAÅš-ODDECHOWY) 
 ODP:D
 A. Substancja P 
 B. Prostaglandyny PGF 
@@ -182,23 +182,23 @@ C. Neurokinina
 D. VIP
 E. Endotelina 1 
 
-24 – Kana³y synaptyczne w koñcowej drodze wspólnej 
+24 â€“ KanaÅ‚y synaptyczne w koÅ„cowej drodze wspÃ³lnej 
 ODP:B
-A. Maj¹ du¿¹ przepuszczalnoœæ dla jonów sodu 
-B. S¹ pobudzane przez acetylocholinê 
-C. Otwieraj¹ siê podczas depolaryzacji b³ony komórkowej 
-D. S¹ hamowane przez atropinê 
-E. Odpowiadaj¹ za okres refrakcji wzglêdnej 
+A. MajÄ… duÅ¼Ä… przepuszczalnoÅ›Ä‡ dla jonÃ³w sodu 
+B. SÄ… pobudzane przez acetylocholinÄ™ 
+C. OtwierajÄ… siÄ™ podczas depolaryzacji bÅ‚ony komÃ³rkowej 
+D. SÄ… hamowane przez atropinÄ™ 
+E. OdpowiadajÄ… za okres refrakcji wzglÄ™dnej 
 
-25 – Czynnikiem hamuj¹cym wydzielanie reniny jest (8 –STAŒ SIKANIE) 
+25 â€“ Czynnikiem hamujÄ…cym wydzielanie reniny jest (8 â€“STAÅš SIKANIE) 
 ODP:A
-A. Zwiêkszenie objêtoœci p³ynu pozakomórkowego 
-B. Spadek ³adunku dystalnego w plamce gêstej aparatu przyk³êbuszkowego 
+A. ZwiÄ™kszenie objÄ™toÅ›ci pÅ‚ynu pozakomÃ³rkowego 
+B. Spadek Å‚adunku dystalnego w plamce gÄ™stej aparatu przykÅ‚Ä™buszkowego 
 C. Hiponatremia
-D. Pobudzenie wspó³czulnych nerwów nerkowych 
-E. Spadek ciœnienia perfuzyjnego nerki 
+D. Pobudzenie wspÃ³Å‚czulnych nerwÃ³w nerkowych 
+E. Spadek ciÅ›nienia perfuzyjnego nerki 
 
-26 – Komórkami odpowiedzialnymi za neutralizacjê mediatorów(?) 
+26 â€“ KomÃ³rkami odpowiedzialnymi za neutralizacjÄ™ mediatorÃ³w(?) 
 ODP:E
 A. Limfocyty Tc 
 B. Bazofile
@@ -206,47 +206,47 @@ C. Limfocyty Th
 D. Limfocyty NK 
 E. Eozynofile 
 
-27 – Prawd¹ jest ¿e substancje œwiat³oczu³e zawarte w czopkach
+27 â€“ PrawdÄ… jest Å¼e substancje Å›wiatÅ‚oczuÅ‚e zawarte w czopkach
 ODP:D
-A. Umo¿liwiaj¹ widzenie skotopowe 
-B. Zawieraj¹ w swoim sk³adzie kwasow¹ pochodn¹ witaminy A 
-C. S¹ zbudowane z czêœci bia³kowej tzw. opsyny kodowanej przez ten sam gen 
-D. Zlokalizowane s¹ w b³oniastych dyskach komórek receptorowych 
-E. Reaguj¹ pobudzeniem na œwiat³o o d³ugoœci oko³o 500nm 
+A. UmoÅ¼liwiajÄ… widzenie skotopowe 
+B. ZawierajÄ… w swoim skÅ‚adzie kwasowÄ… pochodnÄ… witaminy A 
+C. SÄ… zbudowane z czÄ™Å›ci biaÅ‚kowej tzw. opsyny kodowanej przez ten sam gen 
+D. Zlokalizowane sÄ… w bÅ‚oniastych dyskach komÃ³rek receptorowych 
+E. ReagujÄ… pobudzeniem na Å›wiatÅ‚o o dÅ‚ugoÅ›ci okoÅ‚o 500nm 
 
-28 – Wska¿ odpowiedŸ poprawn¹ dotycz¹c¹ organizacji i (?) 
+28 â€“ WskaÅ¼ odpowiedÅº poprawnÄ… dotyczÄ…cÄ… organizacji i (?) 
 ODP:E
-A. Aktywacja zmiennych iloœci jednostek motorycznych jest jedynym (?)
-B. Sposób dyslokacji miocytów jednostki motorycznej nie wp³ywa na(?)
+A. Aktywacja zmiennych iloÅ›ci jednostek motorycznych jest jedynym (?)
+B. SposÃ³b dyslokacji miocytÃ³w jednostki motorycznej nie wpÅ‚ywa na(?)
 C. Jednostka motoryczna obejmuje nerw obwodowy i wszystkie (?)
-D. Miocyty wchodz¹ce w sk³ad jednostki motorycznej zebrane s¹ w p.. (?)
-E. Miocyty wchodz¹ce w sk³ad jednostki motorycznej rozmieszczone s¹ na du¿ym obszarze przekroju i przemieszane z miocytami nale¿¹cymi do innych jednostek 
+D. Miocyty wchodzÄ…ce w skÅ‚ad jednostki motorycznej zebrane sÄ… w p.. (?)
+E. Miocyty wchodzÄ…ce w skÅ‚ad jednostki motorycznej rozmieszczone sÄ… na duÅ¼ym obszarze przekroju i przemieszane z miocytami naleÅ¼Ä…cymi do innych jednostek 
 
-29 – W przypadku anemii wywo³anej niedoborem (?) 
+29 â€“ W przypadku anemii wywoÅ‚anej niedoborem (?) 
 ODP:E
-A. Pojawienie siê ró¿nej wielkoœci erytrocytów 
-B. Wynik MCV poni¿ej 80 ft
+A. Pojawienie siÄ™ rÃ³Å¼nej wielkoÅ›ci erytrocytÃ³w 
+B. Wynik MCV poniÅ¼ej 80 ft
 C. Wynik MCV w granicy 80-96 ft
-D. Znaczny spadek liczby erytrocytów przy normalnym wyniku MCV 
-E. Wynik MCV powy¿ej 110 ft 
+D. Znaczny spadek liczby erytrocytÃ³w przy normalnym wyniku MCV 
+E. Wynik MCV powyÅ¼ej 110 ft 
 
-30 – Rejestrowany w badaniu EMG prawid³owy zapis czynnoœci bioelektrycznej miêœnia, obejmuj¹cy (?) 4-12Hz, okreœlamy mianem: 
+30 â€“ Rejestrowany w badaniu EMG prawidÅ‚owy zapis czynnoÅ›ci bioelektrycznej miÄ™Å›nia, obejmujÄ…cy (?) 4-12Hz, okreÅ›lamy mianem: 
 ODP:A
-A. Zapisu wysi³kowego prostego 
-B. Zapisu wysi³kowego interferencyjnego 
-C. Zapisu wysi³kowego poœredniego 
-D. Rejestracji potencja³ów wk³ucia
+A. Zapisu wysiÅ‚kowego prostego 
+B. Zapisu wysiÅ‚kowego interferencyjnego 
+C. Zapisu wysiÅ‚kowego poÅ›redniego 
+D. Rejestracji potencjaÅ‚Ã³w wkÅ‚ucia
 E. Zapisu spoczynkowego z objawami ciszy elektrycznej 
 
-31 – Istotnym czynnikiem wp³ywaj¹cym na pobudliwoœæ oœrodków pokarmowych w pod… (?)³aknienia jest: (717 – TRACZ) 
+31 â€“ Istotnym czynnikiem wpÅ‚ywajÄ…cym na pobudliwoÅ›Ä‡ oÅ›rodkÃ³w pokarmowych w podâ€¦ (?)Å‚aknienia jest: (717 â€“ TRACZ) 
 ODP:B
-A. Metabolizm t³uszczów w organizmie i uwalnianie przez adipocyty hormonu bia³kowego – leptyny 
-B. Zmniejszenie ró¿nicy têtniczo ¿ylnej stê¿enia glukozy we krwi
-C. Pobudzenie interoreceptorów œcian przewodu pokarmowego 
-D. Zwiêkszenie stê¿enia glukozy we krwi têtniczej i wzrost ró¿nicy jej stê¿enia têtniczo¿ylnego 
-E. Wzrost ciœnienia osmotycznego krwi 
+A. Metabolizm tÅ‚uszczÃ³w w organizmie i uwalnianie przez adipocyty hormonu biaÅ‚kowego â€“ leptyny 
+B. Zmniejszenie rÃ³Å¼nicy tÄ™tniczo Å¼ylnej stÄ™Å¼enia glukozy we krwi
+C. Pobudzenie interoreceptorÃ³w Å›cian przewodu pokarmowego 
+D. ZwiÄ™kszenie stÄ™Å¼enia glukozy we krwi tÄ™tniczej i wzrost rÃ³Å¼nicy jej stÄ™Å¼enia tÄ™tniczoÅ¼ylnego 
+E. Wzrost ciÅ›nienia osmotycznego krwi 
 
-32 – Odruchowa odpowiedŸ polegaj¹ca na bezdechu z nastêpuj¹cym po nim szybkimoddych… (?) pobudzenia receptorów p³uc: (14 –STAŒ) 
+32 â€“ Odruchowa odpowiedÅº polegajÄ…ca na bezdechu z nastÄ™pujÄ…cym po nim szybkimoddychâ€¦ (?) pobudzenia receptorÃ³w pÅ‚uc: (14 â€“STAÅš) 
 ODP:E
 A. SAR
 B. RAR
@@ -254,63 +254,63 @@ C. E-AUG
 D. C
 E. J 
 
-33 – Wed³ug podzia³u Sherringtona do receptorów czucia interoceptywnego (?) (166 TRACZ) 
+33 â€“ WedÅ‚ug podziaÅ‚u Sherringtona do receptorÃ³w czucia interoceptywnego (?) (166 TRACZ) 
 ODP:B
-A. Receptory s³uchu
-B. Receptory reaguj¹ce na prê¿noœæ dwutlenku wêgla i tlenu 
-C. Receptory w przedsionku i przewodach pó³kolistych b³êdników 
-D. Zakoñczenia pierœcieniowo spiralne we wrzecionkach miêœniowych i narz¹dy Golgiego (?)
-E. Receptory wêchu 
+A. Receptory sÅ‚uchu
+B. Receptory reagujÄ…ce na prÄ™Å¼noÅ›Ä‡ dwutlenku wÄ™gla i tlenu 
+C. Receptory w przedsionku i przewodach pÃ³Å‚kolistych bÅ‚Ä™dnikÃ³w 
+D. ZakoÅ„czenia pierÅ›cieniowo spiralne we wrzecionkach miÄ™Å›niowych i narzÄ…dy Golgiego (?)
+E. Receptory wÄ™chu 
 
-34 – Je¿eli po ust¹pieniu wstrz¹su rdzeniowego wywo³anego przeciêciem rdzenia, dokona siê ponownie poni¿ej poziomu poprzedniego, to: (5 SKRYPT) 
+34 â€“ JeÅ¼eli po ustÄ…pieniu wstrzÄ…su rdzeniowego wywoÅ‚anego przeciÄ™ciem rdzenia, dokona siÄ™ ponownie poniÅ¼ej poziomu poprzedniego, to: (5 SKRYPT) 
 ODP:D
-A. Wstrz¹s rdzeniowy wyst¹pi ponownie i bêdzie trwa³ odpowiednio d³u¿ej ni¿poprzednio
-B. Wstrz¹s rdzeniowy wyst¹pi ponownie i bêdzie trwa³ krócej wskutek zjawiska torowania
-C. Wstrz¹s rdzeniowy wyst¹pi ponownie i bêdzie trwa³ tak samo d³ugo 
-D. Wstrz¹s rdzeniowy ponownie ju¿ nie wyst¹pi
-E. Wyst¹pi jedynie silnie wyra¿ony odruch masowy 
+A. WstrzÄ…s rdzeniowy wystÄ…pi ponownie i bÄ™dzie trwaÅ‚ odpowiednio dÅ‚uÅ¼ej niÅ¼poprzednio
+B. WstrzÄ…s rdzeniowy wystÄ…pi ponownie i bÄ™dzie trwaÅ‚ krÃ³cej wskutek zjawiska torowania
+C. WstrzÄ…s rdzeniowy wystÄ…pi ponownie i bÄ™dzie trwaÅ‚ tak samo dÅ‚ugo 
+D. WstrzÄ…s rdzeniowy ponownie juÅ¼ nie wystÄ…pi
+E. WystÄ…pi jedynie silnie wyraÅ¼ony odruch masowy 
 
-35 – Cech¹ przewodnictwa skokowego we w³óknie nerwowym nie jest nastêpuj¹ca(?) (48 Staœ ogólny) 
+35 â€“ CechÄ… przewodnictwa skokowego we wÅ‚Ã³knie nerwowym nie jest nastÄ™pujÄ…ca(?) (48 StaÅ› ogÃ³lny) 
 ODP:A
-A. Przekaz potencja³u odbywa siê ze strat¹ wartoœci potencja³u
-B. Prêdkoœæ przenoszenia siê potencja³u czynnoœciowego jest proporcjonalna do promienia (?)
-C. Przewodnictwo to ulega zwolnieniu w wêz³ach 
+A. Przekaz potencjaÅ‚u odbywa siÄ™ ze stratÄ… wartoÅ›ci potencjaÅ‚u
+B. PrÄ™dkoÅ›Ä‡ przenoszenia siÄ™ potencjaÅ‚u czynnoÅ›ciowego jest proporcjonalna do promienia (?)
+C. Przewodnictwo to ulega zwolnieniu w wÄ™zÅ‚ach 
 D. Jest bardzo szybkie
-E. Odbywa siê we w³óknach z os³onk¹ mielinow¹ 
+E. Odbywa siÄ™ we wÅ‚Ã³knach z osÅ‚onkÄ… mielinowÄ… 
 
-36 – Miar¹ pobudliwoœci miêœnia pozostaj¹cego pod kontrol¹ i w ³¹cznoœci z OUN jest: (52 SKRYPT) 
+36 â€“ MiarÄ… pobudliwoÅ›ci miÄ™Å›nia pozostajÄ…cego pod kontrolÄ… i w Å‚Ä…cznoÅ›ci z OUN jest: (52 SKRYPT) 
 ODP:C
 A. Chronaksja konstytucyjna 
-B. Sprê¿ystoœæ miêœnia
+B. SprÄ™Å¼ystoÅ›Ä‡ miÄ™Å›nia
 C. Chronaksja subordynacyjna 
-D. Sprzê¿enie elektromechaniczne 
+D. SprzÄ™Å¼enie elektromechaniczne 
 E. Reobaza 
 
-37 – Hiperkapnia zwiêksza wentylacjê p³uc g³ównie przez pobudzenie: (16 STAŒ ODDECHOWY) 
+37 â€“ Hiperkapnia zwiÄ™ksza wentylacjÄ™ pÅ‚uc gÅ‚Ã³wnie przez pobudzenie: (16 STAÅš ODDECHOWY) 
 ODP:D
-A. Receptorów oskrzelowych 
-B. K³êbków szyjnych i aortalnych 
-C. Baroreceptorów têtniczych
-D. Chemoreceptorów pnia mózgu 
-E. Nerwu podjêzykowego 
+A. ReceptorÃ³w oskrzelowych 
+B. KÅ‚Ä™bkÃ³w szyjnych i aortalnych 
+C. BaroreceptorÃ³w tÄ™tniczych
+D. ChemoreceptorÃ³w pnia mÃ³zgu 
+E. Nerwu podjÄ™zykowego 
 
 38 -(?) 
 ODP:0
-A. Zjawisko skurczów tê¿cowych 
+A. Zjawisko skurczÃ³w tÄ™Å¼cowych 
 B. Zjawisko latencji odruchu
-C. Przyczyny zmêczenia miêœnia dra¿nionego bezpoœrednio
-D. Istnienie pr¹dów czynnoœciowych na powierzchni pobudzonego miêœnia
-E. Przyczyny zmêczenia miêœnia dra¿nionego poœrednio 
+C. Przyczyny zmÄ™czenia miÄ™Å›nia draÅ¼nionego bezpoÅ›rednio
+D. Istnienie prÄ…dÃ³w czynnoÅ›ciowych na powierzchni pobudzonego miÄ™Å›nia
+E. Przyczyny zmÄ™czenia miÄ™Å›nia draÅ¼nionego poÅ›rednio 
 
-39 – Do czynników pobudzaj¹cych wydzielanie wazopresyny nie nale¿y: (7 STAŒ HORMONY) 
+39 â€“ Do czynnikÃ³w pobudzajÄ…cych wydzielanie wazopresyny nie naleÅ¼y: (7 STAÅš HORMONY) 
 ODP:B
-A. Dzia³anie prostaglandyn 
-B. Wzrost objêtoœci krwi i ciœnienia têtniczego o 5-10% 
-C. Dzia³anie angiotensyny II
-D. Wzrost ciœnienia osmotycznego krwi o 1-2% ponad wartoœæ prawid³ow¹ 
-E. Dzia³anie nikotyny 
+A. DziaÅ‚anie prostaglandyn 
+B. Wzrost objÄ™toÅ›ci krwi i ciÅ›nienia tÄ™tniczego o 5-10% 
+C. DziaÅ‚anie angiotensyny II
+D. Wzrost ciÅ›nienia osmotycznego krwi o 1-2% ponad wartoÅ›Ä‡ prawidÅ‚owÄ… 
+E. DziaÅ‚anie nikotyny 
 
-41 -G³ównym bodŸcem pobudzaj¹cym wydzielanie kwasu solnego podczas fazy g³owowejjest: (29 STAŒ POKARMOWY) 
+41 -GÅ‚Ã³wnym bodÅºcem pobudzajÄ…cym wydzielanie kwasu solnego podczas fazy gÅ‚owowejjest: (29 STAÅš POKARMOWY) 
 ODP:B
 A. histamina 
 B. acetylocholina 
@@ -318,24 +318,24 @@ C. somatostatyna
 D. sekretyna 
 E. gastryna 
 
-42 -Czas pomiêdzy pocz¹tkiem narastania ciœnienia w têtnicy szyjnej, a wciêciem dykrotycznym, jest miar¹ (?) 
+42 -Czas pomiÄ™dzy poczÄ…tkiem narastania ciÅ›nienia w tÄ™tnicy szyjnej, a wciÄ™ciem dykrotycznym, jest miarÄ… (?) 
 ODP:B
-A. zmniejszonego wype³niania komór 
+A. zmniejszonego wypeÅ‚niania komÃ³r 
 B. okresu wyrzucania komorowego 
-C. szybkiego wype³niania komór 
-D. rozkurczu przedsionków 
+C. szybkiego wypeÅ‚niania komÃ³r 
+D. rozkurczu przedsionkÃ³w 
 E. komorowego rozkurczu izowolumetrycznego 
 
-43 -Przyczyn¹ nag³ej œmierci noworodków podczas snu, w sytuacji utrudnionej wentylacjijest: 
+43 -PrzyczynÄ… nagÅ‚ej Å›mierci noworodkÃ³w podczas snu, w sytuacji utrudnionej wentylacjijest: 
 ODP:B
-A. zaburzenie procesu termoregulacji i zmniejszenie reakcji na hipoksjê
-B. niedojrza³oœæ i brak pobudliwoœci chemoreceptorów têtniczych reaguj¹cych na hipoksjê
-C. zahamowanie przewodzenia impulsów do miêœni oddechowych z tworu siatkowatego 
-D. zablokowanie transmisji synaptycznej do neuronów tworu siatkowatego 
-E. zahamowanie wydzielania neuromodulatorów, bior¹cych udzia³ w procesie chemorecepcji 
+A. zaburzenie procesu termoregulacji i zmniejszenie reakcji na hipoksjÄ™
+B. niedojrzaÅ‚oÅ›Ä‡ i brak pobudliwoÅ›ci chemoreceptorÃ³w tÄ™tniczych reagujÄ…cych na hipoksjÄ™
+C. zahamowanie przewodzenia impulsÃ³w do miÄ™Å›ni oddechowych z tworu siatkowatego 
+D. zablokowanie transmisji synaptycznej do neuronÃ³w tworu siatkowatego 
+E. zahamowanie wydzielania neuromodulatorÃ³w, biorÄ…cych udziaÅ‚ w procesie chemorecepcji 
 
-44 -Jeœli czynniki nerwowe i humoralne zmieniaj¹ pobudliwoœæ miêœnia sercowego to mamy 
-do czynienia z dzia³aniem 
+44 -JeÅ›li czynniki nerwowe i humoralne zmieniajÄ… pobudliwoÅ›Ä‡ miÄ™Å›nia sercowego to mamy 
+do czynienia z dziaÅ‚aniem 
 ODP:E
 A. tonotropowym
 B. chronotropowym 
@@ -343,24 +343,24 @@ C. dromotropowym
 D. inotropoowym
 E. batmotropowym 
 
-45 -Mechanizm dzia³ania atropiny w uk³adzie kr¹¿enia jest nastêpuj¹cy: (20 STAŒ SERCE) 
+45 -Mechanizm dziaÅ‚ania atropiny w ukÅ‚adzie krÄ…Å¼enia jest nastÄ™pujÄ…cy: (20 STAÅš SERCE) 
 ODP:D
-A. jako parasympatykomimetyk zwiêksza czêstoœæ wy³adowañ w nerwie
-B. blokuje wydzielanie acetylocholiny z zakoñczeñ przywspó³czulnych 
-C. zwiêksza wydzielanie acetylocholiny z zakoñczeñ nerwowych 
-D. czyni tkanki niewra¿liwymi na dzia³anie acetylocholiny 
-E. pobudza wydzielanie noradrenaliny z zakoñczeñ wspó³czulnych 
+A. jako parasympatykomimetyk zwiÄ™ksza czÄ™stoÅ›Ä‡ wyÅ‚adowaÅ„ w nerwie
+B. blokuje wydzielanie acetylocholiny z zakoÅ„czeÅ„ przywspÃ³Å‚czulnych 
+C. zwiÄ™ksza wydzielanie acetylocholiny z zakoÅ„czeÅ„ nerwowych 
+D. czyni tkanki niewraÅ¼liwymi na dziaÅ‚anie acetylocholiny 
+E. pobudza wydzielanie noradrenaliny z zakoÅ„czeÅ„ wspÃ³Å‚czulnych 
 
-46 -Sprawnoœæ sprzê¿enia elektromechanicznego uzale¿niona jest w mechanizmie regulacji 
-si³y skurczu miêœnia szkieletowego od: (78 TRACZ) 
+46 -SprawnoÅ›Ä‡ sprzÄ™Å¼enia elektromechanicznego uzaleÅ¼niona jest w mechanizmie regulacji 
+siÅ‚y skurczu miÄ™Å›nia szkieletowego od: (78 TRACZ) 
 ODP:E
-A. sprê¿ystoœci miêœnia
-B. zmiany czêstotliwoœci pobudzeñ 
+A. sprÄ™Å¼ystoÅ›ci miÄ™Å›nia
+B. zmiany czÄ™stotliwoÅ›ci pobudzeÅ„ 
 C. rekrutacji jednostek motorycznych 
-D. rodzaju skurczu miêœnia
-E. stopnia wstêpnego rozci¹gniêcia miêœnia 
+D. rodzaju skurczu miÄ™Å›nia
+E. stopnia wstÄ™pnego rozciÄ…gniÄ™cia miÄ™Å›nia 
 
-47 -Nadwra¿liwoœæ powstaj¹ca w wyniku nadmiernego powstawania kompleksów antygenprzeciwcia³o, które nie s¹ usuwane lecz kr¹¿¹ we krwi i mog¹ odk³adaæ siê w tkankach lub narz¹dach powoduj¹c ich uszkodzenie jest zaliczane do nadwra¿liwoœci typu. (58 SATŒ OGÓLNY) 
+47 -NadwraÅ¼liwoÅ›Ä‡ powstajÄ…ca w wyniku nadmiernego powstawania kompleksÃ³w antygenprzeciwciaÅ‚o, ktÃ³re nie sÄ… usuwane lecz krÄ…Å¼Ä… we krwi i mogÄ… odkÅ‚adaÄ‡ siÄ™ w tkankach lub narzÄ…dach powodujÄ…c ich uszkodzenie jest zaliczane do nadwraÅ¼liwoÅ›ci typu. (58 SATÅš OGÃ“LNY) 
 ODP:D
 A. II
 B. I
@@ -368,161 +368,161 @@ C. IV
 D. III
 E. V 
 
-48 -Wska¿ twierdzenie fa³szywe dotycz¹ce podstawowych funkcji komórek glejowych 
-uk³adu nerwowego (WIKIPEDIA KOM. GLEJOWE) 
+48 -WskaÅ¼ twierdzenie faÅ‚szywe dotyczÄ…ce podstawowych funkcji komÃ³rek glejowych 
+ukÅ‚adu nerwowego (WIKIPEDIA KOM. GLEJOWE) 
 ODP:C
-A. komórki glejowe wytwarzaj¹ i uwalniaj¹ substancje biologicznie czynne 
-B. kom. glejowe zamykaj¹ przestrzeñ synaptyczn¹ 
-C. kom. glejowe nie uczestnicz¹ w przekaŸnictwie synaptycznym 
-D. kom. glejowe uczestnicz¹ w regulacji sk³adu jonowego przestrzenioko³osynaksonalnej
-E. kom. glejowe uczestnicz¹ w regulacji pH przestrzeni oko³oaksonalnej 
+A. komÃ³rki glejowe wytwarzajÄ… i uwalniajÄ… substancje biologicznie czynne 
+B. kom. glejowe zamykajÄ… przestrzeÅ„ synaptycznÄ… 
+C. kom. glejowe nie uczestniczÄ… w przekaÅºnictwie synaptycznym 
+D. kom. glejowe uczestniczÄ… w regulacji skÅ‚adu jonowego przestrzeniokoÅ‚osynaksonalnej
+E. kom. glejowe uczestniczÄ… w regulacji pH przestrzeni okoÅ‚oaksonalnej 
 
-49 -BodŸcami do uwalniania hormonu wzrostu (GH) s¹ wszystkie czynniki z wyj¹tkiem 
+49 -BodÅºcami do uwalniania hormonu wzrostu (GH) sÄ… wszystkie czynniki z wyjÄ…tkiem 
 ODP:B
 A. glukagon 
 B. hiperglikemia
 C. stres
 D. wazopresyna
-E. wysi³ek fizyczny 
+E. wysiÅ‚ek fizyczny 
 
-50 -Najczêœciej wystêpuj¹cym rodzajem skurczu miêœnia poprzecznie pr¹¿kowanego jest skurcz (92 TRACZ MA£Y) 
+50 -NajczÄ™Å›ciej wystÄ™pujÄ…cym rodzajem skurczu miÄ™Å›nia poprzecznie prÄ…Å¼kowanego jest skurcz (92 TRACZ MAÅY) 
 ODP:D
-A. izotoniczny wtórnie obci¹¿ony 
-B. izometryczny wtórnie obci¹¿ony 
+A. izotoniczny wtÃ³rnie obciÄ…Å¼ony 
+B. izometryczny wtÃ³rnie obciÄ…Å¼ony 
 C. izometryczny
 D. auksotoniczny 
 E. izotoniczny 
 
-51 -Angiotensyna II silny czynnik presyjny, podnosi ciœnienie têtnicze miêdzy innymi dlatego, ¿e: 
+51 -Angiotensyna II silny czynnik presyjny, podnosi ciÅ›nienie tÄ™tnicze miÄ™dzy innymi dlatego, Å¼e: 
 ODP:D
-A. hamuje uwalnianie wazopresyny, z tylnego p³ata przysadki mózgowej zwiêkszaj¹c utratê wody
-B. zwê¿a naczynia oporowe przedw³oœniczkowe i zwiêksza stosunek reabsorpcji p³ynu tkankowego do filtracji w naczyniach 
-C. przestawia na wy¿szy poziom regulacji i zwiêksza reaktywnoœæ odruchu z chemoreceptorów têtniczych 
-D. zwiêksza wydzielanie aldosteronu, a tak¿e sama nasila wch³anianie sodu w kanalikach nerkowych, zatrzymuj¹c sód wraz z wod¹ 
-E. podnosi ciœnienie osmotyczne krwi, zwiêkszaj¹c resorpcjê jonów potasowych ichlorkowych 
+A. hamuje uwalnianie wazopresyny, z tylnego pÅ‚ata przysadki mÃ³zgowej zwiÄ™kszajÄ…c utratÄ™ wody
+B. zwÄ™Å¼a naczynia oporowe przedwÅ‚oÅ›niczkowe i zwiÄ™ksza stosunek reabsorpcji pÅ‚ynu tkankowego do filtracji w naczyniach 
+C. przestawia na wyÅ¼szy poziom regulacji i zwiÄ™ksza reaktywnoÅ›Ä‡ odruchu z chemoreceptorÃ³w tÄ™tniczych 
+D. zwiÄ™ksza wydzielanie aldosteronu, a takÅ¼e sama nasila wchÅ‚anianie sodu w kanalikach nerkowych, zatrzymujÄ…c sÃ³d wraz z wodÄ… 
+E. podnosi ciÅ›nienie osmotyczne krwi, zwiÄ™kszajÄ…c resorpcjÄ™ jonÃ³w potasowych ichlorkowych 
 
-52 -Kana³y synaptyczne w koñcowej drodze wspólnej:
+52 -KanaÅ‚y synaptyczne w koÅ„cowej drodze wspÃ³lnej:
 ODP:A
-A. s¹ pobudzane przez acetylocholinê 
-B. maj¹ du¿¹ przepuszczalnoœæ dla jonów sodu 
-C. odpowiadaj¹ za okres refrakcji wzglêdnej
-D. otwieraj¹ siê podczas depolaryzacji b³ony komórkowej
-E. s¹ hamowane przez atropinê 
+A. sÄ… pobudzane przez acetylocholinÄ™ 
+B. majÄ… duÅ¼Ä… przepuszczalnoÅ›Ä‡ dla jonÃ³w sodu 
+C. odpowiadajÄ… za okres refrakcji wzglÄ™dnej
+D. otwierajÄ… siÄ™ podczas depolaryzacji bÅ‚ony komÃ³rkowej
+E. sÄ… hamowane przez atropinÄ™ 
 
-53 -Przechodzenie dŸwiêku ze œrodowiska gazowego do ciek³ego:
+53 -Przechodzenie dÅºwiÄ™ku ze Å›rodowiska gazowego do ciekÅ‚ego:
 ODP:E
-A. podnosi czêstotliwoœæ fal dŸwiêkowych 
-B. obni¿a czêstotliwoœæ fali dŸwiêkowej
-C. zwiêksza natê¿enie dŸwiêku o oko³o 10 dB 
-D. nie ma wp³ywu na natê¿enie dŸwiêku 
-E. zmniejsza natê¿enie dŸwiêku o oko³o 30 dB 
+A. podnosi czÄ™stotliwoÅ›Ä‡ fal dÅºwiÄ™kowych 
+B. obniÅ¼a czÄ™stotliwoÅ›Ä‡ fali dÅºwiÄ™kowej
+C. zwiÄ™ksza natÄ™Å¼enie dÅºwiÄ™ku o okoÅ‚o 10 dB 
+D. nie ma wpÅ‚ywu na natÄ™Å¼enie dÅºwiÄ™ku 
+E. zmniejsza natÄ™Å¼enie dÅºwiÄ™ku o okoÅ‚o 30 dB 
 
-54 -Bia³kiem uwalnianym w zakoñczeniach synaptycznych, a uczestnicz¹cych w formowaniusynaps poprzez wbudowywanie (?) w regionie p³ytki ruchowej receptorów acetylocholinowych jest: (51 TRACZ) 
+54 -BiaÅ‚kiem uwalnianym w zakoÅ„czeniach synaptycznych, a uczestniczÄ…cych w formowaniusynaps poprzez wbudowywanie (?) w regionie pÅ‚ytki ruchowej receptorÃ³w acetylocholinowych jest: (51 TRACZ) 
 ODP:D
 A. neurotrofina 3 (NT-3)
-B. cz¹steczka adhezyjna N-CAM   
-C. zasadoch³onny czynnik wzrostu fibroblastów 
+B. czÄ…steczka adhezyjna N-CAM   
+C. zasadochÅ‚onny czynnik wzrostu fibroblastÃ³w 
 D. agryna
-E. b³onowe bia³ko G 
+E. bÅ‚onowe biaÅ‚ko G 
 
-55 -Które z poni¿szych bia³ek jest potrzebne do wywo³ania skurczu miêœnia szkieletowego, a 
-nie jest potrzebne do skurczu miêœnia g³adkiego? 
+55 -KtÃ³re z poniÅ¼szych biaÅ‚ek jest potrzebne do wywoÅ‚ania skurczu miÄ™Å›nia szkieletowego, a 
+nie jest potrzebne do skurczu miÄ™Å›nia gÅ‚adkiego? 
 ODP:C
-A. adenozynotrójfosfataza miozyny 
+A. adenozynotrÃ³jfosfataza miozyny 
 B. ATP-aza wapniowa 
 C. troponina 
 D. miozyna 
 E. aktyna 
 
-56 -G³ównym bia³kiem czêœci cewkowej siateczki sarkoplazmatycznej jest: 
+56 -GÅ‚Ã³wnym biaÅ‚kiem czÄ™Å›ci cewkowej siateczki sarkoplazmatycznej jest: 
 ODP:E
 A. dystrofina 
 B. fosfolamban 
 C. rianodyna
 D. kalsekwestryna
-E. ATP-aza wi¹¿¹ca jony wapnia
+E. ATP-aza wiÄ…Å¼Ä…ca jony wapnia
  
-57 -Podstawow¹ czynnoœci¹ komórek oligodendrogleju. (68. 3.6.1 TRACZ) 
+57 -PodstawowÄ… czynnoÅ›ciÄ… komÃ³rek oligodendrogleju. (68. 3.6.1 TRACZ) 
 ODP:C
-A. wyœcie³anie œcian komór mózgu i kana³u œrodkowego rdzenia krêgowego 
-B. zdolnoœæ prezentowania antygenu 
-C. tworzenie os³onek mielinowych na w³óknach nerwowych oœrodkowego uk³adu nerwowego
-D. wydzielanie cytokin oraz zdolnoœæ migracji i fagocytozy 
+A. wyÅ›cieÅ‚anie Å›cian komÃ³r mÃ³zgu i kanaÅ‚u Å›rodkowego rdzenia krÄ™gowego 
+B. zdolnoÅ›Ä‡ prezentowania antygenu 
+C. tworzenie osÅ‚onek mielinowych na wÅ‚Ã³knach nerwowych oÅ›rodkowego ukÅ‚adu nerwowego
+D. wydzielanie cytokin oraz zdolnoÅ›Ä‡ migracji i fagocytozy 
 E. funkcja podporowa w stosunku do kom. nerwowych 
 
-58 -Cech¹ strefy przedsionkowo wêz³owej wêz³a przedsionkowo-komorowego jest: (457 TRACZ) 
+58 -CechÄ… strefy przedsionkowo wÄ™zÅ‚owej wÄ™zÅ‚a przedsionkowo-komorowego jest: (457 TRACZ) 
 ODP:C
-A. szybkie przewodzenie impulsów, dziêki czemu skurcz przedsionków wyprzedza skurcz komór
-B. obecnoœæ powolnej spoczynkowej depolaryzacji, która przebiega wolniej ni¿ w wêŸle zatokowo-przedsionkowych 
-C. sta³y potencja³ spoczynkowy, z powodu braku w³aœciwoœci automatyzmu komórkê tej strefy
-D. szybka depolaryzacji o du¿ej amplitudzie potencja³u w odpowiedzi na bodziec progowy 
-E. brak zale¿noœci potencja³ów czynnoœciowych od aktywacji kana³ów wapniowych 
+A. szybkie przewodzenie impulsÃ³w, dziÄ™ki czemu skurcz przedsionkÃ³w wyprzedza skurcz komÃ³r
+B. obecnoÅ›Ä‡ powolnej spoczynkowej depolaryzacji, ktÃ³ra przebiega wolniej niÅ¼ w wÄ™Åºle zatokowo-przedsionkowych 
+C. staÅ‚y potencjaÅ‚ spoczynkowy, z powodu braku wÅ‚aÅ›ciwoÅ›ci automatyzmu komÃ³rkÄ™ tej strefy
+D. szybka depolaryzacji o duÅ¼ej amplitudzie potencjaÅ‚u w odpowiedzi na bodziec progowy 
+E. brak zaleÅ¼noÅ›ci potencjaÅ‚Ã³w czynnoÅ›ciowych od aktywacji kanaÅ‚Ã³w wapniowych 
 
-59 -Przyczyn¹ wzrostu wartoœci ciœnienie rozkurczowego mo¿e byæ: (531 TRACZ) 
+59 -PrzyczynÄ… wzrostu wartoÅ›ci ciÅ›nienie rozkurczowego moÅ¼e byÄ‡: (531 TRACZ) 
 ODP:A
-A. zmniejszaj¹cy siê wspó³czynnik sprê¿ystoœci aorty 
-B. skrócenie przerw rozkurczowych w czasie przyœpieszenia rytmu serca 
-C. zmniejszenie ca³kowitego naczyniowego oporu obwodowego 
-D. cofanie siê krwi do lewej komory na skutek niedomykalnoœci zastawek pó³ksiê¿ycowatych 
-E. zmniejszenie rozci¹gniêcia aorty i jej sprê¿ystoœci w miarê odp³ywu krwi do mikrokr¹¿enia 
+A. zmniejszajÄ…cy siÄ™ wspÃ³Å‚czynnik sprÄ™Å¼ystoÅ›ci aorty 
+B. skrÃ³cenie przerw rozkurczowych w czasie przyÅ›pieszenia rytmu serca 
+C. zmniejszenie caÅ‚kowitego naczyniowego oporu obwodowego 
+D. cofanie siÄ™ krwi do lewej komory na skutek niedomykalnoÅ›ci zastawek pÃ³Å‚ksiÄ™Å¼ycowatych 
+E. zmniejszenie rozciÄ…gniÄ™cia aorty i jej sprÄ™Å¼ystoÅ›ci w miarÄ™ odpÅ‚ywu krwi do mikrokrÄ…Å¼enia 
 
-60 -Przedsionkowy peptyd natriuretyczny powoduje (32 STAŒ SIKANIE) 
+60 -Przedsionkowy peptyd natriuretyczny powoduje (32 STAÅš SIKANIE) 
 ODP:A
 A. hamowanie resorpcji sodu w kanaliku zbiorczym 
-B. obni¿enie wydalania sodu z moczem 
-C. hamowanie resorpcji potasu w kanaliku krêtym proksymalnym 
-D. obni¿enie procesu filtracji k³êbuszkowej
-E. zwê¿enie têtniczki doprowadzaj¹cej k³êbuszków nerkowych 
+B. obniÅ¼enie wydalania sodu z moczem 
+C. hamowanie resorpcji potasu w kanaliku krÄ™tym proksymalnym 
+D. obniÅ¼enie procesu filtracji kÅ‚Ä™buszkowej
+E. zwÄ™Å¼enie tÄ™tniczki doprowadzajÄ…cej kÅ‚Ä™buszkÃ³w nerkowych 
 
 61 -Przedsionkowy peptyd natriuretyczny powoduje: 
 ODP:A
 A. hamowanie resorpcji sodu w kanaliku zbiorczym 
-B. obni¿enie wydalania sodu z moczem 
-C. hamowanie resorpcji potasu w kanaliku krêtym proksymalnym 
-D. obni¿enie procesu filtracji k³êbuszkowej
-E. zwê¿enie têtniczki doprowadzaj¹cej k³êbuszków nerkowych 
+B. obniÅ¼enie wydalania sodu z moczem 
+C. hamowanie resorpcji potasu w kanaliku krÄ™tym proksymalnym 
+D. obniÅ¼enie procesu filtracji kÅ‚Ä™buszkowej
+E. zwÄ™Å¼enie tÄ™tniczki doprowadzajÄ…cej kÅ‚Ä™buszkÃ³w nerkowych 
 
-62 -Podczas czytania zachodzi zwiêkszenie napiêcia akomodacyjnego podczas, którego obserwuje siê: (104 TRACZ DZIA£ 6.2.2) 
+62 -Podczas czytania zachodzi zwiÄ™kszenie napiÄ™cia akomodacyjnego podczas, ktÃ³rego obserwuje siÄ™: (104 TRACZ DZIAÅ 6.2.2) 
 ODP:B
-A. rozkurcz w³ókien okrê¿nych zwalniaj¹cych naci¹g obwódki rzêskowej powoduj¹cy sp³aszczenie soczewki 
-B. skurcz w³ókien okrê¿nych zwalniaj¹cych naci¹g obwódki rzêskowej powoduj¹cy grubienie soczewki i
-C. skurcz w³ókien okrê¿nych zwalniaj¹cych naci¹g obwódki rzêskowej powoduj¹cy sp³aszczenie soczewki 
-D. skurcz w³ókien okrê¿nych zwalniaj¹cych naci¹g obwódki rzêskowej powoduj¹cy grubienie soczewki 
-E. rozkurcz w³ókien okrê¿nych zwalniaj¹cych naci¹g obwódki rzêskowej powoduj¹cy grubienie soczewki 
+A. rozkurcz wÅ‚Ã³kien okrÄ™Å¼nych zwalniajÄ…cych naciÄ…g obwÃ³dki rzÄ™skowej powodujÄ…cy spÅ‚aszczenie soczewki 
+B. skurcz wÅ‚Ã³kien okrÄ™Å¼nych zwalniajÄ…cych naciÄ…g obwÃ³dki rzÄ™skowej powodujÄ…cy grubienie soczewki i
+C. skurcz wÅ‚Ã³kien okrÄ™Å¼nych zwalniajÄ…cych naciÄ…g obwÃ³dki rzÄ™skowej powodujÄ…cy spÅ‚aszczenie soczewki 
+D. skurcz wÅ‚Ã³kien okrÄ™Å¼nych zwalniajÄ…cych naciÄ…g obwÃ³dki rzÄ™skowej powodujÄ…cy grubienie soczewki 
+E. rozkurcz wÅ‚Ã³kien okrÄ™Å¼nych zwalniajÄ…cych naciÄ…g obwÃ³dki rzÄ™skowej powodujÄ…cy grubienie soczewki 
 
-63 -Nerw wzrokowy utworzony jest z: (109 TRACZ, 77 STAŒ NEURO) 
+63 -Nerw wzrokowy utworzony jest z: (109 TRACZ, 77 STAÅš NEURO) 
 ODP:A
-A. aksonów komórek zwojowych 
-B. dendrytów komórek dwubiegunowych 
-C. aksonów komórek dwubiegunowych
-D. aksonów komórek amakrynowych
-E. dendrytów komórek zwojowych 
+A. aksonÃ³w komÃ³rek zwojowych 
+B. dendrytÃ³w komÃ³rek dwubiegunowych 
+C. aksonÃ³w komÃ³rek dwubiegunowych
+D. aksonÃ³w komÃ³rek amakrynowych
+E. dendrytÃ³w komÃ³rek zwojowych 
 
-64 -Miêdzytrawienne wêdruj¹ce kompleksy motoryczne (MMC) (12 STAŒ POKARMOWY) 
+64 -MiÄ™dzytrawienne wÄ™drujÄ…ce kompleksy motoryczne (MMC) (12 STAÅš POKARMOWY) 
 ODP:D
-A. faza trzecia jest najd³u¿sza 
-B. faza druga wykazuje najwiêksz¹ intensywnoœæ skurczów 
-C. ca³oœæ cyklu trwa oko³o 45-60 minut
-D. faza pierwsza charakteryzuje siê brakiem aktywnoœci skurczowej
-E. sk³ada siê z trzech faz 
+A. faza trzecia jest najdÅ‚uÅ¼sza 
+B. faza druga wykazuje najwiÄ™kszÄ… intensywnoÅ›Ä‡ skurczÃ³w 
+C. caÅ‚oÅ›Ä‡ cyklu trwa okoÅ‚o 45-60 minut
+D. faza pierwsza charakteryzuje siÄ™ brakiem aktywnoÅ›ci skurczowej
+E. skÅ‚ada siÄ™ z trzech faz 
 
-65 -O wielkoœci objêtoœci zalegaj¹cej p³uc RV decyduje (637 TRACZ) 
+65 -O wielkoÅ›ci objÄ™toÅ›ci zalegajÄ…cej pÅ‚uc RV decyduje (637 TRACZ) 
 ODP:B
-A. ciœnienie transpulmonarne pokonuj¹ce si³y retrakcji
-B. sprê¿ystoœæ klatki piersiowej rozci¹gaj¹cej jej œciany na zewn¹trz 
-C. ciœnienie niezbêdne do pokonania oporu dróg oddechowych 
-D. napiêcie powierzchniowe, które odpowiednio ustawia w³ókna sprê¿yste
-E. wzajemna równowaga si³ retrakcji i podatnoœci p³uc   
+A. ciÅ›nienie transpulmonarne pokonujÄ…ce siÅ‚y retrakcji
+B. sprÄ™Å¼ystoÅ›Ä‡ klatki piersiowej rozciÄ…gajÄ…cej jej Å›ciany na zewnÄ…trz 
+C. ciÅ›nienie niezbÄ™dne do pokonania oporu drÃ³g oddechowych 
+D. napiÄ™cie powierzchniowe, ktÃ³re odpowiednio ustawia wÅ‚Ã³kna sprÄ™Å¼yste
+E. wzajemna rÃ³wnowaga siÅ‚ retrakcji i podatnoÅ›ci pÅ‚uc   
 
-66 -Si³a refrakcji rogówki jest (104 TRACZ) 
+66 -SiÅ‚a refrakcji rogÃ³wki jest (104 TRACZ) 
 ODP:A
-A. w zasadzie sta³a i wynosi oko³o 42 D 
+A. w zasadzie staÅ‚a i wynosi okoÅ‚o 42 D 
 B. zmienna i wynosi od 20 -40 D 
-C. w zasadzie sta³a i wynosi oko³o 20 D 
+C. w zasadzie staÅ‚a i wynosi okoÅ‚o 20 D 
 D. zmienna i wynosi 13-26 D 
-E. w zasadzie sta³a i wynosi oko³o 62 D 
+E. w zasadzie staÅ‚a i wynosi okoÅ‚o 62 D 
 
-67 -G³ównym czynnikiem produkowanym przez przez neutrofile wywo³uj¹cym skurcz oskrzeli jest: (648 TRACZ) 
+67 -GÅ‚Ã³wnym czynnikiem produkowanym przez przez neutrofile wywoÅ‚ujÄ…cym skurcz oskrzeli jest: (648 TRACZ) 
 ODP:B
 A. interleukina 1 
 B. leukotrien E-4 (LTE-4)
@@ -530,127 +530,127 @@ C. prostacyklina
 D. interleukina 6 
 E. leukotrien B-4 (LTB-4)
 
-68 -G³ównym miejscem powstawania 1,2(?) CHYBA 1,25-DIHYDROKSYCHOLEKALCYFEROL 
+68 -GÅ‚Ã³wnym miejscem powstawania 1,2(?) CHYBA 1,25-DIHYDROKSYCHOLEKALCYFEROL 
 ODP:D
-A. skóra
-B. krew kr¹¿¹ca
-C. koœæ
+A. skÃ³ra
+B. krew krÄ…Å¼Ä…ca
+C. koÅ›Ä‡
 D. nefron 
-E. w¹troba 
+E. wÄ…troba 
 
-69 -Zaznacz prawid³owe (?) Podatnoœæ ca³kowita p³uc i klatki piersiowej uk³¹du oddechowego jako ca³oœci jest: 
+69 -Zaznacz prawidÅ‚owe (?) PodatnoÅ›Ä‡ caÅ‚kowita pÅ‚uc i klatki piersiowej ukÅ‚Ä…du oddechowego jako caÅ‚oÅ›ci jest: 
 ODP:A
-A. jest wiêksze do podatnoœci p³uc 
-B. jest wiêksza od podatnoœci œcian klatki piersiowej
-C. jest równa podatnoœci œcian klatki piersiowej
-D. jest mniejsza od podatnoœci œcian klatki piersiowej
-E. jest równa podatnoœci p³uc 
+A. jest wiÄ™ksze do podatnoÅ›ci pÅ‚uc 
+B. jest wiÄ™ksza od podatnoÅ›ci Å›cian klatki piersiowej
+C. jest rÃ³wna podatnoÅ›ci Å›cian klatki piersiowej
+D. jest mniejsza od podatnoÅ›ci Å›cian klatki piersiowej
+E. jest rÃ³wna podatnoÅ›ci pÅ‚uc 
 
-70 -Jeœli ciœnienie têtnicze wynosi 120/75 mmHg to ciœnienie œrednie (MAP) wynosi:
+70 -JeÅ›li ciÅ›nienie tÄ™tnicze wynosi 120/75 mmHg to ciÅ›nienie Å›rednie (MAP) wynosi:
 ODP:E
 A. 110 mmHg
-B. z jednego pomiaru nie mo¿na wyliczyæ ciœnienia œredniego   
+B. z jednego pomiaru nie moÅ¼na wyliczyÄ‡ ciÅ›nienia Å›redniego   
 C. 70 mmHg
 D. 45 mmHg
 E. 90 mmHg
 
-71 -Skórcz miêœnia naprê¿acza b³ony bêbenkowej powoduje: (123 TRACZ – PO PRAWEJ) 
+71 -SkÃ³rcz miÄ™Å›nia naprÄ™Å¼acza bÅ‚ony bÄ™benkowej powoduje: (123 TRACZ â€“ PO PRAWEJ) 
 ODP:C,E
-A. zmniejszenie napiêcia b³ony bêbenkowej
-B. zwiêkszenie wychyleñ b³ony bêbenkowej
-C. wci¹gniêcie b³ony bêbenkowej w kierunku jamy uch œrodkowego 
-D. wci¹gniêcie b³ony bêbenkowej w kierunku przewodu s³uchowego 
-E. zwiêkszenie napiêcia b³ony bêbenkowej i ograniczenie jej wychyleñ 
+A. zmniejszenie napiÄ™cia bÅ‚ony bÄ™benkowej
+B. zwiÄ™kszenie wychyleÅ„ bÅ‚ony bÄ™benkowej
+C. wciÄ…gniÄ™cie bÅ‚ony bÄ™benkowej w kierunku jamy uch Å›rodkowego 
+D. wciÄ…gniÄ™cie bÅ‚ony bÄ™benkowej w kierunku przewodu sÅ‚uchowego 
+E. zwiÄ™kszenie napiÄ™cia bÅ‚ony bÄ™benkowej i ograniczenie jej wychyleÅ„ 
 
-72 -Nadmiar hormonów tarczycy powoduje(?) (370-371 TRACZ, U DO£U NA 370) 
+72 -Nadmiar hormonÃ³w tarczycy powoduje(?) (370-371 TRACZ, U DOÅU NA 370) 
 ODP:B
-A. spadek czêstoœci i si³y skurczów miêœnia sercowego 
-B. skrócenie czasu reakcji odruchu ze œciêgna Achillesa 
-C. zahamowanie rozwoju umys³owego 
-D. zwiêkszenie masy kostnej
-E. obni¿enie stê¿enia insuliny w surowicy krwi
+A. spadek czÄ™stoÅ›ci i siÅ‚y skurczÃ³w miÄ™Å›nia sercowego 
+B. skrÃ³cenie czasu reakcji odruchu ze Å›ciÄ™gna Achillesa 
+C. zahamowanie rozwoju umysÅ‚owego 
+D. zwiÄ™kszenie masy kostnej
+E. obniÅ¼enie stÄ™Å¼enia insuliny w surowicy krwi
 
-73 -Szybko adaptuj¹ce receptory dróg oddechowych (RAR) (689 TRACZ) 
+73 -Szybko adaptujÄ…ce receptory drÃ³g oddechowych (RAR) (689 TRACZ) 
 ODP:A
-A. przeciwdzia³aj¹ zmniejszaniu pojemnoœci p³uc, przezwyciê¿aj¹c 
-B. s¹ ma³o wra¿liwe na bodŸce mechaniczne a pobudzane s¹ przez 
-C. zwiêkszaj¹ swoj¹ aktywnoœæ pod wp³ywem czynników kurcz¹cych 
-D. bodŸcem do ich pobudzenia jest obrzêk p³uc i zmniejszenie pracy oddechowej
-E. zwiêkszaj¹ amplitudê wdechu i wyd³u¿aj¹ fazê wydechu 
+A. przeciwdziaÅ‚ajÄ… zmniejszaniu pojemnoÅ›ci pÅ‚uc, przezwyciÄ™Å¼ajÄ…c 
+B. sÄ… maÅ‚o wraÅ¼liwe na bodÅºce mechaniczne a pobudzane sÄ… przez 
+C. zwiÄ™kszajÄ… swojÄ… aktywnoÅ›Ä‡ pod wpÅ‚ywem czynnikÃ³w kurczÄ…cych 
+D. bodÅºcem do ich pobudzenia jest obrzÄ™k pÅ‚uc i zmniejszenie pracy oddechowej
+E. zwiÄ™kszajÄ… amplitudÄ™ wdechu i wydÅ‚uÅ¼ajÄ… fazÄ™ wydechu 
 
 74 -(?) CHYBA TROPOMIOZYNA 
 ODP:E
-A. zwi¹zane s¹ z miozyn¹ w czasie skurczu 
-B. przesuniêcie aktyny powoduj¹ce skurcz sarkomeru 
-C. uwolnienie energii potencjalnej przekazywanej szyjce g³ówki miozyny 
-D. wytwarzanie ATP, który zapocz¹tkowuje mechanizm skurczu 
-E. dzia³anie w spoczynku poprzez zakrycie miejsc, w których aktyna ³¹czy siê z (?)
+A. zwiÄ…zane sÄ… z miozynÄ… w czasie skurczu 
+B. przesuniÄ™cie aktyny powodujÄ…ce skurcz sarkomeru 
+C. uwolnienie energii potencjalnej przekazywanej szyjce gÅ‚Ã³wki miozyny 
+D. wytwarzanie ATP, ktÃ³ry zapoczÄ…tkowuje mechanizm skurczu 
+E. dziaÅ‚anie w spoczynku poprzez zakrycie miejsc, w ktÃ³rych aktyna Å‚Ä…czy siÄ™ z (?)
 
-75 -Zaznacz, który z poni¿szych neuroprzekaŸników wywo³uje dzia³anie 
+75 -Zaznacz, ktÃ³ry z poniÅ¼szych neuroprzekaÅºnikÃ³w wywoÅ‚uje dziaÅ‚anie 
 ODP:0
 A. tlenek azotu
 B. acetylocholina 
 C. kwas glutaminowy
 D. adrenalina 
-E. kwas gamma-aminomas³owy 
+E. kwas gamma-aminomasÅ‚owy 
 
-76 -Efektem biochemicznym dzia³ania kortyzolu s¹ wymienione przemiany z wyj¹tkiem: 
+76 -Efektem biochemicznym dziaÅ‚ania kortyzolu sÄ… wymienione przemiany z wyjÄ…tkiem: 
 ODP:C
-A. glukoneogeneza w¹trobowa 
-B. katabolizm bia³ek w miêœniach 
-C. lipogeneza w¹trobowa
-D. anabolizm bia³ek w w¹trobie
-E. glikogeneza w¹trobowa   
+A. glukoneogeneza wÄ…trobowa 
+B. katabolizm biaÅ‚ek w miÄ™Å›niach 
+C. lipogeneza wÄ…trobowa
+D. anabolizm biaÅ‚ek w wÄ…trobie
+E. glikogeneza wÄ…trobowa   
 
-77 -WskaŸnikiem pobudliwoœci hamuj¹cego odruchu Heringa-Breuera jest: 
+77 -WskaÅºnikiem pobudliwoÅ›ci hamujÄ…cego odruchu Heringa-Breuera jest: 
 ODP:B
-A. czas narastania napêdu wdechowego do czêstotliwoœci oddechów w cykluoddechowym
-B. wspó³czynnik d³ugoœci cyklu oddechowego do czasu trwania wdechu 
-C. stopieñ rozci¹gniêcia p³uc do czasu trwania wdechu   
-D. czas trwania wydechu do objêtoœci wydechowej
-E. wielkoœæ objêtoœci wdechowej do oporu dróg oddechowych 
+A. czas narastania napÄ™du wdechowego do czÄ™stotliwoÅ›ci oddechÃ³w w cykluoddechowym
+B. wspÃ³Å‚czynnik dÅ‚ugoÅ›ci cyklu oddechowego do czasu trwania wdechu 
+C. stopieÅ„ rozciÄ…gniÄ™cia pÅ‚uc do czasu trwania wdechu   
+D. czas trwania wydechu do objÄ™toÅ›ci wydechowej
+E. wielkoÅ›Ä‡ objÄ™toÅ›ci wdechowej do oporu drÃ³g oddechowych 
 
-78 -Istotne obni¿enie zewn¹trzkomórkowego stê¿enia jonów potasu (?) (59 MA£Y TRACZ) 
+78 -Istotne obniÅ¼enie zewnÄ…trzkomÃ³rkowego stÄ™Å¼enia jonÃ³w potasu (?) (59 MAÅY TRACZ) 
 ODP:A
-A. zmniejszenie ujemnoœci potencja³u b³onowego 
-B. zwiêkszenie transportu jonów sodowych na zewn¹trz komórki przez (?)
-C. zmniejszenie ujemnoœci potencja³u równowagi dla jonów potasu   
-D. zwiêkszenie przewodnoœci b³ony komórkowej dla jonów potasu 
-E. zwiêkszenie si³y napêdowej dla jonów sodowych 
+A. zmniejszenie ujemnoÅ›ci potencjaÅ‚u bÅ‚onowego 
+B. zwiÄ™kszenie transportu jonÃ³w sodowych na zewnÄ…trz komÃ³rki przez (?)
+C. zmniejszenie ujemnoÅ›ci potencjaÅ‚u rÃ³wnowagi dla jonÃ³w potasu   
+D. zwiÄ™kszenie przewodnoÅ›ci bÅ‚ony komÃ³rkowej dla jonÃ³w potasu 
+E. zwiÄ™kszenie siÅ‚y napÄ™dowej dla jonÃ³w sodowych 
 
-79 -Wska¿ odpowiedŸ b³êdn¹ dotycz¹c¹ dzia³ania acetylocholiny (480-481 TRACZ) 
+79 -WskaÅ¼ odpowiedÅº bÅ‚Ä™dnÄ… dotyczÄ…cÄ… dziaÅ‚ania acetylocholiny (480-481 TRACZ) 
 ODP:D
-A. acetylocholina zwalnia lub ca³kowicie zahomowuje rytm zatokowy 
-B. acetylocholina mo¿e powodowaæ wystêpowanie odwracalnych bloków w (?)
-C. acetylocholina zmniejsza szybkoœæ przewodzenia i amplitudê potencja³ów w (?)
-D. acetylocholina wywiera wp³yw na automatyzm komórek przewodz¹cych (?)
-E. acetylocholina zwiêksza przewodnoœæ sarkolemmy dla jonów potasowych   
+A. acetylocholina zwalnia lub caÅ‚kowicie zahomowuje rytm zatokowy 
+B. acetylocholina moÅ¼e powodowaÄ‡ wystÄ™powanie odwracalnych blokÃ³w w (?)
+C. acetylocholina zmniejsza szybkoÅ›Ä‡ przewodzenia i amplitudÄ™ potencjaÅ‚Ã³w w (?)
+D. acetylocholina wywiera wpÅ‚yw na automatyzm komÃ³rek przewodzÄ…cych (?)
+E. acetylocholina zwiÄ™ksza przewodnoÅ›Ä‡ sarkolemmy dla jonÃ³w potasowych   
 
-80 -Do receptorów tonicznych nie zaliczamy 
+80 -Do receptorÃ³w tonicznych nie zaliczamy 
 ODP:D
-A. wiêkszoœci nocyceptorów 
-B. zakoñczeñ pierœcieniowo-spiralnych we wrzecionku miêœniowym 
-C. baroreceptorów ³uku aorty i zatoki szyjnej
-D. receptorów dotyku i ucisku 
-E. cia³ek bu³awkowatych   
+A. wiÄ™kszoÅ›ci nocyceptorÃ³w 
+B. zakoÅ„czeÅ„ pierÅ›cieniowo-spiralnych we wrzecionku miÄ™Å›niowym 
+C. baroreceptorÃ³w Å‚uku aorty i zatoki szyjnej
+D. receptorÃ³w dotyku i ucisku 
+E. ciaÅ‚ek buÅ‚awkowatych   
 
-81 -Wska¿ odpowiedŸ poprawn¹ dotycz¹c¹ organizacji i funkcji (?) (83 TRACZ) 
+81 -WskaÅ¼ odpowiedÅº poprawnÄ… dotyczÄ…cÄ… organizacji i funkcji (?) (83 TRACZ) 
 ODP:E
-A. miocyty wchodz¹ce w sk³ad jednostki motorycznej zebrane s¹ w (?)
-B. sposób dyslokacji miocytów jednostki motorycznej nie wp³ywa na (?)
-C. aktywacja zmiennej iloœci jednostek motorycznych jest jednym (?)   
-D. jednostka motoryczna obejmuje nerw obwodowy i wszystkie miêœnie (?)
-E. miocyty wchodz¹ce w sk³ad jednostki motorycznej rozmieszczone s¹ (?)jednostek 
+A. miocyty wchodzÄ…ce w skÅ‚ad jednostki motorycznej zebrane sÄ… w (?)
+B. sposÃ³b dyslokacji miocytÃ³w jednostki motorycznej nie wpÅ‚ywa na (?)
+C. aktywacja zmiennej iloÅ›ci jednostek motorycznych jest jednym (?)   
+D. jednostka motoryczna obejmuje nerw obwodowy i wszystkie miÄ™Å›nie (?)
+E. miocyty wchodzÄ…ce w skÅ‚ad jednostki motorycznej rozmieszczone sÄ… (?)jednostek 
 
-82 -Najwy¿sza spoczynkowa ró¿nica têtniczo-¿ylna wysycenia (?) 
+82 -NajwyÅ¼sza spoczynkowa rÃ³Å¼nica tÄ™tniczo-Å¼ylna wysycenia (?) 
 ODP:H
-A. P³ucach   
+A. PÅ‚ucach   
 B. Nerce  
 C. Sercu <chyba serce>
-D. W¹trobie
-E. Miêœniach szkieletowych   
+D. WÄ…trobie
+E. MiÄ™Å›niach szkieletowych   
 
-83 -Komórkami odpowiedzialnymi za neutralizacjê mediatorów (?) 
+83 -KomÃ³rkami odpowiedzialnymi za neutralizacjÄ™ mediatorÃ³w (?) 
 ODP:A
 A. eozynofile
 B. bazofile
@@ -658,39 +658,39 @@ C. limfocyty NK
 D. limfocyty Th   
 E. limfocyty Tc 
 
-84 -Zu¿ycie tlenu przez komórki miêœnia sercowego determinuj¹ (?)(485 TRACZ) 
+84 -ZuÅ¼ycie tlenu przez komÃ³rki miÄ™Å›nia sercowego determinujÄ… (?)(485 TRACZ) 
 ODP:A
-A. kurczliwoœæ miêœnia sercowego w fazie skurczu izowolumetrycznego 
-B. szybkoœæ powrotu ¿ylnego do prawej komory serca 
+A. kurczliwoÅ›Ä‡ miÄ™Å›nia sercowego w fazie skurczu izowolumetrycznego 
+B. szybkoÅ›Ä‡ powrotu Å¼ylnego do prawej komory serca 
 C. czas trwania fazy rozkurczu izowolumetrycznego   
-D. napiêcie miêsni roboczych przedsionków w czasie ich skurczu 
-E. wartoœæ ciœnienia komorowego w fazie maksymalnego wyrzutu 
+D. napiÄ™cie miÄ™sni roboczych przedsionkÃ³w w czasie ich skurczu 
+E. wartoÅ›Ä‡ ciÅ›nienia komorowego w fazie maksymalnego wyrzutu 
 
-85 -Mianem nadstrza³u w potencjale czynnoœciowym neuronu okreœlamy (59 TRACZ) 
+85 -Mianem nadstrzaÅ‚u w potencjale czynnoÅ›ciowym neuronu okreÅ›lamy (59 TRACZ) 
 ODP:B
-A. wartoœæ potencja³u wewn¹trzkomórkowego poni¿ej progu pobudliwoœci, ale powy¿ejpotencja³u spoczynkowego
-B. okres w którym sodowy pr¹d dokomórkowy osi¹ga wartoœæ maksymaln¹ wynikaj¹c¹ z otwarcia najwiêkszej liczby kana³ów 
-C. pojawiaj¹ce siê fazy potencja³ów nastêpczych : depolaryzacyjnego ihiperpolaryzacyjnego 
-D. okres zwiêkszania wyp³ywu jonów potasowych z komórki nerwowej
-E. przerwê czasow¹ w której pomimo dzia³ania bodŸca nie pojawia siê potencja³czynnoœciowy 
+A. wartoÅ›Ä‡ potencjaÅ‚u wewnÄ…trzkomÃ³rkowego poniÅ¼ej progu pobudliwoÅ›ci, ale powyÅ¼ejpotencjaÅ‚u spoczynkowego
+B. okres w ktÃ³rym sodowy prÄ…d dokomÃ³rkowy osiÄ…ga wartoÅ›Ä‡ maksymalnÄ… wynikajÄ…cÄ… z otwarcia najwiÄ™kszej liczby kanaÅ‚Ã³w 
+C. pojawiajÄ…ce siÄ™ fazy potencjaÅ‚Ã³w nastÄ™pczych : depolaryzacyjnego ihiperpolaryzacyjnego 
+D. okres zwiÄ™kszania wypÅ‚ywu jonÃ³w potasowych z komÃ³rki nerwowej
+E. przerwÄ™ czasowÄ… w ktÃ³rej pomimo dziaÅ‚ania bodÅºca nie pojawia siÄ™ potencjaÅ‚czynnoÅ›ciowy 
 
-86. Pobudzenie w³ókien cholinergicznych nerwu b³êdnego, unerwiaj¹cych oskrzelapowoduje: (645 TRACZ) 
+86. Pobudzenie wÅ‚Ã³kien cholinergicznych nerwu bÅ‚Ä™dnego, unerwiajÄ…cych oskrzelapowoduje: (645 TRACZ) 
 ODP:D
-A. Zwiêkszenie wra¿liwoœci miêœni g³adkich oskrzeli na dzia³anie tlenku azotu
-B. Przyœpieszenie wdechu i uwiêzienie powietrza w pêcherzykach p³ucnych 
-C. Wzmo¿on¹ wentylacje p³uc i zmniejszenie oporu dróg oddechowych 
-D. Wydzielanie œluzu i rozszerzenie naczyñ krwionoœnych oskrzeli
-E. Zwiêkszenie przestrzeni nieu¿ytecznej dróg oddechowych 
+A. ZwiÄ™kszenie wraÅ¼liwoÅ›ci miÄ™Å›ni gÅ‚adkich oskrzeli na dziaÅ‚anie tlenku azotu
+B. PrzyÅ›pieszenie wdechu i uwiÄ™zienie powietrza w pÄ™cherzykach pÅ‚ucnych 
+C. WzmoÅ¼onÄ… wentylacje pÅ‚uc i zmniejszenie oporu drÃ³g oddechowych 
+D. Wydzielanie Å›luzu i rozszerzenie naczyÅ„ krwionoÅ›nych oskrzeli
+E. ZwiÄ™kszenie przestrzeni nieuÅ¼ytecznej drÃ³g oddechowych 
 
-87. Kilkakrotne zwiêkszenie zawartoœci potasu w diecie nie spowoduje wzrostu stê¿eniatego jonu we krwi w wyniku dzia³ania mechanizmu: (838 TRACZ) 
+87. Kilkakrotne zwiÄ™kszenie zawartoÅ›ci potasu w diecie nie spowoduje wzrostu stÄ™Å¼eniatego jonu we krwi w wyniku dziaÅ‚ania mechanizmu: (838 TRACZ) 
 ODP:D
-A. Zwiêkszenia przepuszczalnoœci kanalików dalszych nerki dla potasu 
-B. Wydalania potasu pod wp³ywem aldosteronu z wymiana na jon sodowy 
-C. Zwiêkszenia transportu potasu do komórek g³ównie miêœni szkieletowych 
-D. Zniesienia ujemnego sprzê¿enia zwrotnego miêdzy stê¿eniem potasu w przestrzeni zewn¹trzkomórkowej a sekrecja aldosteronu 
+A. ZwiÄ™kszenia przepuszczalnoÅ›ci kanalikÃ³w dalszych nerki dla potasu 
+B. Wydalania potasu pod wpÅ‚ywem aldosteronu z wymiana na jon sodowy 
+C. ZwiÄ™kszenia transportu potasu do komÃ³rek gÅ‚Ã³wnie miÄ™Å›ni szkieletowych 
+D. Zniesienia ujemnego sprzÄ™Å¼enia zwrotnego miÄ™dzy stÄ™Å¼eniem potasu w przestrzeni zewnÄ…trzkomÃ³rkowej a sekrecja aldosteronu 
 E. Pobudzenia osi renina-angiotensyna-aldosteron   
 
-88. W stymulacji eozynofilów i bazofilów uczestnicz¹ przede wszystkim przeciwcia³aklasy: 
+88. W stymulacji eozynofilÃ³w i bazofilÃ³w uczestniczÄ… przede wszystkim przeciwciaÅ‚aklasy: 
 ODP:A
 A. IgE 
 B. IgA 
@@ -699,7 +699,7 @@ D. IgM
 E. IgG 
 
 
-89. G³ównym czynnikiem produkowanym przez neutrofile wywo³uj¹cym skurcz oskrzelijest: (648 TRACZ) 
+89. GÅ‚Ã³wnym czynnikiem produkowanym przez neutrofile wywoÅ‚ujÄ…cym skurcz oskrzelijest: (648 TRACZ) 
 ODP:A
 A. Leukotrien E4 (LTE4)
 B. Interleukina 6 
@@ -708,47 +708,47 @@ D. Leukotrien B4
 E. Prostacyklina 
 
 
-90. Napiêcie podstawowe œciany naczyñ krwionoœnych zale¿y od: (551 TRACZ) 
+90. NapiÄ™cie podstawowe Å›ciany naczyÅ„ krwionoÅ›nych zaleÅ¼y od: (551 TRACZ) 
 ODP:A
-A. Tonicznej aktywnoœci miêœni g³adkich wewnêtrznej czêœci œciany naczyñ zawieraj¹cej miocyty rozrusznikowe 
-B. Napiêcia ? zwiêkszaj¹cego promieñ naczynia 
-C. Stopnia rozci¹gniêcia naczyñ objêtoœci¹ krwi
-D. Dop³ywu impulsów w³ókien wspó³czulnych zarówno zewnêtrznej jak iwewnêtrznej warstwy miêœni g³adkich naczyñ 
-E. Skurczu zewnêtrznej warstwy miêœni g³adkich unerwionej przez w³ókna wspó³czulne 
+A. Tonicznej aktywnoÅ›ci miÄ™Å›ni gÅ‚adkich wewnÄ™trznej czÄ™Å›ci Å›ciany naczyÅ„ zawierajÄ…cej miocyty rozrusznikowe 
+B. NapiÄ™cia ? zwiÄ™kszajÄ…cego promieÅ„ naczynia 
+C. Stopnia rozciÄ…gniÄ™cia naczyÅ„ objÄ™toÅ›ciÄ… krwi
+D. DopÅ‚ywu impulsÃ³w wÅ‚Ã³kien wspÃ³Å‚czulnych zarÃ³wno zewnÄ™trznej jak iwewnÄ™trznej warstwy miÄ™Å›ni gÅ‚adkich naczyÅ„ 
+E. Skurczu zewnÄ™trznej warstwy miÄ™Å›ni gÅ‚adkich unerwionej przez wÅ‚Ã³kna wspÃ³Å‚czulne 
 
-91. Przyczyn¹ ostrej niewydolnoœci oddechowej noworodków urodzonych przedwczeœniejest: (653 TRACZ) 
+91. PrzyczynÄ… ostrej niewydolnoÅ›ci oddechowej noworodkÃ³w urodzonych przedwczeÅ›niejest: (653 TRACZ) 
 ODP:D
-A. Apoptoza komórek œluzowatych i zwiêkszenie oporu dróg oddechowych 
-B. Obni¿ona podatnoœæ w czasie deflacji p³uc wywo³ana niskim napiêciem powierzchniowym i p³ynem w p³ucach 
-C. Wysokie ciœnienie hydrostatyczne naczyñ w³osowatych p³uc w stosunku do ciœnienia onkotycznego osocza 
-D. Wysokie napiêcie powierzchniowe w pêcherzykach p³ucnych i niedodma 
-E. Niewykszta³cenie elementów sprê¿ystych powoduj¹ce zapadanie siêpêcherzyków p³ucnych 
+A. Apoptoza komÃ³rek Å›luzowatych i zwiÄ™kszenie oporu drÃ³g oddechowych 
+B. ObniÅ¼ona podatnoÅ›Ä‡ w czasie deflacji pÅ‚uc wywoÅ‚ana niskim napiÄ™ciem powierzchniowym i pÅ‚ynem w pÅ‚ucach 
+C. Wysokie ciÅ›nienie hydrostatyczne naczyÅ„ wÅ‚osowatych pÅ‚uc w stosunku do ciÅ›nienia onkotycznego osocza 
+D. Wysokie napiÄ™cie powierzchniowe w pÄ™cherzykach pÅ‚ucnych i niedodma 
+E. NiewyksztaÅ‚cenie elementÃ³w sprÄ™Å¼ystych powodujÄ…ce zapadanie siÄ™pÄ™cherzykÃ³w pÅ‚ucnych 
 
-92. W osoczu w najwiêkszej iloœci wystêpuje wapñ: (TRACZ 818) 
+92. W osoczu w najwiÄ™kszej iloÅ›ci wystÄ™puje wapÅ„: (TRACZ 818) 
 ODP:A
-A. Zwi¹zany z bia³kiem 
+A. ZwiÄ…zany z biaÅ‚kiem 
 B. Zjonizowany 
-C. Po³¹czony z wêglanami
-D. Po³¹czony z cytryniankami 
-E. Po³¹czony z fosforanami 
+C. PoÅ‚Ä…czony z wÄ™glanami
+D. PoÅ‚Ä…czony z cytryniankami 
+E. PoÅ‚Ä…czony z fosforanami 
 
-93. Dzia³anie uk³adu wspó³czulnego uogólnia siê wskutek: (353 TRACZ) 
+93. DziaÅ‚anie ukÅ‚adu wspÃ³Å‚czulnego uogÃ³lnia siÄ™ wskutek: (353 TRACZ) 
 ODP:A
-A. Pobudzenia rdzenia nadnerczy przez przedzwojowe wspó³czulne w³ókna cholinergiczne 
-B. Pobudzenia kory nadnerczy przez zazwojowe wspó³czulne w³ókna adrenergiczne 
-C. Pobudzenie kory nadnerczy przez przedzwojowe wspó³czulne w³ókna cholinergiczne 
-D. Pobudzenia rdzenia nadnerczy przez zazwojowe wspó³czulne w³ókna adrenergiczne 
-E. Pobudzenia kory i rdzenia nadnerczy przez w³ókna zazwojowe adrenergiczne 
+A. Pobudzenia rdzenia nadnerczy przez przedzwojowe wspÃ³Å‚czulne wÅ‚Ã³kna cholinergiczne 
+B. Pobudzenia kory nadnerczy przez zazwojowe wspÃ³Å‚czulne wÅ‚Ã³kna adrenergiczne 
+C. Pobudzenie kory nadnerczy przez przedzwojowe wspÃ³Å‚czulne wÅ‚Ã³kna cholinergiczne 
+D. Pobudzenia rdzenia nadnerczy przez zazwojowe wspÃ³Å‚czulne wÅ‚Ã³kna adrenergiczne 
+E. Pobudzenia kory i rdzenia nadnerczy przez wÅ‚Ã³kna zazwojowe adrenergiczne 
 
-94. Pod wp³ywem papainy cz¹steczka przeciwcia³a z klasy IgG rozpada siê na:
+94. Pod wpÅ‚ywem papainy czÄ…steczka przeciwciaÅ‚a z klasy IgG rozpada siÄ™ na:
 ODP:E
-A. Fragment Fab warunkuj¹cy swoistoœæ immunologiczn¹ przeciwcia³a i jeden fragment Fc maj¹cy powinowactwo do sk³adowych dope³niacza 
-B. Fragmenty Fab maj¹ce powinowactwo do sk³adowych dope³niacza i dwa fragmenty Fc warunkuj¹ce swoistoœæ immunologiczn¹ przeciwcia³a 
-C. Fragment Fab maj¹cy powinowactwo do sk³adowych dope³niacza i jeden fragment Fc warunkuj¹cy swoistoœæ immunologiczn¹ przeciwcia³a
-D. Fragmenty Fab warunkuj¹ce swoistoœæ immunologiczn¹ przeciwcia³a i dwa fragmenty Fc maj¹ce powinowactwo do sk³adowych dope³niacza 
-E. Fragmenty Fab warunkuj¹ce swoistoœæ immunologiczn¹ przeciwcia³a ijeden fragment Fc maj¹cy powinowactwo do sk³adowych dope³niacza 
+A. Fragment Fab warunkujÄ…cy swoistoÅ›Ä‡ immunologicznÄ… przeciwciaÅ‚a i jeden fragment Fc majÄ…cy powinowactwo do skÅ‚adowych dopeÅ‚niacza 
+B. Fragmenty Fab majÄ…ce powinowactwo do skÅ‚adowych dopeÅ‚niacza i dwa fragmenty Fc warunkujÄ…ce swoistoÅ›Ä‡ immunologicznÄ… przeciwciaÅ‚a 
+C. Fragment Fab majÄ…cy powinowactwo do skÅ‚adowych dopeÅ‚niacza i jeden fragment Fc warunkujÄ…cy swoistoÅ›Ä‡ immunologicznÄ… przeciwciaÅ‚a
+D. Fragmenty Fab warunkujÄ…ce swoistoÅ›Ä‡ immunologicznÄ… przeciwciaÅ‚a i dwa fragmenty Fc majÄ…ce powinowactwo do skÅ‚adowych dopeÅ‚niacza 
+E. Fragmenty Fab warunkujÄ…ce swoistoÅ›Ä‡ immunologicznÄ… przeciwciaÅ‚a ijeden fragment Fc majÄ…cy powinowactwo do skÅ‚adowych dopeÅ‚niacza 
 
-95. Unerwienie eferentne nerki pochodzi ze zwojów pnia wspó³czulnego na poziomie: 
+95. Unerwienie eferentne nerki pochodzi ze zwojÃ³w pnia wspÃ³Å‚czulnego na poziomie: 
 ODP:E
 A. Th8-Th12 
 B. Th6-Th8 
@@ -756,39 +756,39 @@ C. L5-S1
 D. L3-L5 
 E. Th12-L2
 
-96. U ssaków zegarem biologicznym i generatorem rytmów oko³odobowych jest: 
+96. U ssakÃ³w zegarem biologicznym i generatorem rytmÃ³w okoÅ‚odobowych jest: 
 ODP:D
-A. Wzgórze 
-B. Skorupa i ga³ka blada 
-C. Uk³ad limbiczny 
-D. Parzyste j¹dro skrzy¿owania przedniej czêœci podwzgórza 
+A. WzgÃ³rze 
+B. Skorupa i gaÅ‚ka blada 
+C. UkÅ‚ad limbiczny 
+D. Parzyste jÄ…dro skrzyÅ¼owania przedniej czÄ™Å›ci podwzgÃ³rza 
 E. RAS 
 
-97. Przez obie nerki w ci¹gu minuty przep³ywa: 
+97. Przez obie nerki w ciÄ…gu minuty przepÅ‚ywa: 
 ODP:B
-A. 10% objêtoœci minutowej serca 
-B. 20% objêtoœci minutowej serca 
-C. 15% objêtoœci minutowej serca 
-D. 5% objêtoœci minutowej serca 
-E. 25% objêtoœci minutowej serca 
+A. 10% objÄ™toÅ›ci minutowej serca 
+B. 20% objÄ™toÅ›ci minutowej serca 
+C. 15% objÄ™toÅ›ci minutowej serca 
+D. 5% objÄ™toÅ›ci minutowej serca 
+E. 25% objÄ™toÅ›ci minutowej serca 
 
-98. Najwiêkszy opór dla przep³ywaj¹cego powietrza w drogach oddechowych wystêpuje na poziomie?: (640 TRACZ) 
+98. NajwiÄ™kszy opÃ³r dla przepÅ‚ywajÄ…cego powietrza w drogach oddechowych wystÄ™puje na poziomie?: (640 TRACZ) 
 ODP:A
-A. Nosa i gard³a
-B. Oskrzelików o œrednicy poni¿ej 2 milimetrów 
-C. Pêcherzyków p³ucnych 
-D. Tchawicy i du¿ych oskrzeli 
-E. Oskrzeli œredniego kalibru 
+A. Nosa i gardÅ‚a
+B. OskrzelikÃ³w o Å›rednicy poniÅ¼ej 2 milimetrÃ³w 
+C. PÄ™cherzykÃ³w pÅ‚ucnych 
+D. Tchawicy i duÅ¼ych oskrzeli 
+E. Oskrzeli Å›redniego kalibru 
 
-99. Które ze zdañ najlepiej opisuje pojemnoœæ ¿yciow¹ p³uc (VC) (636 TRACZ) 
+99. KtÃ³re ze zdaÅ„ najlepiej opisuje pojemnoÅ›Ä‡ Å¼yciowÄ… pÅ‚uc (VC) (636 TRACZ) 
 ODP:C
-A. Ulega zwiêkszeniu w miarê zmniejszania siê sprê¿ystoœci p³uc, nie zale¿y od wspó³czynnika oddechowego? 
-B. Zapobiega nadmiernym wahaniom sk³adu powietrza pêcherzykowego, nie zmienia siê wraz ze ….? Wielkoœci¹ sta³¹ 
-C. Zale¿y od sprê¿ystoœci pêcherzyków p³ucnych, jest o 7% wiêksza w pozycjistoj¹cej ni¿ le¿¹cej, jest ….? 
-D. Zwiêksza siê wraz ze wzrostem czêstotliwoœci oddechów i ze wzrostem ciœnienia w klatce piersiowej
-E. Zale¿y od g³êbokoœci oddechów, masy cia³a, si³ retrakcji i wielkoœci ca³kowitego metabolizmu organizmu 
+A. Ulega zwiÄ™kszeniu w miarÄ™ zmniejszania siÄ™ sprÄ™Å¼ystoÅ›ci pÅ‚uc, nie zaleÅ¼y od wspÃ³Å‚czynnika oddechowego? 
+B. Zapobiega nadmiernym wahaniom skÅ‚adu powietrza pÄ™cherzykowego, nie zmienia siÄ™ wraz ze â€¦.? WielkoÅ›ciÄ… staÅ‚Ä… 
+C. ZaleÅ¼y od sprÄ™Å¼ystoÅ›ci pÄ™cherzykÃ³w pÅ‚ucnych, jest o 7% wiÄ™ksza w pozycjistojÄ…cej niÅ¼ leÅ¼Ä…cej, jest â€¦.? 
+D. ZwiÄ™ksza siÄ™ wraz ze wzrostem czÄ™stotliwoÅ›ci oddechÃ³w i ze wzrostem ciÅ›nienia w klatce piersiowej
+E. ZaleÅ¼y od gÅ‚Ä™bokoÅ›ci oddechÃ³w, masy ciaÅ‚a, siÅ‚ retrakcji i wielkoÅ›ci caÅ‚kowitego metabolizmu organizmu 
 
-100. IP3 oraz DAG s¹ tzw. Drugimi przekaŸnikami receptorów: 
+100. IP3 oraz DAG sÄ… tzw. Drugimi przekaÅºnikami receptorÃ³w: 
 ODP:E
 A. Cholinergicznych typu B 
 B. Kaskady cAMP 
@@ -796,63 +796,63 @@ C. Metabotropowych i jonotropowych
 D. Jonotropowych 
 E. Cyklu inozytolo-fosfolipidowego 
 
-101. Neurony dog³owowego brzuszno-bocznego obszaru rdzenia przed³u¿onego (RVLM): (585 TRACZ) 
+101. Neurony dogÅ‚owowego brzuszno-bocznego obszaru rdzenia przedÅ‚uÅ¼onego (RVLM): (585 TRACZ) 
 ODP:C
-A. Utrzymuj¹ toniczn¹ aktywnoœæ przywspó³czulna i wzglêdnie sta³¹ wartoœæ ciœnienia têtniczego 
-B. Pobudzaj¹ aktywnoœæ przywspó³czulna i spadek ciœnienia têtniczego krwi 
-C. Pobudzaj¹ aktywnoœæ uk³adu wspó³czulnego i zwiêkszaj¹ ciœnienie têtnicze krwi
-D. Hamuj¹ spontaniczn¹ aktywnoœæ wspó³czuln¹ zapobiegaj¹c wzrostowi ciœnienia têtniczego krwi 
-E. Hamuj¹ aktywnoœæ przywspó³czuln¹, zapobiegaj¹c spadkowi ciœnieniatêtniczego 
+A. UtrzymujÄ… tonicznÄ… aktywnoÅ›Ä‡ przywspÃ³Å‚czulna i wzglÄ™dnie staÅ‚Ä… wartoÅ›Ä‡ ciÅ›nienia tÄ™tniczego 
+B. PobudzajÄ… aktywnoÅ›Ä‡ przywspÃ³Å‚czulna i spadek ciÅ›nienia tÄ™tniczego krwi 
+C. PobudzajÄ… aktywnoÅ›Ä‡ ukÅ‚adu wspÃ³Å‚czulnego i zwiÄ™kszajÄ… ciÅ›nienie tÄ™tnicze krwi
+D. HamujÄ… spontanicznÄ… aktywnoÅ›Ä‡ wspÃ³Å‚czulnÄ… zapobiegajÄ…c wzrostowi ciÅ›nienia tÄ™tniczego krwi 
+E. HamujÄ… aktywnoÅ›Ä‡ przywspÃ³Å‚czulnÄ…, zapobiegajÄ…c spadkowi ciÅ›nieniatÄ™tniczego 
 
-102. Mechanizmem obronnym przed niedotlenieniem mózgu w przypadku wzrostu ciœnienia wewn¹trzczaszkowego jest: 
+102. Mechanizmem obronnym przed niedotlenieniem mÃ³zgu w przypadku wzrostu ciÅ›nienia wewnÄ…trzczaszkowego jest: 
 ODP:B
-A. Zwiêkszenia przepuszczalnoœci œciany naczyñ mózgowych 
-B. Wzrost czêstoœci skurczów serca przy obni¿eniu ciœnienia têtniczego krwi 
-C. Przesuniêcie p³ynu mózgowo-rdzeniowego z czaszki do kana³u krêgowego 
-D. Spadek oporu przep³ywu wieñcowego wraz ze wzrostem zapotrzebowania na tlen 
-E. Wzrost ciœnienia têtniczego krwi i spadek czêstoœci skurczów serca 
+A. ZwiÄ™kszenia przepuszczalnoÅ›ci Å›ciany naczyÅ„ mÃ³zgowych 
+B. Wzrost czÄ™stoÅ›ci skurczÃ³w serca przy obniÅ¼eniu ciÅ›nienia tÄ™tniczego krwi 
+C. PrzesuniÄ™cie pÅ‚ynu mÃ³zgowo-rdzeniowego z czaszki do kanaÅ‚u krÄ™gowego 
+D. Spadek oporu przepÅ‚ywu wieÅ„cowego wraz ze wzrostem zapotrzebowania na tlen 
+E. Wzrost ciÅ›nienia tÄ™tniczego krwi i spadek czÄ™stoÅ›ci skurczÃ³w serca 
 
-103. Bia³kiem nie bior¹cym udzia³ w adhezji p³ytek krwi jest: (416 TRACZTABELKA) 
+103. BiaÅ‚kiem nie biorÄ…cym udziaÅ‚ w adhezji pÅ‚ytek krwi jest: (416 TRACZTABELKA) 
 ODP:A
-A. Czynnik p³ytkowy 4 
+A. Czynnik pÅ‚ytkowy 4 
 B. Fibronektyna 
 C. Fibrynogen 
 D. Czynnik von Willebranda 
 E. Witronektyna 
 
-104. Czas w ci¹gu którego badany jest w stanie utrzymaæ dynamometr z si³a równ¹ po³owie skurczu maksymalnego nazywamy: 
+104. Czas w ciÄ…gu ktÃ³rego badany jest w stanie utrzymaÄ‡ dynamometr z siÅ‚a rÃ³wnÄ… poÅ‚owie skurczu maksymalnego nazywamy: 
 ODP:E
 A. Czasem skurczu submaksymalnego 
-B. Latencj¹ zmêczenia miêœni 
-C. WskaŸnikiem zmêczenia miêœni
-D. Wspó³czynnikiem wytrzyma³oœci miêœniowej
-E. Czasem wytrzyma³oœci miêœniowej
+B. LatencjÄ… zmÄ™czenia miÄ™Å›ni 
+C. WskaÅºnikiem zmÄ™czenia miÄ™Å›ni
+D. WspÃ³Å‚czynnikiem wytrzymaÅ‚oÅ›ci miÄ™Å›niowej
+E. Czasem wytrzymaÅ‚oÅ›ci miÄ™Å›niowej
 
-105 – Okluzja: 
+105 â€“ Okluzja: 
 ODP:B
-A. Jest to wygasanie impulsacji nerwowej w oœrodkach nerwowych 
-B. Jest miar¹ zachodzenia na siebie dróg doœrodkowych i wygasania impulsacji nerwowej
-C. Jest miar¹ zachodzenia na siebie dróg odœrodkowych i wygasania impulsacji nerwowej  
-D. Polega na zwiêkszeniu reakcji odruchowej i jest miar¹ wielkoœci strefy zwiêkszonejpodprogowo pobudliwoœci
-E. Jest to wzmaganie siê impulsacji nerwowej w oœrodkach nerwowych 
+A. Jest to wygasanie impulsacji nerwowej w oÅ›rodkach nerwowych 
+B. Jest miarÄ… zachodzenia na siebie drÃ³g doÅ›rodkowych i wygasania impulsacji nerwowej
+C. Jest miarÄ… zachodzenia na siebie drÃ³g odÅ›rodkowych i wygasania impulsacji nerwowej  
+D. Polega na zwiÄ™kszeniu reakcji odruchowej i jest miarÄ… wielkoÅ›ci strefy zwiÄ™kszonejpodprogowo pobudliwoÅ›ci
+E. Jest to wzmaganie siÄ™ impulsacji nerwowej w oÅ›rodkach nerwowych 
 
-106 – Komórki ok³adzinowe ¿o³¹dka wydzielaj¹: 
+106 â€“ KomÃ³rki okÅ‚adzinowe Å¼oÅ‚Ä…dka wydzielajÄ…: 
 ODP:B
-A. Gastrynê
-B. Czynnik wewnêtrzny 
-C. Sekretynê 
-D. Motylinê 
+A. GastrynÄ™
+B. Czynnik wewnÄ™trzny 
+C. SekretynÄ™ 
+D. MotylinÄ™ 
 E. Pepsynogen 
 
-107 – Przy powstaniu stanu czynnego w prêcikach pod wp³ywem œwiat³a nie zachodzi (108 TRACZ) 
+107 â€“ Przy powstaniu stanu czynnego w prÄ™cikach pod wpÅ‚ywem Å›wiatÅ‚a nie zachodzi (108 TRACZ) 
 ODP:C
 A. Aktywizacja transducyny   
-B. Przekszta³cenie izomeru 11-cis w izomer all-trans retinalu   
-C. Otwieranie kana³ów sodowych powoduj¹cych depolaryzacjê b³ony
-D. Zmniejszenie stê¿enia cGMP w cytoplazmie fotoreceptorów 
+B. PrzeksztaÅ‚cenie izomeru 11-cis w izomer all-trans retinalu   
+C. Otwieranie kanaÅ‚Ã³w sodowych powodujÄ…cych depolaryzacjÄ™ bÅ‚ony
+D. Zmniejszenie stÄ™Å¼enia cGMP w cytoplazmie fotoreceptorÃ³w 
 E. Tworzenie metarodopsyny II 
 
-108 – Na drodze czynnego transportu zale¿nego od Na+ wch³ania siê (789 TRACZ) 
+108 â€“ Na drodze czynnego transportu zaleÅ¼nego od Na+ wchÅ‚ania siÄ™ (789 TRACZ) 
 ODP:D
 A. Witamina B2 
 B. Witamina B6 
@@ -860,50 +860,50 @@ C. Witamina A
 D. Witamina B1 
 E. Witamina D 
 
-109 – Wch³anianie ¿elaza zachodzi g³ównie w (788 TRACZ) 
+109 â€“ WchÅ‚anianie Å¼elaza zachodzi gÅ‚Ã³wnie w (788 TRACZ) 
 ODP:C
 A. Dwunastnicy 
-B. Koñcowej czêœci jelita cienkiego 
-C. Dwunastnicy i pocz¹tkowej czêœci jelita cienkiego 
-D. ¯o³¹dku 
+B. KoÅ„cowej czÄ™Å›ci jelita cienkiego 
+C. Dwunastnicy i poczÄ…tkowej czÄ™Å›ci jelita cienkiego 
+D. Å»oÅ‚Ä…dku 
 E. Jelicie grubym 
 
-110 – Receptory s³uchu w narz¹dzie spiralnym s¹ u³o¿one w (124 TRACZ) 
+110 â€“ Receptory sÅ‚uchu w narzÄ…dzie spiralnym sÄ… uÅ‚oÅ¼one w (124 TRACZ) 
 ODP:A
-A. Pojedynczy rz¹d komórek wewnêtrznych i trzy rzêdy komórek zewnêtrznych 
-B. Pojedynczy rz¹d komórek wewnêtrznych i cztery rzêdy komórek zewnêtrznych 
-C. Piêæ rzêdów komórek wewnêtrznych i trzy rzêdy komórek zewnêtrznych 
-D. Trzy rzêdy komórek wewnêtrznych i piêæ rzêdów komórek zewnêtrznych 
-E. Pojedynczy rz¹d komórek wewnêtrznych i piêæ rzêdów komórek zewnêtrznych 
+A. Pojedynczy rzÄ…d komÃ³rek wewnÄ™trznych i trzy rzÄ™dy komÃ³rek zewnÄ™trznych 
+B. Pojedynczy rzÄ…d komÃ³rek wewnÄ™trznych i cztery rzÄ™dy komÃ³rek zewnÄ™trznych 
+C. PiÄ™Ä‡ rzÄ™dÃ³w komÃ³rek wewnÄ™trznych i trzy rzÄ™dy komÃ³rek zewnÄ™trznych 
+D. Trzy rzÄ™dy komÃ³rek wewnÄ™trznych i piÄ™Ä‡ rzÄ™dÃ³w komÃ³rek zewnÄ™trznych 
+E. Pojedynczy rzÄ…d komÃ³rek wewnÄ™trznych i piÄ™Ä‡ rzÄ™dÃ³w komÃ³rek zewnÄ™trznych 
 
-111 – Odruch zginania (186 TRACZ) 
+111 â€“ Odruch zginania (186 TRACZ) 
 ODP:D
-A. Jest odruchem z receptorów pierœcienno-spiralnych   
-B. Nie wykazuje cech wy³adowania nastêpczego 
-C. Pojawia siê po bardzo krótkim okresie latencji   bo po d³u¿szym 
-D. Jest odruchem polisynaptycznym wywo³anym bodŸcami nocyceptywnymi
+A. Jest odruchem z receptorÃ³w pierÅ›cienno-spiralnych   
+B. Nie wykazuje cech wyÅ‚adowania nastÄ™pczego 
+C. Pojawia siÄ™ po bardzo krÃ³tkim okresie latencji   bo po dÅ‚uÅ¼szym 
+D. Jest odruchem polisynaptycznym wywoÅ‚anym bodÅºcami nocyceptywnymi
 E. Jest odruchem monosynaptycznym 
 
-112 – Najwa¿niejszym mechanizmem zamykaj¹cym wpust jest (727 TRACZ) 
+112 â€“ NajwaÅ¼niejszym mechanizmem zamykajÄ…cym wpust jest (727 TRACZ) 
 ODP:C
-A. Bierny ucisk ciœnienia œródbrzusznego na dolny podprzeponowy odcinek prze³yku  
-B. Mechanizm zastawkowy pomiêdzy prze³ykiem a ¿o³¹dkiem (k¹t Hisa)
-C. Toniczny skurcz dolnego zwieracza prze³yku 
-D. Rytmiczne skurcze prze³yku 
-E. Ucisk prze³yku przez odnogi miêœnia przepony 
+A. Bierny ucisk ciÅ›nienia Å›rÃ³dbrzusznego na dolny podprzeponowy odcinek przeÅ‚yku  
+B. Mechanizm zastawkowy pomiÄ™dzy przeÅ‚ykiem a Å¼oÅ‚Ä…dkiem (kÄ…t Hisa)
+C. Toniczny skurcz dolnego zwieracza przeÅ‚yku 
+D. Rytmiczne skurcze przeÅ‚yku 
+E. Ucisk przeÅ‚yku przez odnogi miÄ™Å›nia przepony 
 
-113 – Jednostk¹ motoryczn¹ nazywamy: 
+113 â€“ JednostkÄ… motorycznÄ… nazywamy: 
 ODP:E
-A. Pojedyncz¹ komórkê miêœniow¹ unerwion¹ przez dany akson 
-B. Nerw obwodowy i unerwione przez niego miêœnie   
-C. Korzeñ przedni rdzenia krêgowego i unerwiane przez niego komórki miêœniowe 
-D. Wszystkie komórki ruchowe rogów przednich rdzenia krêgowego i unerwiane przez ni¹ komórki miêœniowe
-E. Motoneuron wraz z aksonem i unerwianymi przez niego komórkami miêœniowymi 
+A. PojedynczÄ… komÃ³rkÄ™ miÄ™Å›niowÄ… unerwionÄ… przez dany akson 
+B. Nerw obwodowy i unerwione przez niego miÄ™Å›nie   
+C. KorzeÅ„ przedni rdzenia krÄ™gowego i unerwiane przez niego komÃ³rki miÄ™Å›niowe 
+D. Wszystkie komÃ³rki ruchowe rogÃ³w przednich rdzenia krÄ™gowego i unerwiane przez niÄ… komÃ³rki miÄ™Å›niowe
+E. Motoneuron wraz z aksonem i unerwianymi przez niego komÃ³rkami miÄ™Å›niowymi 
 
-114 – Z prawa Poiseuille’a wynika, ¿e wielkoœæ oporu naczyniowego zale¿y g³ównie od: (515 TRACZ) 
+114 â€“ Z prawa Poiseuilleâ€™a wynika, Å¼e wielkoÅ›Ä‡ oporu naczyniowego zaleÅ¼y gÅ‚Ã³wnie od: (515 TRACZ) 
 ODP:D
-A. Ró¿nicy ciœnieñ pomiêdzy pocz¹tkiem a koñcem naczynia   
-B. D³ugoœci naczynia krwionoœnego 
-C. Ca³kowitej energii przep³ywu w danym odcinku uk³adu naczyniowego 
-D. Promienia wewnêtrznego naczynia krwionoœnego 
-E. Prawid³owego rozdzia³u krwi do poszczególnych ³o¿ysk naczyniowych 
+A. RÃ³Å¼nicy ciÅ›nieÅ„ pomiÄ™dzy poczÄ…tkiem a koÅ„cem naczynia   
+B. DÅ‚ugoÅ›ci naczynia krwionoÅ›nego 
+C. CaÅ‚kowitej energii przepÅ‚ywu w danym odcinku ukÅ‚adu naczyniowego 
+D. Promienia wewnÄ™trznego naczynia krwionoÅ›nego 
+E. PrawidÅ‚owego rozdziaÅ‚u krwi do poszczegÃ³lnych Å‚oÅ¼ysk naczyniowych 

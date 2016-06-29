@@ -2,5 +2,6 @@
 {
   public interface IMenuModel
   {
+    string FilePath { get; set; }
   }
 }

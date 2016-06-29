@@ -74,13 +74,13 @@
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\QuizManager\QuizManager.csproj">
+    <AndroidAsset Include="Assets\Fizjologia_Pytania_1_114.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QuizManager\QuizManager.csproj">
       <Project>{b8421fbf-24d9-4dc9-b5d5-a760a139e3d3}</Project>
       <Name>QuizManager</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\Fizjologia_Pytania_1_114.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
