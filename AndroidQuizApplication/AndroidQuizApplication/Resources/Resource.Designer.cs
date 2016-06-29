@@ -73,7 +73,7 @@ namespace AndroidQuizApplication
 			public const int buttonStart = 2131034112;
 			
 			// aapt resource value: 0x7f050003
-			public const int checkedTextViewAnswer1 = 2131034115;
+			public const int checkBoxAnswer1 = 2131034115;
 			
 			// aapt resource value: 0x7f050004
 			public const int checkedTextViewAnswer2 = 2131034116;

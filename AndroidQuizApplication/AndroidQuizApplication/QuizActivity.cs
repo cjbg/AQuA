@@ -67,15 +67,15 @@ namespace AndroidQuizApplication
     {
       get
       {
-        CheckedTextView checkedTextViewAnwer1 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
-        return checkedTextViewAnwer1.Text;
+        CheckBox checkBoxAnswer1 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer1);
+        return checkBoxAnswer1.Text;
 
       }
       set
       {
-        CheckedTextView checkedTextViewAnwer1 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
+        CheckBox checkedTextViewAnwer1 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer1);
         checkedTextViewAnwer1.Text = value;
       }
     }
@@ -152,15 +152,15 @@ namespace AndroidQuizApplication
     {
       get
       {
-        CheckedTextView checkedTextViewAnwer1 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
-        return checkedTextViewAnwer1.Checked;
+        CheckBox checkBoxAnswer1 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer1);
+        return checkBoxAnswer1.Checked;
 
       }
       set
       {
-        CheckedTextView checkedTextViewAnwer1 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
+        CheckBox checkedTextViewAnwer1 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer1);
         checkedTextViewAnwer1.Checked = value;
       }
     }
@@ -285,9 +285,9 @@ namespace AndroidQuizApplication
     {
       set
       {
-        CheckedTextView checkedTextViewAnwer1 =
-         FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
-        checkedTextViewAnwer1.LayoutParameters.Height = value;
+        CheckBox checkBoxAnswer1 =
+         FindViewById<CheckBox>(Resource.Id.checkBoxAnswer1);
+        checkBoxAnswer1.LayoutParameters.Height = value;
       }
     }
 
@@ -295,9 +295,9 @@ namespace AndroidQuizApplication
     {
       set
       {
-        CheckedTextView checkedTextViewAnwer1 =
-         FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
-        checkedTextViewAnwer1.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
+        CheckBox checkBoxAnswer1 =
+         FindViewById<CheckBox>(Resource.Id.checkBoxAnswer1);
+        checkBoxAnswer1.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
       }
     }
 

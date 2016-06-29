@@ -10,10 +10,11 @@
         android:id="@+id/textViewQuestion"
         android:background="#00bbff"
         android:textColor="#000000" />
-    <CheckedTextView
+    <CheckBox
+        android:text="CheckBox"
         android:layout_width="match_parent"
         android:layout_height="50.0dp"
-        android:id="@+id/checkedTextViewAnswer1"
+        android:id="@+id/checkBoxAnswer1"
         android:background="#aaff00"
         android:textColor="#000000" />
     <CheckedTextView

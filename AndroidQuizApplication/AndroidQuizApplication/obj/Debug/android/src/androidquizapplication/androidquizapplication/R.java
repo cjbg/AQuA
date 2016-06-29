@@ -18,7 +18,7 @@ public final class R {
         public static final int buttonNext=0x7f05000a;
         public static final int buttonQuestionLearned=0x7f050009;
         public static final int buttonStart=0x7f050000;
-        public static final int checkedTextViewAnswer1=0x7f050003;
+        public static final int checkBoxAnswer1=0x7f050003;
         public static final int checkedTextViewAnswer2=0x7f050004;
         public static final int checkedTextViewAnswer3=0x7f050005;
         public static final int checkedTextViewAnswer4=0x7f050006;
