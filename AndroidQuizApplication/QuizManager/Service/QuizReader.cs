@@ -28,7 +28,7 @@ namespace QuizManager.Service
       string resourceData = textFromResource;
 
       List<string> lines = resourceData.Split(
-          new[] { Environment.NewLine }, 
+          new[] { @"r\n\" }, 
           StringSplitOptions.RemoveEmptyEntries)
         .ToList();
 

@@ -16,29 +16,35 @@
         android:layout_height="50.0dp"
         android:id="@+id/checkBoxAnswer1"
         android:background="#aaff00"
-        android:textColor="#000000" />
-    <CheckedTextView
+        android:textColor="#000000"
+        android:buttonTint="#f0f8ffff" />
+    <CheckBox
+        android:text="CheckBox"
         android:layout_width="match_parent"
         android:layout_height="50.0dp"
-        android:id="@+id/checkedTextViewAnswer2"
-        android:background="#ffbb00"
-        android:textColor="#000000" />
-    <CheckedTextView
+        android:id="@+id/checkBoxAnswer2"
+        android:background="#ffaa00"
+        android:textColor="#000000"
+        android:buttonTint="#ffffffff" />
+    <CheckBox
+        android:text="CheckBox"
         android:layout_width="match_parent"
         android:layout_height="50.0dp"
-        android:id="@+id/checkedTextViewAnswer3"
+        android:id="@+id/checkBoxAnswer3"
         android:background="#aaff00"
         android:textColor="#000000" />
-    <CheckedTextView
+    <CheckBox
+        android:text="CheckBox"
         android:layout_width="match_parent"
         android:layout_height="50.0dp"
-        android:id="@+id/checkedTextViewAnswer4"
+        android:id="@+id/checkBoxAnswer4"
         android:background="#ffbb00"
         android:textColor="#000000" />
-    <CheckedTextView
+    <CheckBox
+        android:text="CheckBox"
         android:layout_width="match_parent"
         android:layout_height="50.0dp"
-        android:id="@+id/checkedTextViewAnswer5"
+        android:id="@+id/checkBoxAnswer5"
         android:background="#aaff00"
         android:textColor="#000000" />
     <Button

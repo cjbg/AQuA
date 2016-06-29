@@ -5,6 +5,7 @@ using System.Text;
 
 using Android.App;
 using Android.Content;
+using Android.Graphics;
 using Android.OS;
 using Android.Runtime;
 using Android.Views;
@@ -28,7 +29,39 @@ namespace AndroidQuizApplication
       var quizSet = GetQuizSet();
       _presenter = MakeQuizPresenter(quizSet);
 
+      SetButtonCheckClickEvent();
+      SetButtonLearnedClickEvent();
 
+      Button buttonNext = FindViewById<Button>(Resource.Id.buttonNext);
+      buttonNext.Click += SetNextQuestion;
+
+    }
+
+    private void SetNextQuestion(object sender, EventArgs e)
+    {
+      _presenter.SetNextQuestion();
+    }
+
+    private void SetButtonLearnedClickEvent()
+    {
+      Button buttonQuestionLearned = FindViewById<Button>(Resource.Id.buttonQuestionLearned);
+      buttonQuestionLearned.Click += QuestionLearned;
+    }
+
+    private void QuestionLearned(object sender, EventArgs e)
+    {
+      _presenter.QuestionLearned();
+    }
+
+    private void SetButtonCheckClickEvent()
+    {
+      Button buttonCheck = FindViewById<Button>(Resource.Id.buttonCheck);
+      buttonCheck.Click += CheckAnswers;
+    }
+
+    private void CheckAnswers(object sender, EventArgs e)
+    {
+      _presenter.CheckAnswers();
     }
 
     private QuizSet GetQuizSet()
@@ -84,16 +117,16 @@ namespace AndroidQuizApplication
     {
       get
       {
-        CheckedTextView checkedTextViewAnwer2 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer2);
-        return checkedTextViewAnwer2.Text;
+        CheckBox checkBoxAnswer2 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer2);
+        return checkBoxAnswer2.Text;
 
       }
       set
       {
-        CheckedTextView checkedTextViewAnwer2 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer2);
-        checkedTextViewAnwer2.Text = value;
+        CheckBox checkBoxAnswer2 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer2);
+        checkBoxAnswer2.Text = value;
       }
     }
 
@@ -101,16 +134,16 @@ namespace AndroidQuizApplication
     {
       get
       {
-        CheckedTextView checkedTextViewAnwer3 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer3);
-        return checkedTextViewAnwer3.Text;
+        CheckBox checkBoxAnswer3 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer3);
+        return checkBoxAnswer3.Text;
 
       }
       set
       {
-        CheckedTextView checkedTextViewAnwer3 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer3);
-        checkedTextViewAnwer3.Text = value;
+        CheckBox checkBoxAnswer3 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer3);
+        checkBoxAnswer3.Text = value;
       }
     }
 
@@ -118,16 +151,16 @@ namespace AndroidQuizApplication
     {
       get
       {
-        CheckedTextView checkedTextViewAnwer4 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer4);
-        return checkedTextViewAnwer4.Text;
+        CheckBox checkBoxAnswer4 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer4);
+        return checkBoxAnswer4.Text;
 
       }
       set
       {
-        CheckedTextView checkedTextViewAnwer4 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer4);
-        checkedTextViewAnwer4.Text = value;
+        CheckBox checkBoxAnswer4 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer4);
+        checkBoxAnswer4.Text = value;
       }
     }
 
@@ -135,16 +168,66 @@ namespace AndroidQuizApplication
     {
       get
       {
-        CheckedTextView checkedTextViewAnwer5 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer5);
-        return checkedTextViewAnwer5.Text;
+        CheckBox checkBoxAnswer5 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer5);
+        return checkBoxAnswer5.Text;
 
       }
       set
       {
-        CheckedTextView checkedTextViewAnwer5 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer5);
-        checkedTextViewAnwer5.Text = value;
+        CheckBox checkBoxAnswer5 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer5);
+        checkBoxAnswer5.Text = value;
+      }
+    }
+
+    public string ColorAnswer1
+    {
+      set
+      {
+        CheckBox checkBoxAnswer1 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer1);
+        checkBoxAnswer1.SetTextColor(Color.ParseColor(value));
+      }
+    }
+
+    public string ColorAnswer2
+    {
+      set
+      {
+        CheckBox checkBoxAnswer2 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer2);
+        checkBoxAnswer2.SetTextColor(Color.ParseColor(value));
+      }
+    }
+
+    public string ColorAnswer3
+    {
+      set
+      {
+        CheckBox checkBoxAnswer3 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer3);
+        checkBoxAnswer3.SetTextColor(Color.ParseColor(value));
+      }
+    }
+
+    public string ColorAnswer4
+    {
+      set
+      {
+        CheckBox checkBoxAnswer4 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer4);
+        checkBoxAnswer4.SetTextColor(Color.ParseColor(value));
+      }
+    }
+
+    public string ColorAnswer5
+    {
+      set
+      {
+        CheckBox checkBoxAnswer5 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer5);
+        checkBoxAnswer5.SetTextColor(Color.ParseColor(value));
       }
     }
 
@@ -169,16 +252,16 @@ namespace AndroidQuizApplication
     {
       get
       {
-        CheckedTextView checkedTextViewAnwer2 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer2);
-        return checkedTextViewAnwer2.Checked;
+        CheckBox checkBoxAnswer2 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer2);
+        return checkBoxAnswer2.Checked;
 
       }
       set
       {
-        CheckedTextView checkedTextViewAnwer2 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer2);
-        checkedTextViewAnwer2.Checked = value;
+        CheckBox checkBoxAnswer2 =
+           FindViewById<CheckBox>(Resource.Id.checkBoxAnswer2);
+        checkBoxAnswer2.Checked = value;
       }
     }
 
@@ -186,16 +269,16 @@ namespace AndroidQuizApplication
     {
       get
       {
-        CheckedTextView checkedTextViewAnwer3 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer3);
-        return checkedTextViewAnwer3.Checked;
+        CheckBox checkBoxAnswer3 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer3);
+        return checkBoxAnswer3.Checked;
 
       }
       set
       {
-        CheckedTextView checkedTextViewAnwer3 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer3);
-        checkedTextViewAnwer3.Checked = value;
+        CheckBox checkBoxAnswer3 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer3);
+        checkBoxAnswer3.Checked = value;
       }
     }
 
@@ -203,16 +286,16 @@ namespace AndroidQuizApplication
     {
       get
       {
-        CheckedTextView checkedTextViewAnwer4 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer4);
-        return checkedTextViewAnwer4.Checked;
+        CheckBox checkBoxAnswer4 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer4);
+        return checkBoxAnswer4.Checked;
 
       }
       set
       {
-        CheckedTextView checkedTextViewAnwer4 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer4);
-        checkedTextViewAnwer4.Checked = value;
+        CheckBox checkBoxAnswer4 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer4);
+        checkBoxAnswer4.Checked = value;
       }
     }
 
@@ -220,16 +303,16 @@ namespace AndroidQuizApplication
     {
       get
       {
-        CheckedTextView checkedTextViewAnwer5 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer5);
-        return checkedTextViewAnwer5.Checked;
+        CheckBox checkBoxAnswer5 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer5);
+        return checkBoxAnswer5.Checked;
 
       }
       set
       {
-        CheckedTextView checkedTextViewAnwer5 =
-          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer5);
-        checkedTextViewAnwer5.Checked = value;
+        CheckBox checkBoxAnswer5 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer5);
+        checkBoxAnswer5.Checked = value;
       }
     }
 
@@ -305,9 +388,9 @@ namespace AndroidQuizApplication
     {
       set
       {
-        CheckedTextView checkedTextViewAnwer2 =
-         FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer2);
-        checkedTextViewAnwer2.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
+        CheckBox checkBoxAnswer2 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer2);
+        checkBoxAnswer2.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
       }
     }
 
@@ -315,9 +398,9 @@ namespace AndroidQuizApplication
     {
       set
       {
-        CheckedTextView checkedTextViewAnwer3 =
-         FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer3);
-        checkedTextViewAnwer3.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
+        CheckBox checkBoxAnswer3 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer3);
+        checkBoxAnswer3.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
       }
     }
 
@@ -325,9 +408,9 @@ namespace AndroidQuizApplication
     {
       set
       {
-        CheckedTextView checkedTextViewAnwer4 =
-         FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer4);
-        checkedTextViewAnwer4.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
+        CheckBox checkBoxAnswer4 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer4);
+        checkBoxAnswer4.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
       }
     }
 
@@ -335,9 +418,9 @@ namespace AndroidQuizApplication
     {
       set
       {
-        CheckedTextView checkedTextViewAnwer5 =
-         FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer5);
-        checkedTextViewAnwer5.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
+        CheckBox checkBoxAnswer5 =
+          FindViewById<CheckBox>(Resource.Id.checkBoxAnswer5);
+        checkBoxAnswer5.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
       }
     }
   }

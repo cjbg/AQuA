@@ -14,7 +14,8 @@ namespace QuizManager.Presenter
     private const int DefaultRepetitionNumber = 1;
     private const int MaxHeight = 425;
     private const int DefaultHeight = 65;
-
+    private const string ColorBlack = "#000000";
+    private const string ColorGreen = "#00ff00";
     private readonly IQuizModel _model;
     private readonly IQuizView _view;
     private readonly IQuizReader _reader;
@@ -93,11 +94,11 @@ namespace QuizManager.Presenter
 
     private void SetAnswersColors()
     {
-      //_view.ColorAnswer1 = Color.Black;
-      //_view.ColorAnswer2 = Color.Black;
-      //_view.ColorAnswer3 = Color.Black;
-      //_view.ColorAnswer4 = Color.Black;
-      //_view.ColorAnswer5 = Color.Black;
+      _view.ColorAnswer1 = ColorBlack;
+      _view.ColorAnswer2 = ColorBlack;
+      _view.ColorAnswer3 = ColorBlack;
+      _view.ColorAnswer4 = ColorBlack;
+      _view.ColorAnswer5 = ColorBlack;
     }
 
     private void SetCheckedAnswers()
@@ -180,32 +181,33 @@ namespace QuizManager.Presenter
       }
     }
 
+    // TODO: Refactor
     private void SetAnswersColor()
     {
-      //if (_currentQuestion.Answers[0].IsCorrect)
-      //{
-      //  _view.ColorAnswer1 = Color.Green;
-      //}
+      if (_currentQuestion.Answers[0].IsCorrect)
+      {
+        _view.ColorAnswer1 = ColorGreen;
+      }
 
-      //if (_currentQuestion.Answers[1].IsCorrect)
-      //{
-      //  _view.ColorAnswer2 = Color.Green;
-      //}
+      if (_currentQuestion.Answers[1].IsCorrect)
+      {
+        _view.ColorAnswer2 = ColorGreen;
+      }
 
-      //if (_currentQuestion.Answers[2].IsCorrect)
-      //{
-      //  _view.ColorAnswer3 = Color.Green;
-      //}
+      if (_currentQuestion.Answers[2].IsCorrect)
+      {
+        _view.ColorAnswer3 = ColorGreen;
+      }
 
-      //if (_currentQuestion.Answers[3].IsCorrect)
-      //{
-      //  _view.ColorAnswer4 = Color.Green;
-      //}
+      if (_currentQuestion.Answers[3].IsCorrect)
+      {
+        _view.ColorAnswer4 = ColorGreen;
+      }
 
-      //if (_currentQuestion.Answers[4].IsCorrect)
-      //{
-      //  _view.ColorAnswer5 = Color.Green;
-      //}
+      if (_currentQuestion.Answers[4].IsCorrect)
+      {
+        _view.ColorAnswer5 = ColorGreen;
+      }
     }
 
     public void QuestionLearned()

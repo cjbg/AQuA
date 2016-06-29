@@ -14,17 +14,16 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
-        public static final int buttonCheck=0x7f050008;
-        public static final int buttonNext=0x7f05000a;
-        public static final int buttonQuestionLearned=0x7f050009;
+        public static final int buttonCheck=0x7f050007;
+        public static final int buttonNext=0x7f050009;
+        public static final int buttonQuestionLearned=0x7f050008;
         public static final int buttonStart=0x7f050000;
-        public static final int checkBoxAnswer1=0x7f050003;
-        public static final int checkedTextViewAnswer2=0x7f050004;
-        public static final int checkedTextViewAnswer3=0x7f050005;
-        public static final int checkedTextViewAnswer4=0x7f050006;
-        public static final int checkedTextViewAnswer5=0x7f050007;
-        public static final int editTextOutput=0x7f050001;
-        public static final int textViewQuestion=0x7f050002;
+        public static final int checkBoxAnswer1=0x7f050002;
+        public static final int checkBoxAnswer2=0x7f050003;
+        public static final int checkBoxAnswer3=0x7f050004;
+        public static final int checkBoxAnswer4=0x7f050005;
+        public static final int checkBoxAnswer5=0x7f050006;
+        public static final int textViewQuestion=0x7f050001;
     }
     public static final class layout {
         public static final int main=0x7f030000;

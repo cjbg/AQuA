@@ -16,15 +16,15 @@ namespace QuizManager.View.Interface
 
     string Answer5 { get; set; }
 
-    //Color ColorAnswer1 { set; }
+    string ColorAnswer1 { set; }
 
-    //Color ColorAnswer2 { set; }
+    string ColorAnswer2 { set; }
 
-    //Color ColorAnswer3 { set; }
+    string ColorAnswer3 { set; }
 
-    //Color ColorAnswer4 { set; }
+    string ColorAnswer4 { set; }
 
-    //Color ColorAnswer5 { set; }
+    string ColorAnswer5 { set; }
 
     bool CheckedAnswer1 { get; set; }
 
@@ -34,7 +34,7 @@ namespace QuizManager.View.Interface
 
     bool CheckedAnswer4 { get; set; }
 
-    bool CheckedAnswer5 { get; set; }   
+    bool CheckedAnswer5 { get; set; }
 
     bool CheckButtonEnabled { get; set; }
 
