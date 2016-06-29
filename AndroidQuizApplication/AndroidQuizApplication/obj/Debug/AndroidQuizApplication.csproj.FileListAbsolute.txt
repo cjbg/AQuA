@@ -39,5 +39,6 @@ C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuiz
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\bin\Debug\QuizManager.pdb
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\bin\Debug\QuizManager.dll.mdb
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\android\assets\QuizManager.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\res\layout\quiz.xml
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\obj\Debug\AndroidQuizApplication.dll.mdb
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\AndroidQuizApplication\bin\Debug\AndroidQuizApplication.dll.mdb

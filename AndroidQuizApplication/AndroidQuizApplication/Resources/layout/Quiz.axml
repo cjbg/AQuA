@@ -6,7 +6,7 @@
     <TextView
         android:text="Text"
         android:layout_width="match_parent"
-        android:layout_height="100.0dp"
+        android:layout_height="140.0dp"
         android:id="@+id/textViewQuestion"
         android:background="#00bbff" />
     <CheckedTextView
@@ -34,4 +34,19 @@
         android:layout_height="50.0dp"
         android:id="@+id/checkedTextViewAnswer5"
         android:background="#aaff00" />
+    <Button
+        android:text="Button"
+        android:layout_width="match_parent"
+        android:layout_height="50.0dp"
+        android:id="@+id/button1" />
+    <Button
+        android:text="Button"
+        android:layout_width="match_parent"
+        android:layout_height="50.0dp"
+        android:id="@+id/button2" />
+    <Button
+        android:text="Button"
+        android:layout_width="match_parent"
+        android:layout_height="50.0dp"
+        android:id="@+id/button3" />
 </LinearLayout>

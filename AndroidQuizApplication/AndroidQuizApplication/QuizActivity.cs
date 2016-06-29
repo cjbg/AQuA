@@ -49,38 +49,103 @@ namespace AndroidQuizApplication
 
     public string Question
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        TextView questionTextView = 
+          FindViewById<TextView>(Resource.Id.textViewQuestion);
+        return questionTextView.Text;
+      }
+      set
+      {
+        TextView questionTextView = 
+          FindViewById<TextView>(Resource.Id.textViewQuestion);
+        questionTextView.Text = value;
+      }
     }
 
     public string Answer1
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        CheckedTextView checkedTextViewAnwer1 = 
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
+        return checkedTextViewAnwer1.Text;
+
+      }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer1 = 
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
+        checkedTextViewAnwer1.Text = value;
+      }
     }
 
     public string Answer2
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        CheckedTextView checkedTextViewAnwer2 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer2);
+        return checkedTextViewAnwer2.Text;
+
+      }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer2 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer2);
+        checkedTextViewAnwer2.Text = value;
+      }
     }
 
     public string Answer3
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        CheckedTextView checkedTextViewAnwer3 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer3);
+        return checkedTextViewAnwer3.Text;
+
+      }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer3 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer3);
+        checkedTextViewAnwer3.Text = value;
+      }
     }
 
     public string Answer4
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        CheckedTextView checkedTextViewAnwer4 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer4);
+        return checkedTextViewAnwer4.Text;
+
+      }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer4 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer4);
+        checkedTextViewAnwer4.Text = value;
+      }
     }
 
     public string Answer5
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        CheckedTextView checkedTextViewAnwer5 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer5);
+        return checkedTextViewAnwer5.Text;
+
+      }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer5 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer5);
+        checkedTextViewAnwer5.Text = value;
+      }
     }
 
     public bool CheckedAnswer1

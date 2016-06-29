@@ -60,6 +60,15 @@ namespace AndroidQuizApplication
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050008
+			public const int button1 = 2131034120;
+			
+			// aapt resource value: 0x7f050009
+			public const int button2 = 2131034121;
+			
+			// aapt resource value: 0x7f05000a
+			public const int button3 = 2131034122;
+			
 			// aapt resource value: 0x7f050000
 			public const int buttonStart = 2131034112;
 			
