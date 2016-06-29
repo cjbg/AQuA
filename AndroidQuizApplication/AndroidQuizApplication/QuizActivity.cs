@@ -36,7 +36,7 @@ namespace AndroidQuizApplication
       QuizSet quizSet = new QuizSet();
       string quizName = Intent.GetStringExtra(PassedDataResources.QuizName);
       string quizValue = Intent.GetStringExtra(PassedDataResources.QuizValue);
-      
+
       quizSet.Name = quizName;
       quizSet.Value = quizValue;
       return quizSet;
@@ -51,13 +51,13 @@ namespace AndroidQuizApplication
     {
       get
       {
-        TextView questionTextView = 
+        TextView questionTextView =
           FindViewById<TextView>(Resource.Id.textViewQuestion);
         return questionTextView.Text;
       }
       set
       {
-        TextView questionTextView = 
+        TextView questionTextView =
           FindViewById<TextView>(Resource.Id.textViewQuestion);
         questionTextView.Text = value;
       }
@@ -67,14 +67,14 @@ namespace AndroidQuizApplication
     {
       get
       {
-        CheckedTextView checkedTextViewAnwer1 = 
+        CheckedTextView checkedTextViewAnwer1 =
           FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
         return checkedTextViewAnwer1.Text;
 
       }
       set
       {
-        CheckedTextView checkedTextViewAnwer1 = 
+        CheckedTextView checkedTextViewAnwer1 =
           FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
         checkedTextViewAnwer1.Text = value;
       }
@@ -150,80 +150,195 @@ namespace AndroidQuizApplication
 
     public bool CheckedAnswer1
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        CheckedTextView checkedTextViewAnwer1 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
+        return checkedTextViewAnwer1.Checked;
+
+      }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer1 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
+        checkedTextViewAnwer1.Checked = value;
+      }
     }
 
     public bool CheckedAnswer2
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        CheckedTextView checkedTextViewAnwer2 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer2);
+        return checkedTextViewAnwer2.Checked;
+
+      }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer2 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer2);
+        checkedTextViewAnwer2.Checked = value;
+      }
     }
 
     public bool CheckedAnswer3
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        CheckedTextView checkedTextViewAnwer3 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer3);
+        return checkedTextViewAnwer3.Checked;
+
+      }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer3 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer3);
+        checkedTextViewAnwer3.Checked = value;
+      }
     }
 
     public bool CheckedAnswer4
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        CheckedTextView checkedTextViewAnwer4 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer4);
+        return checkedTextViewAnwer4.Checked;
+
+      }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer4 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer4);
+        checkedTextViewAnwer4.Checked = value;
+      }
     }
 
     public bool CheckedAnswer5
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        CheckedTextView checkedTextViewAnwer5 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer5);
+        return checkedTextViewAnwer5.Checked;
+
+      }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer5 =
+          FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer5);
+        checkedTextViewAnwer5.Checked = value;
+      }
     }
 
     public bool CheckButtonEnabled
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        Button buttonCheck =
+          FindViewById<Button>(Resource.Id.buttonCheck);
+        return buttonCheck.Enabled;
+      }
+      set
+      {
+        Button buttonCheck =
+          FindViewById<Button>(Resource.Id.buttonCheck);
+        buttonCheck.Enabled = value;
+      }
     }
 
     public bool LearnedButtonEnabled
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        Button buttonLearned =
+          FindViewById<Button>(Resource.Id.buttonQuestionLearned);
+        return buttonLearned.Enabled;
+      }
+      set
+      {
+        Button buttonLearned =
+           FindViewById<Button>(Resource.Id.buttonQuestionLearned);
+        buttonLearned.Enabled = value;
+      }
     }
 
     public bool NextButtonEnabled
     {
-      get { throw new NotImplementedException(); }
-      set { throw new NotImplementedException(); }
+      get
+      {
+        Button buttonNext =
+          FindViewById<Button>(Resource.Id.buttonNext);
+        return buttonNext.Enabled;
+      }
+      set
+      {
+        Button buttonNext =
+          FindViewById<Button>(Resource.Id.buttonNext);
+        buttonNext.Enabled = value;
+      }
     }
 
     public int HeightAnswer1
     {
-      set { throw new NotImplementedException(); }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer1 =
+         FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
+        checkedTextViewAnwer1.LayoutParameters.Height = value;
+      }
     }
 
     public bool VisibleAnswer1
     {
-      set { throw new NotImplementedException(); }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer1 =
+         FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer1);
+        checkedTextViewAnwer1.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
+      }
     }
 
     public bool VisibleAnswer2
     {
-      set { throw new NotImplementedException(); }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer2 =
+         FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer2);
+        checkedTextViewAnwer2.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
+      }
     }
 
     public bool VisibleAnswer3
     {
-      set { throw new NotImplementedException(); }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer3 =
+         FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer3);
+        checkedTextViewAnwer3.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
+      }
     }
 
     public bool VisibleAnswer4
     {
-      set { throw new NotImplementedException(); }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer4 =
+         FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer4);
+        checkedTextViewAnwer4.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
+      }
     }
 
     public bool VisibleAnswer5
     {
-      set { throw new NotImplementedException(); }
+      set
+      {
+        CheckedTextView checkedTextViewAnwer5 =
+         FindViewById<CheckedTextView>(Resource.Id.checkedTextViewAnswer5);
+        checkedTextViewAnwer5.Visibility = value ? ViewStates.Visible : ViewStates.Invisible;
+      }
     }
   }
 }

@@ -30,3 +30,9 @@ C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\QuizManager
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\QuizManager\obj\Debug\QuizManager.pdb
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\QuizManager\obj\Debug\QuizManager.dll.mdb
 C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\QuizManager\bin\Debug\QuizManager.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\QuizManager\obj\Debug\QuizManager.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\QuizManager\bin\Debug\QuizManager.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\QuizManager\obj\Debug\QuizManager.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\QuizManager\bin\Debug\QuizManager.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\QuizManager\obj\Debug\QuizManager.dll.mdb
+C:\Users\jakub.czabator\Documents\GitHub\AQuA\AndroidQuizApplication\QuizManager\bin\Debug\QuizManager.dll.mdb

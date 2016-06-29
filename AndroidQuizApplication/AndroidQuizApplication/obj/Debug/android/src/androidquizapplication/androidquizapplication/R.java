@@ -14,9 +14,9 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
-        public static final int button1=0x7f050008;
-        public static final int button2=0x7f050009;
-        public static final int button3=0x7f05000a;
+        public static final int buttonCheck=0x7f050008;
+        public static final int buttonNext=0x7f05000a;
+        public static final int buttonQuestionLearned=0x7f050009;
         public static final int buttonStart=0x7f050000;
         public static final int checkedTextViewAnswer1=0x7f050003;
         public static final int checkedTextViewAnswer2=0x7f050004;
