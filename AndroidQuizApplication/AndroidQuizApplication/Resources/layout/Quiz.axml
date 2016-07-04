@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="50.0dp"
         android:id="@+id/checkBoxAnswer1"
-        android:background="#aaff00"
+        android:background="#ffeeaa"
         android:textColor="#000000"
         android:buttonTint="#f0f8ffff" />
     <CheckBox
@@ -23,7 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="50.0dp"
         android:id="@+id/checkBoxAnswer2"
-        android:background="#ffaa00"
+        android:background="#eaeaea"
         android:textColor="#000000"
         android:buttonTint="#ffffffff" />
     <CheckBox
@@ -31,21 +31,21 @@
         android:layout_width="match_parent"
         android:layout_height="50.0dp"
         android:id="@+id/checkBoxAnswer3"
-        android:background="#aaff00"
+        android:background="#ffeeaa"
         android:textColor="#000000" />
     <CheckBox
         android:text="CheckBox"
         android:layout_width="match_parent"
         android:layout_height="50.0dp"
         android:id="@+id/checkBoxAnswer4"
-        android:background="#ffbb00"
-        android:textColor="#000000" />
+        android:textColor="#000000"
+        android:background="#eaeaea" />
     <CheckBox
         android:text="CheckBox"
         android:layout_width="match_parent"
         android:layout_height="50.0dp"
         android:id="@+id/checkBoxAnswer5"
-        android:background="#aaff00"
+        android:background="#ffeeaa"
         android:textColor="#000000" />
     <Button
         android:text="Sprawdź"
